@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "谷纪豪\nGU JIAHO"
+  name             : "谷纪豪"
   avatar           : "profile.png"
   bio              : "Stay hungry. Stay foolish."
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : 2538687324@qq.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
