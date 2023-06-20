@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GU JIHAO/Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "GU JIAHO"
 description              : &description "Undergraduate in CS, Hefei University of Technology"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "谷纪豪 GU JIAHO"
+  name             : "谷纪豪\nGU JIAHO"
   avatar           : "profile.png"
   bio              : "Stay hungry. Stay foolish."
   location         : "Beijing, China"
