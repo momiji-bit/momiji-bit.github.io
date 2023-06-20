@@ -1,6 +1,6 @@
 ---
 title: "Memories in 2022"
-excerpt: "Memories in 2022<br/><img src='/images/img1.jpg'>"
+excerpt: "Memories in 2022<br/><img src='/images/img1.png'>"
 collection: portfolio
 ---
 
