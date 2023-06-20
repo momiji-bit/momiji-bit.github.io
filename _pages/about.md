@@ -18,17 +18,17 @@ For more info about me you can check my [CV](https://momiji-bit.github.io/cv/).
 
 # RESEARCH PROJECT
 - **Research on End-to-End Sign Language Recognition based on Transformer**, 12/2022-Now
-    *Project Member*
+  *Project Member*
     - Optimised the original network model to achieve end-to-end sign language recognition performance optimisation and improve translation accuracy and reduce word error rate
     - Read relevant papers, used the original paper model built by pytorch toolkit, trained data set to achieve results close to WER and BLEU on the validation set and the test set in the original paper, recorded training data and analysed results
 
-- **A Travel Navigation System for the Visually Impaired based on Image Cognitive Environment**, 06/2022-Now    
-    *Project Leader* 
+- **A Travel Navigation System for the Visually Impaired based on Image Cognitive Environment**, 06/2022-Now
+  *Project Leader* 
     - Responsible for hardware and software development for positioning, 5G communication, TCP protocol server client communication, road marking and data collection, software development for target 2D mapping, navigation route recommendation and spatial positioning, and 3D modelling
     - Mastered the management, development and maintenance of large-scale software projects, used python and third-party packages, such as pytorch and tensorflow, to build functions, including object detection, semantic segmentation, multi-object detection, binocular ranging, speech recognition and spatial mapping
 
 - **A Device for Assisting the Visually Impaired to Travel based on Image Recognition Technology**, 2021-2022
-    *Project Member*
+  *Project Member*
     - Responsible for target detection, semantic segmentation, binocular ranging, collision warning, and target tracking
     - Obtained the honour of school-level excellent project and two patents
 
@@ -45,14 +45,17 @@ For more info about me you can check my [CV](https://momiji-bit.github.io/cv/).
 - **Excellent Prize** in Big Writing Event Under One Topic, 2021 & 2022
 - **The Third Prize** in the 17th Hefei University of Technology Programming Competition, 11/2021
 - **The Third Prize** in the School of Computer and Information’s Fun Code Competition, 03/2021
+
 ## Patent:
 - An Obstacle Avoidance Travel Assistance System for the Blind V1.0, 05/2023
 - A Route Planning Method for Visually Impaired People based on Weighted Undirected Graphs, 03/2023
 - A Collision Warning Method based on Image Target Detection and Visual Depth Estimation, 02/2023
 - An Outdoor Visually Impaired Assistance Method based on Deep Intelligent Interaction, 04/2022
 - An Optimal Direction Shift Warning System and Method based on Semantic Segmentation, 04/2022
+
 ## Certificate:
 - Huawei Big Data Skill Certification (Use DLI Flink SQL for e-commerce real-time business data analysis), 07/2022
+
 ## Honour:
 - Merit Student of the Academic Year of 2022, 11/2022
 - The Second Scholarship of the Academic Year of 2022, 11/2022
