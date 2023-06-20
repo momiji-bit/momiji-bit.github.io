@@ -64,10 +64,7 @@ redirect_from:
 
 - 🥇**Golden Prize** of Innovation Group in the 9th “Internet +” College Students’ Innovation and Entrepreneurship Competition, 06/2023
 - 🥈**The Second Prize** in the “Challenge Cup” College Students’ Extracurricular Academic Science and Technology Work Competition, Campus Qualification Trial, 05/2023
-- 🥉**The Third Prize** in Anhui Robot and AI Competition and China
-
- Robot and AI Competition (Anhui), 05/2023
-
+- 🥉**The Third Prize** in Anhui Robot and AI Competition and China Robot and AI Competition (Anhui), 05/2023
 - 🥉**Bronze Prize** of Innovation Group in the 8th “Internet +” College Students’ Innovation and Entrepreneurship Competition, 06/2022
 - 🥉**The Third Prize** in College Students’ Computer Design Competition on Campus, 05/2022
 - 🏅**Excellent Prize** in Big Writing Event Under One Topic, 2021 & 2022
@@ -122,9 +119,7 @@ redirect_from:
 
     *Member*
 
-    - Operated the school’s public WeChat account and Weibo account and edited
-
- publicity videos 📹
+    - Operated the school’s public WeChat account and Weibo account and edited publicity videos 📹
     - Participated in planning and arranging group day activities, and took publicity photos 📸
     - Organised red training, volunteer activities and the school’s competitions 🏆
 
