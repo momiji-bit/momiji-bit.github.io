@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en_US"
-title                    : "谷纪豪 GuJihao 🌟 Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "GuJihao"
 description              : &description "Undergraduate in CS, Hefei University of Technology"
