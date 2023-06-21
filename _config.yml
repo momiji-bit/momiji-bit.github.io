@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en_US"
-title                    : "谷纪豪 Gu Jihao 🌟 Homepage"
+title                    : "谷纪豪 GuJihao 🌟 Homepage"
 title_separator          : "-"
-name                     : &name "GU JIAHO"
+name                     : &name "GuJihao"
 description              : &description "Undergraduate in CS, Hefei University of Technology"
 url                      : https://momiji-bit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
