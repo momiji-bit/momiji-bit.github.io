@@ -87,6 +87,8 @@ redirect_from:
 
 ## 🎈 Extracurricular Experience
 
+![Extracurricular Experience](/images/Extracurricular Experience.png)
+
 - 🎪 **The 28th, 29th and 30th Science and Technology Culture Festivals** *(2021, 2022, 2023)*
     - Publicity Planning Member
 - 📻 **The 20th and 21st Radio Direction-Finding Competitions** *(2020, 2021)*
@@ -97,8 +99,6 @@ redirect_from:
     - Member
 - 🎥 **Hefei University of Technology New Media Centre** *(09/2020-12/2020)*
     - Member
-
-![Extracurricular Experience](/images/Extracurricular Experience.png)
 
 ---
 
