@@ -87,11 +87,16 @@ redirect_from:
 
 ## 🎈 Extracurricular Experience
 
-- 🎪 The 28th, 29th and 30th Science and Technology Culture Festivals, 2021; 2022; 2023 | Publicity Planning Member
-- 📻 The 20th and 21st Radio Direction-Finding Competitions, 2020; 2021 | Publicity Planning Member
-- 🚗 Hefei University of Technology Yueying Fleet, 10/2020-01/2021 | Member of Car Body Part
-- 🎓 Student Union of School of Computer Science and Information Engineering, 09/2020-03/2021 | Member
-- 🎥 Hefei University of Technology New Media Centre, 09/2020-12/2020 | Member
+- 🎪 **The 28th, 29th and 30th Science and Technology Culture Festivals** *(2021, 2022, 2023)*
+    - Publicity Planning Member
+- 📻 **The 20th and 21st Radio Direction-Finding Competitions** *(2020, 2021)*
+    - Publicity Planning Member
+- 🚗 **Hefei University of Technology Yueying Fleet** *(10/2020-01/2021)*
+    - Member of Car Body Part
+- 🎓 **Student Union of School of Computer Science and Information Engineering** *(09/2020-03/2021)*
+    - Member
+- 🎥 **Hefei University of Technology New Media Centre** *(09/2020-12/2020)*
+    - Member
 
 ![Extracurricular Experience](/images/Extracurricular Experience.png)
 
