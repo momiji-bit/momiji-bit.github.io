@@ -26,6 +26,8 @@ redirect_from:
 
 [🔗 Check out my CV for more about me!](https://momiji-bit.github.io/cv/)
 
+![main](/images/img1.png)
+
 ---
 
 ## 📚 Research Projects
