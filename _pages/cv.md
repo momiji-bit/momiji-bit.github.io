@@ -14,9 +14,9 @@ redirect_from:
 
     *Bachelor Degree of Engineering in Computer Science and Technology* 💻
 
-    Average Score: 89.66% ✔️
+    Average Score: 89.96% ✔️
 
-    Rank: 13/151 🏆
+    Rank: 10/151 🏆
 
 
 # 💼 PROFESSIONAL EXPERIENCE
