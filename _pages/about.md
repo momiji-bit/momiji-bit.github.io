@@ -124,6 +124,14 @@ redirect_from:
 
   <img src="/images/华为认证.png" alt="华为认证" style="width: 50%;" />
 
+### undergraduate grade 本科成绩
+
+- **GPA: 3.86/4.3**
+- **performance: 90.0/100**
+- **Rank: 10/151**
+
+<img src="/images/英文成绩单.png" alt="英文成绩单" style="width: 50%;"/><img src="/images/中文成绩单.png" alt="英文成绩单" style="width: 50%;"/>
+
 ### After school 课后活动
 
 - **F1 in schools** [F1 IN SCHOOLS GLOBAL - Home](https://www.f1inschools.com/)
@@ -132,17 +140,17 @@ redirect_from:
 
   - **Fastest racing car Award in senior Middle School group**
 
-    **<img src="C:\Users\gujih\Desktop\硕士申请\Doc\high school\Scan_20230727 (4).png" alt="Scan_20230727 (4)" style="width: 50%;" /><img src="C:\Users\gujih\Desktop\硕士申请\Doc\high school\Scan_20230727 (5).png" alt="Scan_20230727 (5)" style="width: 50%;" />**
+    **<img src="/images/FIS 1.png" alt="Scan_20230727 (4)" style="width: 50%;" /><img src="/images/FIS 2.png" alt="Scan_20230727 (5)" style="width: 50%;" />**
 
   - **First prize in senior Middle School group**
 
   - **Reaction match Champion  in senior Middle School group**
 
-    **<img src="C:\Users\gujih\Desktop\硕士申请\Doc\high school\Scan_20230727 (6).png" alt="Scan_20230727 (6)" style="width: 50%;" /><img src="C:\Users\gujih\Desktop\硕士申请\Doc\high school\Scan_20230727 (7).png" alt="Scan_20230727 (7)" style="width: 50%;" />**
+    **<img src="/images/FIS 3.png" alt="Scan_20230727 (6)" style="width: 50%;" /><img src="/images/FIS 4.png" alt="Scan_20230727 (7)" style="width: 50%;" />**
 
   - **Second prize in senior Middle School group**
 
-    <img src="/images/FIS 1.png" alt="FIS 1" style="width: 50%;" />
+    <img src="/images/FIS 5.png" alt="FIS 1" style="width: 50%;" />
 
 - **Bilibili video blogger B站小up主** [My Channel](https://space.bilibili.com/11379712)
 
