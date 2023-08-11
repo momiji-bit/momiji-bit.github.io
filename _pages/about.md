@@ -44,7 +44,7 @@ redirect_from:
 
   **Product Demo 实物展示**
 
-  <img src="divices.png" alt="divices" style="width: 70%;" />
+  <img src="/images/divices.png" alt="divices" style="width: 70%;" />
 
   **Algorithm Demo 算法展示**
 
