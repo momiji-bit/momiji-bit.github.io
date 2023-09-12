@@ -21,14 +21,78 @@ redirect_from:
 
 # 💼 PROFESSIONAL EXPERIENCE
 
+* **Shenzhen Huake Technology Co. Ltd.**, (07/2023-08/2023)
+
+  *Embedded Development Assistant*🕹️
+
+  - **Project Familiarization and Background Study: 📚**
+
+    I extensively researched the company's AI chip project, gaining insights into its context, objectives, applications, performance criteria, and design demands. I recognized the importance of AI chip design and its real-world potential.
+
+  - **Thematic Research: 📖**
+
+    During the initial month, I focused on technical knowledge acquisition related to AI chip design, including the following areas:
+
+    - Embedded Neural Network Design: 🤖
+    - Chip Architecture and Innovation: 🏗️
+    - Instruction Sets: 💡
+    - Verilog Programming: 🧰
+    - Power Optimization: ⚡
+
+  - **Chip Design Project: 🚀**
+
+    - Initial AI Chip Design: 🧩
+
+      In the AI chip design project, I actively contributed to the design and optimization of the processing unit based on RISC-V architecture, covering key aspects:
+
+      - Architecture Selection: 🏗️
+      - Processing Unit Design: 💻
+      - Instruction Set Optimization: 🛠️
+
+      - Verilog Programming: 📦
+
+        In the project, I actively applied Verilog hardware description language to create modules for various AI chip functions, including:
+
+        - Instruction Decoder: 🧾
+        - Data Path: 🗃️
+        - State Machine: 🔄
+        - Waveform Simulation: 🌊
+
+  
+
+* **Beijing Tuosida Technology Development Co. Ltd.**, (03/2023-06/2023)
+
+  *Algorithm development assistant* 🧮
+
+  - **Participation in Advanced Driving Technology Development: 🚗**
+
+    1. APA (Automated Parking Assist) - Automated Parking Assistance: 🅿️
+       - In my first month of the internship, I worked on the APA project, which focuses on helping drivers park automatically.
+       - APA uses ultrasonic sensors and cameras to detect obstacles and available parking spaces.
+       - I handled data annotation, model testing, and data logging for this project.
+       - I also contributed to optimizing parking and object detection using advanced algorithms.
+    2. HPP (Highway Pilot Program) - Highway Autonomous Driving: 🛣️
+       - HPP is designed for autonomous driving on highways.
+       - It uses cameras and radar to monitor surroundings and perform tasks like lane keeping and lane changing.
+       - I gained knowledge about radar and annotated datasets for this project.
+       - I also learned to use the CARLA simulation environment for testing.
+
+    **Report and Document Writing: 📝**
+
+    - I wrote clear technical documents detailing perception algorithm design, implementation, and performance evaluation.
+    - I shared algorithm development progress and results with the team to facilitate knowledge sharing.
+
+  
+
 * **Beijing Tuosida Technology Development Co., Ltd.**, 01/2023-02/2023
 
-    *Python Development Engineer Assistant in Technology Department* 💡
+  *Python Development Engineer Assistant in Technology Department* 💡
 
-    - Learned and used Python related technologies and frameworks, such as Django, Flask, Pandas, and Numpy, and improved programming ability and technical level 📚
-    - Learned basic concepts and methods of machine learning and used technologies and frameworks related to machine learning like PyTorch and TensorFlow 🧠
-    - Participated in the development of machine learning projects, including data preprocessing, feature engineering, model construction, model training, model evaluation, and model optimisation 👨‍💻
-    - Wrote, maintained, and ensured the integrity and accuracy of system documents, such as requirements documents, design documents, and test documents 📄
+  - Learned and used Python related technologies and frameworks, such as Django, Flask, Pandas, and Numpy, and improved programming ability and technical level 📚
+  - Learned basic concepts and methods of machine learning and used technologies and frameworks related to machine learning like PyTorch and TensorFlow 🧠
+  - Participated in the development of machine learning projects, including data preprocessing, feature engineering, model construction, model training, model evaluation, and model optimisation 👨‍💻
+  - Wrote, maintained, and ensured the integrity and accuracy of system documents, such as requirements documents, design documents, and test documents 📄
+
 
 
 # 🧪 RESEARCH PROJECT
