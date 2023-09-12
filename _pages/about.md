@@ -54,10 +54,18 @@ redirect_from:
 
 # 💼 PROFESSIONAL EXPERIENCE 实习经历
 
-- **Beijing Tuosida Technology Development Co., Ltd.**, *(01/2023-02/2023)* 
+- **Shenzhen Huake Technology Co. Ltd.**, (07/2023-08/2023)
+
+  *Embedded Development Assistant*🕹️
+
+- **Beijing Tuosida Technology Development Co. Ltd.**, (03/2023-06/2023)
+
+  *Algorithm development assistant* 🧮
+
+- **Beijing Tuosida Technology Development Co. Ltd.**, *(01/2023-02/2023)* 
 
   *Python Development Engineer Assistant in Technology Department* 💡
-
+  
 ---
 
 ## 🏆 Honours & Prizes 奖项
