@@ -17,8 +17,8 @@ redirect_from:
 
 🖥️ My areas of interest include: 
 
+- Artificial Intelligence
 - Computer Vision 
-- Computer Graphics 
 - Machine Learning 
 - Natural Language Processing 
 
