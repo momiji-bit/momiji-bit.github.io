@@ -54,11 +54,11 @@ redirect_from:
 
 # 💼 PROFESSIONAL EXPERIENCE 实习经历
 
-- **Shenzhen Huake Technology Co. Ltd.**, (07/2023-08/2023)
+- **Shenzhen Boshengteng Technology Co., Ltd.**, (07/2023-08/2023)
 
   *Embedded Development Assistant*🕹️
 
-- **Beijing Tuosida Technology Development Co. Ltd.**, (03/2023-06/2023)
+- **Shenzhen Boshengteng Technology Co., Ltd.**, (03/2023-06/2023)
 
   *Algorithm development assistant* 🧮
 
