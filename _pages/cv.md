@@ -146,6 +146,10 @@ redirect_from:
 
 ## Honour:
 
+- 🏅Merit Student of the Academic Year of 2023, 11/2023
+
+- 🏅The First Scholarship of the Academic Year of 2023, 11/2023
+
 - 🏅Merit Student of the Academic Year of 2022, 11/2022
 
 - 🏅The Second Scholarship of the Academic Year of 2022, 11/2022
