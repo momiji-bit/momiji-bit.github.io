@@ -1,4 +1,4 @@
----
+![image](https://github.com/momiji-bit/momiji-bit.github.io/assets/81207512/7d474016-318e-405e-87df-ed08d5636fbd)---
 permalink: /
 title: "About me 🌟"
 excerpt: "Get to know me! 😊"
@@ -30,13 +30,13 @@ redirect_from:
 
 - **Research on End-to-End Sign Language Recognition based on Transformer *(12/2022 - Now)* 🤟**
 
-  <img src="/images/x-net.png" alt="x-net" style="width: 70%;" />
+  <img src="/images/x-net.png" alt="x-net" style="width: 100%;" />
 
 - **A Travel Navigation System for the Visually Impaired based on Image Cognitive Environment *(06/2022 - Now)* 🦮**
 
   [Click here to view the source code](https://github.com/momiji-bit/HFUT-MVNS)
 
-  <img src="/images/frame.png" alt="frame" style="width: 70%;" />
+  <img src="/images/frame.png" alt="frame" style="width: 100%;" />
 
 - **A Device for Assisting the Visually Impaired to Travel based on Image Recognition Technology *(2021 - 2022)* 👓**
 
@@ -44,11 +44,11 @@ redirect_from:
 
   **Product Demo 实物展示**
 
-  <img src="/images/divices.png" alt="divices" style="width: 70%;" />
+  <img src="/images/divices.png" alt="divices" style="width: 100%;" />
 
   **Algorithm Demo 算法展示**
 
-  <img src="/images/Demo.png" alt="Demo" style="width: 70%;" />
+  <img src="/images/Demo.png" alt="Demo" style="width: 100%;" />
 
 ---
 
@@ -164,29 +164,29 @@ redirect_from:
 
   - **Second prize in senior Middle School group**
 
-    <img src="/images/FIS 5.png" alt="FIS 1" style="width: 50%;" />
+    <img src="/images/FIS 5.png" alt="FIS 1" style="width: 100%;" />
 
 - **Bilibili video blogger B站小up主** [My Channel](https://space.bilibili.com/11379712)
 
   - [『Guloo』【鋼琴】初音ミク「千本桜(千本櫻)」_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ns411X7AW/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="/images/bili 1.png" alt="bili" style="width: 50%;" />
+    <img src="/images/bili 1.png" alt="bili" style="width: 100%;" />
 
   - [银镜实验－化学实验室的日常1_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ts411t7bT/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="/images/bili 2.png" alt="bili" style="width: 50%;" />
+    <img src="/images/bili 2.png" alt="bili" style="width: 100%;" />
 
   - [［经典化学］第7期 蓝瓶子变色实验_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Us41167sQ/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="/images/bili 3.png" alt="bili" style="width: 50%;" />
+    <img src="/images/bili 3.png" alt="bili" style="width: 100%;" />
 
   - [［化学实验］第五期 自己动手制作“磁流体”_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17s41167M7/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="/images/bili 4.png" alt="bili" style="width: 50%;" />
+    <img src="/images/bili 4.png" alt="bili" style="width: 100%;" />
 
   - [［你没见过的化学实验］第四期 家中食盐竟会和硫酸铜生成强酸！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rs411k79V/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="/images/bili 5.png" alt="bili" style="width: 50%;" />
+    <img src="/images/bili 5.png" alt="bili" style="width: 100%;" />
 
 ---
 
