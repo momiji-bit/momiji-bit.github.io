@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "About me 🌟"
 excerpt: "Get to know me! 😊"
@@ -5,8 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
-
 
 ---
 
