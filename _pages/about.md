@@ -96,6 +96,10 @@ redirect_from:
 
 ### Honours 荣誉
 
+- **🏅 The First Scholarship of the Academic Year of 2023, 11/2023**
+
+- **🏅 Merit Student of the Academic Year of 2023, 11/2023**
+
 - **🏅 Merit Student of the Academic Year of 2022, 11/2022**
 
   <img src="/images/2022三好学生.png" alt="2022三好学生" style="width: 50%;" />
