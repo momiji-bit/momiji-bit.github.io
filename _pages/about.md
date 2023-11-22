@@ -74,7 +74,7 @@ redirect_from:
 
 - **🥇 Golden Prize of Innovation Group in the 9th “Internet +” College Students’ Innovation and Entrepreneurship Competition, 06/2023**
 
-  **<img src="/images/互联网+.png" alt="互联网" style="width: 50%;" />**
+  **<img src="/images/互联网+.png" alt="互联网" style="width: 100%;" />**
 
 - **🥈 The Second Prize in the “Challenge Cup” College Students’ Extracurricular Academic Science and Technology Work Competition, Campus Qualification Trial, 05/2023**
 
