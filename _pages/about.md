@@ -143,8 +143,7 @@ redirect_from:
 - **performance: 90.22/100**
 - **Rank: 10/151**
 
-<img src="/images/score.png" alt="英文成绩单" style="width: 100%;"/>
-<img src="/images/英文成绩单.png" alt="英文成绩单" style="width: 100%;"/>
+<img src="/images/score.png" alt="英文成绩单" style="width: 50%;"/><img src="/images/英文成绩单.png" alt="英文成绩单" style="width: 50%;"/>
 
 ### After school 课后活动
 
