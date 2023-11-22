@@ -162,7 +162,7 @@ redirect_from:
 
   - **Second prize in senior Middle School group**
 
-    <img src="/images/FIS 5.png" alt="FIS 1" style="width: 100%;" />
+    <img src="/images/FIS 5.png" alt="FIS 1" style="width: 50%;" />
 
 - **Bilibili video blogger B站小up主** [My Channel](https://space.bilibili.com/11379712)
 
