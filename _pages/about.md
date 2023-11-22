@@ -74,6 +74,8 @@ redirect_from:
 
 - **🥇 Golden Prize of Innovation Group in the 9th “Internet +” College Students’ Innovation and Entrepreneurship Competition, 06/2023**
 
+  **<img src="/images/互联网+.png" alt="互联网" style="width: 50%;" />**
+
 - **🥈 The Second Prize in the “Challenge Cup” College Students’ Extracurricular Academic Science and Technology Work Competition, Campus Qualification Trial, 05/2023**
 
 - **🥉 The Third Prize in Anhui Robot and AI Competition and China Robot and AI Competition (Anhui), 05/2023**
@@ -168,23 +170,23 @@ redirect_from:
 
   - [『Guloo』【鋼琴】初音ミク「千本桜(千本櫻)」_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ns411X7AW/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="https://i1.hdslb.com/bfs/archive/d8a1162fd2845cb9cd452976fea68f7eafc0e18b.jpg@320w_200h_1c_!web-space-index-myvideo.webp" alt="『Guloo』【鋼琴】初音ミク「千本桜(千本櫻)」" style="width: 50%;" />
+    <img src="/images/bili 1.png" alt="bili" style="width: 50%;" />
 
   - [银镜实验－化学实验室的日常1_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ts411t7bT/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="https://i2.hdslb.com/bfs/archive/c10cab2306820e3792167bb94b49ec0924b00fc1.jpg@320w_200h_1c_!web-space-index-myvideo.webp" alt="银镜实验－化学实验室的日常1" style="width: 50%;"/>
+    <img src="/images/bili 2.png" alt="bili" style="width: 50%;" />
 
   - [［经典化学］第7期 蓝瓶子变色实验_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Us41167sQ/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="https://i1.hdslb.com/bfs/archive/7c7a72b853e1e3b216b4dc6f6a11424177979e60.jpg@320w_200h_1c_!web-space-index-myvideo.webp" alt="［经典化学］第7期 蓝瓶子变色实验"  style="width: 50%;"  />
+    <img src="/images/bili 3.png" alt="bili" style="width: 50%;" />
 
   - [［化学实验］第五期 自己动手制作“磁流体”_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17s41167M7/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="https://i2.hdslb.com/bfs/archive/6fa7ed5cdb7e0ca607251cc0a184d349290648b9.jpg@320w_200h_1c_!web-space-index-myvideo.webp" alt="［化学实验］第五期 自己动手制作“磁流体”"  style="width: 50%;" />
+    <img src="/images/bili 4.png" alt="bili" style="width: 50%;" />
 
   - [［你没见过的化学实验］第四期 家中食盐竟会和硫酸铜生成强酸！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rs411k79V/?vd_source=0ab43116d434e3b9f4f060d2fddd8409)
 
-    <img src="https://i2.hdslb.com/bfs/archive/7c13505eec661773e15d440825f0fb68aa78d52d.jpg@320w_200h_1c_!web-space-index-myvideo.webp" alt="［化学实验］第一期 铝和硫酸铜的反应，咕噜～咕噜～"  style="width: 50%;" />
+    <img src="/images/bili 5.png" alt="bili" style="width: 50%;" />
 
 ---
 
