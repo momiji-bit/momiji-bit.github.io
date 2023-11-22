@@ -1,4 +1,3 @@
-![image](https://github.com/momiji-bit/momiji-bit.github.io/assets/81207512/7d474016-318e-405e-87df-ed08d5636fbd)---
 permalink: /
 title: "About me 🌟"
 excerpt: "Get to know me! 😊"
@@ -141,10 +140,11 @@ redirect_from:
 ### undergraduate grade 本科成绩
 
 - **GPA: 3.86/4.3**
-- **performance: 90.0/100**
+- **performance: 90.22/100**
 - **Rank: 10/151**
 
-<img src="/images/英文成绩单.png" alt="英文成绩单" style="width: 50%;"/><img src="/images/中文成绩单.png" alt="英文成绩单" style="width: 50%;"/>
+<img src="/images/score.png" alt="英文成绩单" style="width: 100%;"/>
+<img src="/images/英文成绩单.png" alt="英文成绩单" style="width: 100%;"/>
 
 ### After school 课后活动
 
