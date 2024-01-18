@@ -100,15 +100,17 @@ redirect_from:
 
 - **🏅 Merit Student of the Academic Year of 2023, 11/2023**
 
-- **🏅 Merit Student of the Academic Year of 2022, 11/2022**
+  <img src="/images/2023奖学金.png" alt="2023奖学金" style="width: 50%;" /><img src="/images/2023三好学生.png" alt="2023三好学生" style="width: 50%;" />
 
-  <img src="/images/2022三好学生.png" alt="2022三好学生" style="width: 50%;" />
+- **🏅 Merit Student of the Academic Year of 2022, 11/2022**
 
 - **🏅 The Second Scholarship of the Academic Year of 2022, 11/2022**
 
+  <img src="/images/2022奖学金.png" alt="2022奖学金" style="width: 50%;" /><img src="/images/2022三好学生.png" alt="2022三好学生" style="width: 50%;" />
+
 - **🏅 The Second Scholarship of the Academic Year of 2021, 11/2021**
 
-  <img src="/images/2022奖学金.png" alt="2022奖学金" style="width: 50%;" /><img src="/images/2021奖学金.png" alt="2021奖学金" style="width: 50%;" />
+  <img src="/images/2021奖学金.png" alt="2021奖学金" style="width: 50%;" />
 
 ### Patents 专利
 
