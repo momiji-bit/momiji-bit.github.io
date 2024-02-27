@@ -26,6 +26,8 @@ redirect_from:
 
 # 🧪 Research Projects 研究项目
 
+- **Research on vision localization *(1/2024 - Now)* 🧭**
+
 - **Research on End-to-End Sign Language Recognition based on Transformer *(12/2022 - Now)* 🤟**
 
   <img src="/images/x-net.png" alt="x-net" style="width: 100%;" />
