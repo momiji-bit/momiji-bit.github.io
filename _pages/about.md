@@ -124,7 +124,7 @@ redirect_from:
 
 - **📜 An Optimal Direction Shift Warning System and Method based on Semantic Segmentation, 04/2022**
 
-  <img src="/images/专利1.png" alt="专利1-1"  style="width: 50%;" /><img src="/images/专利2.png" alt="专利2" style="width: 50%;" />
+  <img src="/images/专利1-1.png" alt="专利1-1"  style="width: 50%;" /><img src="/images/专利2.png" alt="专利2" style="width: 50%;" />
 
 ### Software copyright 软著
 
