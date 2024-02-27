@@ -86,6 +86,12 @@ redirect_from:
 
 # 🧪 RESEARCH PROJECT
 
+- **Research on vision localization**, 1/2042-Now 🧭
+
+  *Project Leader*
+
+  - Plan to contribute to AAAI24
+
 - **Research on End-to-End Sign Language Recognition based on Transformer**, 12/2022-Now 🤟
 
   *Project Member*
@@ -107,6 +113,9 @@ redirect_from:
   - Responsible for target detection, semantic segmentation, binocular ranging, collision warning, and target tracking 👀
   - Obtained the honour of school-level excellent project and two patents 👏
 
+# 📚 Professional Service
+- **Subreviewer for SIGIR'24** (February 2024)
+  - Served as a subreviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'24), one of the premier conferences in the field of information retrieval.
 
 # 🏅 HONOUR & PRIZE
 
