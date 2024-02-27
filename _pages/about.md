@@ -52,6 +52,12 @@ redirect_from:
 
 ---
 
+# 📚 Professional Service
+- **Subreviewer for SIGIR'24** (February 2024)
+  - Served as a subreviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'24), one of the premier conferences in the field of information retrieval.
+
+---
+
 # 💼 PROFESSIONAL EXPERIENCE 实习经历
 
 - **Shenzhen Boshengteng Technology Co., Ltd.**, (07/2023-08/2023)
