@@ -19,7 +19,7 @@ redirect_from:
 
 - **Hefei University of Technology**, 09/2020 - 07/2024
 
-- *BEng in Computer Science and Technology*
+  *BEng in Computer Science and Technology*
 
   - Average Score: 90.22%
 
