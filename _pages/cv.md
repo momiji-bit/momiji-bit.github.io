@@ -80,7 +80,7 @@ redirect_from:
   - 🥉 The Third Prize in the 17th Hefei University of Technology Programming Competition, 11/2021
   - 🥉 The Third Prize in the School of Computer and Information’s Fun Code Competition, 03/2021
 
-  **Certificate:**
+- **Certificate:**
 
   - 🎓 Huawei Big Data Skill Certification (Use DLI Flink SQL for e-commerce real-time business data analysis), 07/2022
 
