@@ -21,9 +21,9 @@ redirect_from:
 
   *BEng in Computer Science and Technology*
 
-  - Average Score: 90.22%
+  - Average Score: 90.1%, 3.85/4.0
 
-  - Rank: 10/151
+  - Rank: 5/152
 
 ------
 
