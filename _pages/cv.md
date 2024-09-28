@@ -6,10 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 
+
+
 ---
 
-
-### 📚 EDUCATION BACKGROUND
+## 📚 EDUCATION BACKGROUND
 
 **University College London**, 09/2024 - Present
 *MSc in Artificial Intelligence for Sustainable Development*
@@ -22,7 +23,7 @@ redirect_from:
 
 ------
 
-### 🧪 RESEARCH
+## 🧪 RESEARCH
 
 **VQA Counting Improvement**, 06/2024 - Present
 *Project Leader*
@@ -51,7 +52,7 @@ redirect_from:
 
 ------
 
-### 💼 PROFESSIONAL EXPERIENCE
+## 💼 PROFESSIONAL EXPERIENCE
 
 **Shenzhen Boshengteng Technology Co., Ltd.**
 *Embedded Development Assistant*, 07/2023 - 08/2023
@@ -73,7 +74,7 @@ redirect_from:
 
 ---
 
-### 🏅 HONOURS & AWARDS
+## 🏅 HONOURS & AWARDS
 
 - **Honour:**
   - 🏅 Merit Student of the Academic Year of 2023, 11/2023
@@ -107,7 +108,7 @@ redirect_from:
 
 ------
 
-### 🔧 TECHNICAL SKILLS
+## 🔧 TECHNICAL SKILLS
 
 - **Programming**: C, C++, Python, Verilog, Java, JavaScript, HTML
 - **Computer Vision**: Object detection, semantic segmentation, multi-object tracking
