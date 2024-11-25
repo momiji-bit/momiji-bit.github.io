@@ -9,14 +9,13 @@ redirect_from:
 
 ---
 
-🎓 I'm currently pursuing an [MSc in Computer Graphics, Vision and Imaging](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc/2024) at the [UCL Department of Computer Science](https://www.ucl.ac.uk/computer-science/ucl-computer-science).
+🎓 I'm currently pursuing an [MSc in Computer Graphics, Vision and Imaging](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc/2024) at the [UCL Department of Computer Science](https://www.ucl.ac.uk/computer-science/ucl-computer-science). I pursued a Bachelor's degree in [Computer Science and Technology](https://ci.hfut.edu.cn/) at [Hefei University of Technology](https://www.hfut.edu.cn/).
 
 🎯 I'm deeply passionate about exploring the intersections of technology and sustainability.
 
 🖥️ My areas of interest include:
 
 - Multi-modal
-
 - Computer Vision
 - Machine Learning
 - Natural Language Processing
