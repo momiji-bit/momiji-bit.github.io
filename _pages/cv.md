@@ -199,17 +199,17 @@ redirect_from:
 
   - 优化基于神经网络的视觉定位方法OrienterNet，该方法利用二维公开地图（如平面地图）进行准确定位，特别解决了室内及复杂城市环境中GPS失效的场景。
 
-- **SIGIR’24 会议审稿员 (Sub-reviewer for SIGIR’24)**，2024年2月
+- **SIGIR’24 会议副审稿员 (Sub-reviewer for SIGIR’24)**，2024年2月
 
-  - 作为第47届ACM国际信息检索会议（SIGIR’24）的分审，评审了相关学术论文。
+  - 作为第47届ACM国际信息检索会议（SIGIR’24）的副审稿员，评审了相关学术论文。
 
-- **基于Transformer的手语识别端到端研究 (End-to-End Sign Language Recognition using Transformers)**，2022年12月 - 至今
+- **基于Transformer的手语识别端到端研究**，2022年12月 - 至今
 
   *研究员*, [LMC-VUT (Lab)](https://vut-hfut.github.io/index_chinese.html)
 
   - 基于Transformer的手语识别模型进行优化，提高了翻译准确率并降低了词错误率（WER）。
 
-- **基于视觉环境感知的视障人士出行导航系统（本科毕业设计） (Travel Navigation System for the Visually Impaired)**，2021年6月 - 2024年6月
+- **基于视觉环境感知的视障人士出行导航系统（本科毕业设计）**，2021年6月 - 2024年6月
 
   *项目负责人*, [郭丹 (导师)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
