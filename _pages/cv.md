@@ -181,19 +181,19 @@ redirect_from:
 
 ## 🧪 科研经历
 
-- **微动作识别的研究 (Research on Micro-Action Recognition)**，2024年10月 - 至今
+- **微动作识别的研究**，2024年10月 - 至今
 
   *协作研究员*
 
   - 探索基于Adapter的模型调优方法，替代传统的Fine-tuning范式，以降低参数更新成本，提高从图像到视频的迁移学习效率。
 
-- **传统视觉问答（VQA）模型在有限计算资源下的性能分析 (Performance Analysis of Traditional VQA Models Under Limited Computational Resources)**，2024年6月 - 至今
+- **传统视觉问答（VQA）模型在有限计算资源下的性能分析**，2024年6月 - 至今
 
   *第一作者*
 
   - 研究在实际应用中如何在有限计算资源下高效整合视觉与文本信息解决视觉问答问题，特别是数值和计数类问题。论文探讨了基于双向GRU（BidGRU）、GRU、双向LSTM（BidLSTM）和卷积神经网络（CNN）的模型在不同词汇量、调优策略及嵌入维度下的性能表现。实验表明，具有300维嵌入和3000词汇量的BidGRU模型在不增加额外计算开销的情况下表现最佳。消融实验强调了注意力机制和计数信息在处理复杂推理任务中的重要性。本研究为有限计算能力环境下更高效的VQA模型开发提供了宝贵的见解。
 
-- **提升OrienterNet在视觉定位中的基准性能 (Enhancing the Baseline Performance of OrienterNet for Visual Localization)**，2024年1月 - 2024年6月
+- **提升OrienterNet在视觉定位中的基准性能**，2024年1月 - 2024年6月
 
   *协作研究员*，[严达（导师）](https://homes.luddy.indiana.edu/yanda/home.html)
 
