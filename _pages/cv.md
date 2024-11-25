@@ -157,11 +157,16 @@ redirect_from:
 ## 📚 教育背景
 
 - **伦敦大学学院 (University College London)**，2024年9月 - 至今
+
   ***计算机图形学、视觉与成像硕士 (MSc in Computer Graphics, Vision and Imaging)***
+
   - **必修课程**：机器视觉、图像处理、计算机图形学、视觉计算中的机器学习、虚拟环境
   - **选修课程**：成像中的逆问题、3D几何的获取与处理、数值优化
+
 - **合肥工业大学 (Hefei University of Technology)**，2020年9月 - 2024年7月
+
   ***计算机科学与技术学士 (BEng in Computer Science and Technology)***
+
   - 成绩：90.10%，3.85/4.0
   - 排名：5/152
 
@@ -170,21 +175,37 @@ redirect_from:
 ## 🧪 科研经历
 
 - **微动作识别的研究 (Research on Micro-Action Recognition)**，2024年10月 - 至今
+
   *协作研究员*
+
   - 探索基于Adapter的模型调优方法，替代传统的Fine-tuning范式，以降低参数更新成本，提高从图像到视频的迁移学习效率。
+
 - **传统视觉问答（VQA）模型在有限计算资源下的性能分析 (Performance Analysis of Traditional VQA Models Under Limited Computational Resources)**，2024年6月 - 至今
+
   *第一作者*
+
   - 研究在实际应用中如何在有限计算资源下高效整合视觉与文本信息解决视觉问答问题，特别是数值和计数类问题。论文探讨了基于双向GRU（BidGRU）、GRU、双向LSTM（BidLSTM）和卷积神经网络（CNN）的模型在不同词汇量、调优策略及嵌入维度下的性能表现。实验表明，具有300维嵌入和3000词汇量的BidGRU模型在不增加额外计算开销的情况下表现最佳。消融实验强调了注意力机制和计数信息在处理复杂推理任务中的重要性。本研究为有限计算能力环境下更高效的VQA模型开发提供了宝贵的见解。
+
 - **提升OrienterNet在视觉定位中的基准性能 (Enhancing the Baseline Performance of OrienterNet for Visual Localization)**，2024年1月 - 2024年6月
+
   *协作研究员*，导师：[严达](https://homes.luddy.indiana.edu/yanda/home.html)
+
   - 优化基于神经网络的视觉定位方法OrienterNet，该方法利用二维公开地图（如平面地图）进行准确定位，特别解决了室内及复杂城市环境中GPS失效的场景。
+
 - **SIGIR’24 会议审稿员 (Sub-reviewer for SIGIR’24)**，2024年2月
+
   - 作为第47届ACM国际信息检索会议（SIGIR’24）的分审，评审了相关学术论文。
+
 - **基于Transformer的手语识别端到端研究 (End-to-End Sign Language Recognition using Transformers)**，2022年12月 - 至今
+
   *研究员*
+
   - 基于Transformer的手语识别模型进行优化，提高了翻译准确率并降低了词错误率（WER）。
+
 - **面向视障人士的出行导航系统（本科毕业设计） (Travel Navigation System for the Visually Impaired)**，2021年6月 - 2024年6月
+
   *项目负责人*
+
   - 开发了基于图像认知环境的导航系统，涵盖3D建模、目标检测和空间映射。
   - 专注于目标检测、语义分割及碰撞预警，项目获校级奖项并申请两项专利。
 
@@ -221,16 +242,24 @@ redirect_from:
 
 ## 💼 专业经历
 
-- **深圳市博锶腾科技有限公司 (Shenzhen Boshengteng Technology Co., Ltd.)**
-  *嵌入式开发助理*，2023年7月 - 2023年8月
+- **深圳市博锶腾科技有限公司 (Shenzhen Boshengteng Technology Co., Ltd.)**，2023年7月 - 2023年8月
+
+  *嵌入式开发助理*
+
   - 研究AI芯片设计，专注于嵌入式神经网络设计、RISC-V架构、Verilog编程和功耗优化。
   - 参与AI芯片处理单元的设计与优化，包括架构选择、指令集优化及Verilog模块实现。
-- **深圳市博锶腾科技有限公司 (Shenzhen Boshengteng Technology Co., Ltd.)**
-  *算法开发助理*，2023年3月 - 2023年6月
+
+- **深圳市博锶腾科技有限公司 (Shenzhen Boshengteng Technology Co., Ltd.)**，2023年3月 - 2023年6月
+
+  *算法开发助理*
+
   - 参与APA和HPP项目的高级驾驶技术，负责数据标注、模型测试及停车和目标检测算法的优化。
   - 编写感知算法技术文档，涵盖设计、实现与评估。
-- **北京拓思达科技发展有限公司 (Beijing Tuosida Technology Development Co., Ltd.)**
-  *Python开发工程师助理*，2023年1月 - 2023年2月
+
+- **北京拓思达科技发展有限公司 (Beijing Tuosida Technology Development Co., Ltd.)**，2023年1月 - 2023年2月
+
+  *Python开发工程师助理*
+
   - 使用PyTorch和TensorFlow开发机器学习模型，包括数据预处理、特征工程和模型评估。
   - 编写系统需求、设计规范和测试协议文档。
 
