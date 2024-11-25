@@ -54,7 +54,7 @@ redirect_from:
   - Served as a sub-reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’24), one of the premier conferences in the field of information retrieval.
 
 - **End-to-End Sign Language Recognition using Transformers**, 12/2022 - Present
-  *Researcher*
+  *Researcher*, [LMC-VUT Lab](https://vut-hfut.github.io/index_chinese.html)
 
   - Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
 
