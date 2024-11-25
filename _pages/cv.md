@@ -18,14 +18,14 @@ redirect_from:
 
   ***MSc** in Computer Graphics, Vision and Imaging*
 
-  - **Compulsory modules**: Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing, Virtual Environments
-  - **Optional modules**: Inverse Problems in Imaging, Acquisition and Processing of 3D Geometry, Numerical Optimisation.
+  - **Compulsory modules**: Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing
+  - **Optional modules**: Inverse Problems in Imaging, Acquisition and Processing of 3D Geometry, Numerical Optimisation, Virtual Environments.
 
 - **Hefei University of Technology** (Project 211), 09/2020 - 06/2024
 
   ***BEng** in Computer Science and Technology*
 
-  - Score: 90.10%, 3.85/4.0
+  - **Score**: 90.10%, 3.85/4.0
 
   - Rank: 5/152
 
@@ -167,8 +167,8 @@ redirect_from:
 
   ***计算机图形学、视觉与成像硕士 (MSc in Computer Graphics, Vision and Imaging)***
 
-  - **必修课程**：机器视觉、图像处理、计算机图形学、视觉计算中的机器学习、虚拟环境
-  - **选修课程**：成像中的逆问题、3D几何的获取与处理、数值优化
+  - **必修课程**：机器视觉、图像处理、计算机图形学、视觉计算中的机器学习
+  - **选修课程**：成像中的逆问题、3D几何的获取与处理、数值优化、虚拟环境
 
 - **合肥工业大学** （211院校），2020年9月 - 2024年6月
 
