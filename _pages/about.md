@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-🎓 I'm currently pursuing an [MSc in Artificial Intelligence for Sustainable Development](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/artificial-intelligence-sustainable-development-msc)(https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc/2024) at the [UCL Department of Computer Science](https://www.ucl.ac.uk/computer-science/ucl-computer-science).
+🎓 I'm currently pursuing an [MSc in Artificial Intelligence for Sustainable Development ](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/artificial-intelligence-sustainable-development-msc)at the [UCL Department of Computer Science](https://www.ucl.ac.uk/computer-science/ucl-computer-science).
 
 🎯 I'm deeply passionate about exploring the intersections of technology and sustainability.
 
