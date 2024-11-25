@@ -65,9 +65,11 @@ redirect_from:
 
   *Project Leader*, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
-  - Developed a navigation system using image cognitive environments, involving 3D modeling, object detection, and spatial mapping.
+  - This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. Spatial awareness is enhanced through 3D audio feedback. The hardware configuration includes an OAK-D-PRO camera, a head-mounted headset, a Raspberry Pi 5, and a Quectel RM500Q-GL module, with cloud servers employed for efficient data processing. 
 
-  - Focused on target detection, semantic segmentation, and collision warning, earning school-level awards and two patents.
+  - The primary contributions of this thesis are as follows: (1) the design and implementation of a navigation system based on visual environmental perception; (2) the proposal of a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals; (3) the development of an offset warning system leveraging semantic segmentation techniques; (4) the introduction of a collision warning method utilizing image-based object detection and visual depth estimation; (5) the formulation of a route planning method founded on weighted undirected graph principles; and (6) the construction of a road image dataset specifically for the Hefei University of Technology campus. 
+
+  - The research conducted in this thesis aims to deliver a safe, convenient, and efficient navigation solution for visually impaired individuals, while also providing theoretical and methodological support for future studies in the field.
 
 
 
@@ -213,8 +215,11 @@ redirect_from:
 
   *项目负责人*, [郭丹 (导师)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
-  - 开发了基于图像认知环境的导航系统，涵盖3D建模、目标检测和空间映射。
-  - 专注于目标检测、语义分割及碰撞预警，项目获校级奖项并申请两项专利。
+  - 本文设计了一种基于视觉环境感知的视障人士出行导航系统。通过结合计算机视觉、人工智能和云计算技术，该系统使用双目相机捕获环境信息，并通过目标检测和语义分割等先进算法处理数据，同时通过3D音频反馈增强视障人士的空间感知能力。系统硬件由OAK-D-PRO相机、头戴式耳机、树莓派5和移远RM500Q-GL模块组成，并结合云端服务器实现高效的数据处理。 
+
+  - 本文的主要贡献包括： (1) 设计并实现了一个基于视觉环境感知的导航系统； (2) 提出了基于深度智能交互的室外视障辅助方法； (3) 开发了基于语义分割的偏移预警系统； (4) 提出了基于图像目标检测和视觉深度估计的碰撞预警方法； (5) 构建了基于带权无向图的路线规划方法； (6) 完成了合肥工业大学校园道路图像数据集的构建。
+
+  - 本研究旨在为视障人士提供一种安全、便捷、高效的出行导航解决方案，同时为相关领域的研究与设计提供理论支持和方法参考。
 
 
 
