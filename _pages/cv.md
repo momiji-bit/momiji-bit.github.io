@@ -59,7 +59,7 @@ redirect_from:
   - Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
 
 - **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)**, 06/2021 - 6/2024
-  *Project Leader*
+  *Project Leader*, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
   - Developed a navigation system using image cognitive environments, involving 3D modeling, object detection, and spatial mapping.
 
