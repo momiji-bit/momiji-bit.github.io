@@ -58,7 +58,7 @@ redirect_from:
 
   - Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
 
-- **Travel Navigation System for the Visually Impaired (Undergraduate Graduation Project)**, 06/2021 - 6/2024
+- **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)**, 06/2021 - 6/2024
   *Project Leader*
 
   - Developed a navigation system using image cognitive environments, involving 3D modeling, object detection, and spatial mapping.
@@ -202,7 +202,7 @@ redirect_from:
 
   - 基于Transformer的手语识别模型进行优化，提高了翻译准确率并降低了词错误率（WER）。
 
-- **面向视障人士的出行导航系统（本科毕业设计） (Travel Navigation System for the Visually Impaired)**，2021年6月 - 2024年6月
+- **基于视觉环境感知的视障人士出行导航系统（本科毕业设计） (Travel Navigation System for the Visually Impaired)**，2021年6月 - 2024年6月
 
   *项目负责人*
 
