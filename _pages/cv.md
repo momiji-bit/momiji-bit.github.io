@@ -75,50 +75,50 @@ redirect_from:
 
 - **Honors and Awards**
 
-  - 🏅 **Outstanding Graduate of Hefei University of Technology, Class of 2024**
+  - 🏅 Outstanding Graduate of Hefei University of Technology, Class of 2024
 
-  - 🏅 **Outstanding Graduation Thesis (Design), Class of 2024, Hefei University of Technology**
+  - 🏅 Outstanding Graduation Thesis (Design), Class of 2024, Hefei University of Technology
 
-  - 🏅 **"Three Good Students" at School Level, Academic Years 2022 & 2023**
+  - 🏅 "Three Good Students" at School Level, Academic Years 2022 & 2023
 
-  - 🏅 **First-Class Scholarship, Academic Year 2023**
+  - 🏅 First-Class Scholarship, Academic Year 2023
 
-  - 🏅 **Second-Class Scholarship, Academic Years 2021 & 2022**
+  - 🏅 Second-Class Scholarship, Academic Years 2021 & 2022
 
 - **Patents**
 
-  - 📜 **Blind Travel Obstacle Avoidance Assistance System V1.0** (Authorized: 2023SR0517944)
+  - 📜 Blind Travel Obstacle Avoidance Assistance System V1.0 (Authorized: 2023SR0517944)
 
-  - 📜 **Outdoor Assistance Method Based on Deep Intelligent Interaction** (Authorized: 202210371804.7)
+  - 📜 Outdoor Assistance Method Based on Deep Intelligent Interaction (Authorized: 202210371804.7)
 
-  - 📜 **Preferred Method Deviation Warning System and Method Based on Semantic Segmentation** (Authorized: 202210374860.6)
+  - 📜 Preferred Method Deviation Warning System and Method Based on Semantic Segmentation (Authorized: 202210374860.6)
 
-  - 📜 **Route Planning Method for Visually Impaired People Based on Weighted Undirected Graph** (Under Review: 202310228006.3)
+  - 📜 Route Planning Method for Visually Impaired People Based on Weighted Undirected Graph (Under Review: 202310228006.3)
 
-  - 📜 **Collision Warning Method Based on Image Object Detection and Visual Depth Estimation** (Under Review: 202310188292.5)
+  - 📜 Collision Warning Method Based on Image Object Detection and Visual Depth Estimation (Under Review: 202310188292.5)
 
 - **Competitions**
 
-  - 🥇 **Gold Award, 9th Internet+ Student Innovation and Entrepreneurship Competition, Hefei University of Technology**
+  - 🥇 Gold Award, 9th Internet+ Student Innovation and Entrepreneurship Competition, Hefei University of Technology
 
-  - 🥇 **Outstanding at National Level, Student Innovation and Entrepreneurship Program, Hefei University of Technology**
+  - 🥇 Outstanding at National Level, Student Innovation and Entrepreneurship Program, Hefei University of Technology
 
-  - 🥇 **Outstanding at School Level, Student Innovation and Entrepreneurship Program, Hefei University of Technology**
+  - 🥇 Outstanding at School Level, Student Innovation and Entrepreneurship Program, Hefei University of Technology
 
-  - 🥈 **Second Prize, "Challenge Cup" Extracurricular Academic and Scientific Works Competition (School-level Selection)**
+  - 🥈 Second Prize, "Challenge Cup" Extracurricular Academic and Scientific Works Competition (School-level Selection)
 
-  - 🥉 **Third Prize, 25th China Robot and Artificial Intelligence Competition, Anhui Division**
+  - 🥉 Third Prize, 25th China Robot and Artificial Intelligence Competition, Anhui Division
 
-  - 🥉 **Bronze Award, 8th Internet+ School-level Competition, Hefei University of Technology**
+  - 🥉 Bronze Award, 8th Internet+ School-level Competition, Hefei University of Technology
 
-  - 🥉 **Third Prize, Chinese College Student Computer Design Competition (School-level)**
+  - 🥉 Third Prize, Chinese College Student Computer Design Competition (School-level)
 
-  - 🥉 **Third Prize, 17th School Programming Contest (ACM Selection)**
+  - 🥉 Third Prize, 17th School Programming Contest (ACM Selection)
 
-  - 🥉 **Third Prize, School of Computer and Information Science Fun Programming Competition**
+  - 🥉 Third Prize, School of Computer and Information Science Fun Programming Competition
 
 - **Certifications**
-  - 🎓 **Huawei Big Data Skills Certification** (Analyzing E-commerce Real-time Business Data Using DLI Flink SQL)
+  - 🎓 Huawei Big Data Skills Certification (Analyzing E-commerce Real-time Business Data Using DLI Flink SQL)
 
 
 
