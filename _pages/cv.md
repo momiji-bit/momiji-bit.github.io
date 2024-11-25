@@ -40,11 +40,13 @@ redirect_from:
   - Exploring an Adapter-based model tuning approach to replace the traditional Fine-tuning paradigm, aiming to reduce parameter update costs and enhance the efficiency of transfer learning from images to videos in large-scale models.
 
 - **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**, 06/2024 - Present
+
   *First Author*
 
   - In real-world applications where computational resources are limited, effectively integrating visual and textual information for Visual Question Answering (VQA) presents significant challenges. This paper investigates the performance of traditional models under computational constraints, focusing on enhancing VQA performance, particularly for numerical and counting questions. We evaluate models based on Bidirectional GRU (BidGRU), GRU, Bidirectional LSTM (BidLSTM), and Convolutional Neural Networks (CNN), analyzing the impact of different vocabulary sizes, fine-tuning strategies, and embedding dimensions. Experimental results show that the BidGRU model with an embedding dimension of 300 and a vocabulary size of 3000 achieves the best overall performance without the computational overhead of larger models. Ablation studies emphasize the importance of attention mechanisms and counting information in handling complex reasoning tasks under resource limitations. Our research provides valuable insights for developing more efficient VQA models suitable for deployment in environments with limited computational capacity.
 
 - **Enhancing the Baseline Performance of OrienterNet for Visual Localization**, 01/2024 - 06/2024
+
   *Collaborative Researcher*, [Yan Da (Advisor)](https://homes.luddy.indiana.edu/yanda/home.html)
 
   - Our task aims to further optimize OrienterNet, a neural network-based visual localization method designed to achieve accurate localization using 2D public maps (e.g., planar maps). The original approach matches camera-captured images with public maps, effectively addressing localization challenges in GPS-denied scenarios, especially in indoor and complex urban environments.
@@ -54,11 +56,13 @@ redirect_from:
   - Served as a sub-reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’24), one of the premier conferences in the field of information retrieval.
 
 - **End-to-End Sign Language Recognition using Transformers**, 12/2022 - Present
-  *Researcher*, [LMC-VUT Lab](https://vut-hfut.github.io/index_chinese.html)
+
+  *Researcher*, [LMC-VUT (Lab)](https://vut-hfut.github.io/index_chinese.html)
 
   - Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
 
 - **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)**, 06/2021 - 6/2024
+
   *Project Leader*, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
   - Developed a navigation system using image cognitive environments, involving 3D modeling, object detection, and spatial mapping.
@@ -121,6 +125,7 @@ redirect_from:
 ## 💼 PROFESSIONAL EXPERIENCE
 
 - **Shenzhen Boshengteng Technology Co., Ltd.**
+
   *Embedded Development Assistant*, 07/2023 - 08/2023
 
   - Conducted comprehensive research on AI chip design, focusing on embedded neural network design, RISC-V architecture, Verilog programming, and power optimization.
@@ -128,6 +133,7 @@ redirect_from:
   - Contributed to the design and optimization of an AI chip processing unit, involving architecture selection, instruction set optimization, and module creation using Verilog.
 
 - **Shenzhen Boshengteng Technology Co., Ltd.**
+
   *Algorithm Development Assistant*, 03/2023 - 06/2023
 
   - Participated in APA and HPP projects for advanced driving technology, contributing to data annotation, model testing, and optimization of parking and object detection algorithms.
@@ -135,6 +141,7 @@ redirect_from:
   - Developed technical documentation for perception algorithms, detailing design, implementation, and evaluation.
 
 - **Beijing Tuosida Technology Development Co., Ltd.**
+
   *Python Development Engineer Assistant*, 01/2023 - 02/2023
 
   - Developed machine learning models using PyTorch and TensorFlow, including data preprocessing, feature engineering, and model evaluation.
@@ -188,7 +195,7 @@ redirect_from:
 
 - **提升OrienterNet在视觉定位中的基准性能 (Enhancing the Baseline Performance of OrienterNet for Visual Localization)**，2024年1月 - 2024年6月
 
-  *协作研究员*，导师：[严达](https://homes.luddy.indiana.edu/yanda/home.html)
+  *协作研究员*，[严达（导师）](https://homes.luddy.indiana.edu/yanda/home.html)
 
   - 优化基于神经网络的视觉定位方法OrienterNet，该方法利用二维公开地图（如平面地图）进行准确定位，特别解决了室内及复杂城市环境中GPS失效的场景。
 
@@ -198,13 +205,13 @@ redirect_from:
 
 - **基于Transformer的手语识别端到端研究 (End-to-End Sign Language Recognition using Transformers)**，2022年12月 - 至今
 
-  *研究员*
+  *研究员*, [LMC-VUT (Lab)](https://vut-hfut.github.io/index_chinese.html)
 
   - 基于Transformer的手语识别模型进行优化，提高了翻译准确率并降低了词错误率（WER）。
 
 - **基于视觉环境感知的视障人士出行导航系统（本科毕业设计） (Travel Navigation System for the Visually Impaired)**，2021年6月 - 2024年6月
 
-  *项目负责人*
+  *项目负责人*, [郭丹 (导师)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
   - 开发了基于图像认知环境的导航系统，涵盖3D建模、目标检测和空间映射。
   - 专注于目标检测、语义分割及碰撞预警，项目获校级奖项并申请两项专利。
