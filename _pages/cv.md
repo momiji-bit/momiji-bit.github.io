@@ -116,6 +116,7 @@ redirect_from:
   - 🥉 Third Prize, School of Computer and Information Science Fun Programming Competition
 
 - **Certifications**
+  - ✍️ UCL Pre-sessional English Course (75 S71|R77|L72|W79)
   - 🎓 Huawei Big Data Skills Certification (Analyzing E-commerce Real-time Business Data Using DLI Flink SQL)
 
 
@@ -241,6 +242,7 @@ redirect_from:
   - 🥉 第17届校程序设计比赛（ACM选拔） 三等奖
   - 🥉 校计算机与信息学院趣味编程竞赛 三等奖
 - **证书：**
+  - ✍️ UCL学术英语预科课程（75 S71 | R77 | L72 | W79）
   - 🎓 华为大数据技能认证（使用DLI Flink SQL进行电商实时业务数据分析）
 
 
