@@ -10,7 +10,7 @@ locale                   : "en_US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "GuJihao"
-description              : &description "Postgraduate in AI4SD, University College London"
+description              : &description "MSc student in CGVI, University College London"
 url                      : https://momiji-bit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "momiji-bit/momiji-bit.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "谷纪豪 Geo Gu"
   avatar           : "profile.png"
-  bio              : "Stay hungry. Stay foolish."
+  bio              : "MSc in CGVI (UCL)"
   location         : "London, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
