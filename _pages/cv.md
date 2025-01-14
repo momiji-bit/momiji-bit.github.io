@@ -32,6 +32,7 @@ redirect_from:
 ## 🧪 RESEARCH
 
 - **Research on Multimodal Skin Question-Answering Based on Large Language Models (LLM)**, 12/2024 - present
+  
   *Researcher*
 
   - Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
@@ -186,6 +187,7 @@ redirect_from:
 ## 🧪 科研经历
 
 - **基于LLM的皮肤多模态问答研究**，2024年12月 - 至今
+  
   *研究员*
 
   - 目前我们收集了200余例来自真实医院的病历数据，数据包括每个病人多个时期的全身各部分皮肤图像、主诉、病例特点、现病史、症见、舌象、脉象、专科检查报告、中医辨证、治法、处方、中药。
