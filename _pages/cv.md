@@ -31,13 +31,19 @@ redirect_from:
 
 ## 🧪 RESEARCH
 
+- **Research on Multimodal Skin Question-Answering Based on Large Language Models (LLM)**, 12/2024 - present
+  *Researcher*
+
+  - Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
+
 - **Research on Micro-Action Recognition**, 10/2024 - present
 
-  *Collaborative Researcher*
+  *Researcher*
 
   - Exploring an Adapter-based model tuning approach to replace the traditional Fine-tuning paradigm, aiming to reduce parameter update costs and enhance the efficiency of transfer learning from images to videos in large-scale models.
+  - Divided skeletal-temporal relationships into four types and applied partition-specific self-attention for each type, focusing on efficiently capturing fine-grained skeletal-temporal correlations to optimize micro-action recognition algorithms, enhancing their accuracy and computational efficiency.
 
-- **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**, 06/2024 - Present
+- **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**, 06/2024 - 12/2024
 
   *First Author*
 
@@ -179,13 +185,19 @@ redirect_from:
 
 ## 🧪 科研经历
 
+- **基于LLM的皮肤多模态问答研究**，2024年12月 - 至今
+  *研究员*
+
+  - 目前我们收集了200余例来自真实医院的病历数据，数据包括每个病人多个时期的全身各部分皮肤图像、主诉、病例特点、现病史、症见、舌象、脉象、专科检查报告、中医辨证、治法、处方、中药。
+
 - **微动作识别的研究**，2024年10月 - 至今
 
-  *协作研究员*
+  *研究员*
 
+  - 将骨骼-时间关系分为四种类型并针对每种类型进行分区自注意力计算，聚焦于高效捕获骨骼-时间的细粒度相关性，优化微动作识别算法，提升其精度与计算效率。
   - 探索基于Adapter的模型调优方法，替代传统的Fine-tuning范式，以降低参数更新成本，提高从图像到视频的迁移学习效率。
 
-- **传统视觉问答（VQA）模型在有限计算资源下的性能分析**，2024年6月 - 至今
+- **传统视觉问答（VQA）模型在有限计算资源下的性能分析**，2024年6月 - 2024年12月
 
   *第一作者*
 
