@@ -32,20 +32,20 @@ redirect_from:
 
 ## 🧪 RESEARCH
 
-- **Research on Multimodal Skin Question-Answering Based on Large Language Models (LLM)**, 12/2024 - present
+- **Research on Multimodal Skin Question-Answering Based on Large Language Models (LLM)** [github], 12/2024 - present
 
   *Researcher*
 
   - Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
 
-- **Research on Micro-Action Recognition**, 10/2024 - present
+- **Research on Micro-Action Recognition** [github]], 10/2024 - present
 
   *Researcher*
 
   - Exploring an Adapter-based model tuning approach to replace the traditional Fine-tuning paradigm, aiming to reduce parameter update costs and enhance the efficiency of transfer learning from images to videos in large-scale models.
   - Divided skeletal-temporal relationships into four types and applied partition-specific self-attention for each type, focusing on efficiently capturing fine-grained skeletal-temporal correlations to optimize micro-action recognition algorithms, enhancing their accuracy and computational efficiency.
 
-- **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**, 06/2024 - 12/2024
+- **Performance Analysis of Traditional VQA Models Under Limited Computational Resources** [paper], 06/2024 - 12/2024
 
   *First Author*
 
@@ -67,7 +67,7 @@ redirect_from:
 
   - Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
 
-- **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)**, 06/2021 - 6/2024
+- **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)** [[github](https://github.com/momiji-bit/Bachelor-s-Degree-Project/tree/main)], 06/2021 - 6/2024
 
   *Project Leader*, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
