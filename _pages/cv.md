@@ -38,12 +38,13 @@ redirect_from:
 
   - Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
 
-- **Research on Micro-Action Recognition** [github], 10/2024 - present
+- **Research on Skeleton-Based Micro-Action Recognition** [github][[huggingface](https://huggingface.co/datasets/Geo2425/MA52-pose)], 10/2024 - present
 
   *Researcher*
 
-  - Exploring an Adapter-based model tuning approach to replace the traditional Fine-tuning paradigm, aiming to reduce parameter update costs and enhance the efficiency of transfer learning from images to videos in large-scale models.
   - Divided skeletal-temporal relationships into four types and applied partition-specific self-attention for each type, focusing on efficiently capturing fine-grained skeletal-temporal correlations to optimize micro-action recognition algorithms, enhancing their accuracy and computational efficiency.
+  - Exploring an Adapter-based model tuning approach to replace the traditional Fine-tuning paradigm, aiming to reduce parameter update costs and enhance the efficiency of transfer learning from images to videos in large-scale models.
+
 
 - **Performance Analysis of Traditional VQA Models Under Limited Computational Resources** [paper], 06/2024 - 12/2024
 
@@ -72,7 +73,6 @@ redirect_from:
   *Project Leader*, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
   - This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. Spatial awareness is enhanced through 3D audio feedback. The hardware configuration includes an OAK-D-PRO camera, a head-mounted headset, a Raspberry Pi 5, and a Quectel RM500Q-GL module, with cloud servers employed for efficient data processing. The research conducted in this thesis aims to deliver a safe, convenient, and efficient navigation solution for visually impaired individuals, while also providing theoretical and methodological support for future studies in the field.
-
   - The primary contributions of this thesis are as follows: (1) the design and implementation of a navigation system based on visual environmental perception; (2) the proposal of a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals; (3) the development of an offset warning system leveraging semantic segmentation techniques; (4) the introduction of a collision warning method utilizing image-based object detection and visual depth estimation; (5) the formulation of a route planning method founded on weighted undirected graph principles; and (6) the construction of a road image dataset specifically for the Hefei University of Technology campus. 
 
 
@@ -226,7 +226,6 @@ redirect_from:
   *项目负责人*, [郭丹 (导师)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
   - 本文设计了一种基于视觉环境感知的视障人士出行导航系统。通过结合计算机视觉、人工智能和云计算技术，该系统使用双目相机捕获环境信息，并通过目标检测和语义分割等先进算法处理数据，同时通过3D音频反馈增强视障人士的空间感知能力。系统硬件由OAK-D-PRO相机、头戴式耳机、树莓派5和移远RM500Q-GL模块组成，并结合云端服务器实现高效的数据处理。本研究旨在为视障人士提供一种安全、便捷、高效的出行导航解决方案，同时为相关领域的研究与设计提供理论支持和方法参考。
-
   - 本文的主要贡献包括： (1) 设计并实现了一个基于视觉环境感知的导航系统； (2) 提出了基于深度智能交互的室外视障辅助方法； (3) 开发了基于语义分割的偏移预警系统； (4) 提出了基于图像目标检测和视觉深度估计的碰撞预警方法； (5) 构建了基于带权无向图的路线规划方法； (6) 完成了合肥工业大学校园道路图像数据集的构建。
 
 
