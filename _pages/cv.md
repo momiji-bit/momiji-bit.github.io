@@ -10,6 +10,7 @@ redirect_from:
 
 
 
+
 ---
 
 ## 📚 EDUCATION BACKGROUND
@@ -32,7 +33,7 @@ redirect_from:
 ## 🧪 RESEARCH
 
 - **Research on Multimodal Skin Question-Answering Based on Large Language Models (LLM)**, 12/2024 - present
-  
+
   *Researcher*
 
   - Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
@@ -94,16 +95,15 @@ redirect_from:
 
   - 📜 Blind Travel Obstacle Avoidance Assistance System V1.0 (Authorized: 2023SR0517944)
 
-  - 📜 Outdoor Assistance Method Based on Deep Intelligent Interaction (Authorized: 202210371804.7)
+  - 📜 Outdoor visual impairment assisting method based on deep intelligent interaction ([CN114724053A](https://patents.google.com/patent/CN114724053A/en))
 
-  - 📜 Preferred Method Deviation Warning System and Method Based on Semantic Segmentation (Authorized: 202210374860.6)
+  - 📜 Preferential direction deviation early warning system and method based on semantic segmentation ([CN114723946A](https://patents.google.com/patent/CN114723946A/en))
 
-  - 📜 Route Planning Method for Visually Impaired People Based on Weighted Undirected Graph (Under Review: 202310228006.3)
+  - 📜 Route planning method for visually impaired people based on weighted undirected graph ([CN116448130A](https://patents.google.com/patent/CN116448130A/en))
 
-  - 📜 Collision Warning Method Based on Image Object Detection and Visual Depth Estimation (Under Review: 202310188292.5)
+  - 📜 Collision early warning method based on image target detection and visual depth estimation ([CN116403146A](https://patents.google.com/patent/CN116403146A/en))
 
 - **Competitions**
-
   - 🥇 Gold Award, 9th Internet+ Student Innovation and Entrepreneurship Competition, Hefei University of Technology
 
   - 🥇 Outstanding at National Level, Student Innovation and Entrepreneurship Program, Hefei University of Technology
@@ -187,7 +187,7 @@ redirect_from:
 ## 🧪 科研经历
 
 - **基于LLM的皮肤多模态问答研究**，2024年12月 - 至今
-  
+
   *研究员*
 
   - 目前我们收集了200余例来自真实医院的病历数据，数据包括每个病人多个时期的全身各部分皮肤图像、主诉、病例特点、现病史、症见、舌象、脉象、专科检查报告、中医辨证、治法、处方、中药。
@@ -240,11 +240,11 @@ redirect_from:
   - 🏅 校一等奖学金（2023）
   - 🏅 校二等奖学金（2021，2022）
 - **专利：**
-  - 📜 盲人避障出行辅助系统V1.0 [授权 2023SR0517944]
-  - 📜 一种基于深度智能交互的室外辅助方法 [授权202210371804.7]
-  - 📜 一种基于语义分割的择优式方法偏移预警系统和方法 [授权202210374860.6]
-  - 📜 一种基于带权无向图的视障人士路线规划方法 [进实 202310228006.3]
-  - 📜 一种基于图像目标检测和视觉深度估计得碰撞预警方法 [进实 202310188292.5]
+  - 📜 盲人避障出行辅助系统V1.0 [2023SR0517944]
+  - 📜 一种基于深度智能交互的室外辅助方法 [[CN114724053A](https://patents.google.com/patent/CN114724053A)]
+  - 📜 一种基于语义分割的择优式方法偏移预警系统和方法 [[CN114723946A](https://patents.google.com/patent/CN114723946A)]
+  - 📜 一种基于带权无向图的视障人士路线规划方法 [[CN116448130A](https://patents.google.com/patent/CN116448130A)]
+  - 📜 一种基于图像目标检测和视觉深度估计得碰撞预警方法 [[CN116403146A](https://patents.google.com/patent/CN116403146A)]
 - **竞赛：**
   - 🥇 合肥工业大学第九届互联网大学生创新创业大赛（互联网+） 金奖
   - 🥇 合肥工业大学大学生创新创业项目国家级 优秀
