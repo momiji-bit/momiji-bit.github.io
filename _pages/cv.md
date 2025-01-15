@@ -32,7 +32,7 @@ redirect_from:
 
 ## 🧪 RESEARCH
 
-- **Medical Dermatology Research on LLM-Based Question-Answering** [github], 12/2024 - present
+- **Medical Dermatology Research on LLM-Based Question-Answering** [[github](https://github.com/momiji-bit/Medical-Dermatology-Research-on-LLM-Based-Question-Answering)], 12/2024 - present
 
   *Researcher*
 
