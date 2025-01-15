@@ -32,7 +32,7 @@ redirect_from:
 
 ## 🧪 RESEARCH
 
-- **Research on Multimodal Skin Question-Answering Based on Large Language Models (LLM)** [github], 12/2024 - present
+- **Medical Dermatology Research on LLM-Based Question-Answering** [github], 12/2024 - present
 
   *Researcher*
 
