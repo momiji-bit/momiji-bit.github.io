@@ -32,13 +32,13 @@ redirect_from:
 
 ## 🧪 RESEARCH
 
-- **Medical Dermatology Research on LLM-Based Question-Answering** [[github](https://github.com/momiji-bit/Medical-Dermatology-Research-on-LLM-Based-Question-Answering)], 12/2024 - present
+- **Medical Dermatology Research on LLM-Based Question-Answering** [paper][[github](https://github.com/momiji-bit/Medical-Dermatology-Research-on-LLM-Based-Question-Answering)], 12/2024 - present
 
   *Researcher*
 
   - Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
 
-- **Research on Skeleton-Based Micro-Action Recognition** [[github](https://github.com/momiji-bit/Skeleton-Based-Micro-Action-Recognition/tree/main)][[huggingface](https://huggingface.co/datasets/Geo2425/MA52-pose)], 10/2024 - present
+- **Research on Skeleton-Based Micro-Action Recognition** [paper][[github](https://github.com/momiji-bit/Skeleton-Based-Micro-Action-Recognition/tree/main)][[huggingface](https://huggingface.co/datasets/Geo2425/MA52-pose)], 10/2024 - present
 
   *Researcher*
 
@@ -46,7 +46,7 @@ redirect_from:
   - Exploring an Adapter-based model tuning approach to replace the traditional Fine-tuning paradigm, aiming to reduce parameter update costs and enhance the efficiency of transfer learning from images to videos in large-scale models.
 
 
-- **Performance Analysis of Traditional VQA Models Under Limited Computational Resources** [[paper](https://prml.org/)], 06/2024 - 12/2024
+- **Performance Analysis of Traditional VQA Models Under Limited Computational Resources** [[paper](https://github.com/momiji-bit/Performance-Analysis-of-Traditional-VQA-Models-Under-Limited-Computational-Resources/blob/main/PRML_2025.pdf)], 06/2024 - 12/2024
 
   *First Author*
 
@@ -68,7 +68,7 @@ redirect_from:
 
   - Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
 
-- **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)** [[github](https://github.com/momiji-bit/Bachelor-s-Degree-Project/tree/main)], 06/2021 - 6/2024
+- **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)** [[thesis](https://github.com/momiji-bit/Bachelor-s-Degree-Project/blob/main/%5B%E7%BB%88%E7%89%88%5D%E8%B0%B7%E7%BA%AA%E8%B1%AA_%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87.pdf)][[github](https://github.com/momiji-bit/Bachelor-s-Degree-Project/tree/main)], 06/2021 - 6/2024
 
   *Project Leader*, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
