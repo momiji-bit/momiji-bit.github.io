@@ -46,7 +46,7 @@ redirect_from:
   - Exploring an Adapter-based model tuning approach to replace the traditional Fine-tuning paradigm, aiming to reduce parameter update costs and enhance the efficiency of transfer learning from images to videos in large-scale models.
 
 
-- **Performance Analysis of Traditional VQA Models Under Limited Computational Resources** [[paper](https://github.com/momiji-bit/Performance-Analysis-of-Traditional-VQA-Models-Under-Limited-Computational-Resources/blob/main/PRML_2025.pdf)], 06/2024 - 12/2024
+- **Performance Analysis of Traditional VQA Models Under Limited Computational Resources** [[paper](https://arxiv.org/abs/2502.05738)], 06/2024 - 12/2024
 
   *First Author*
 
