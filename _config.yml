@@ -86,7 +86,7 @@ author:
   location         : "London, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fSWwq3AAAAAJ&hl=en&oi=ao"
   email            : "jihao.gu.23@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
