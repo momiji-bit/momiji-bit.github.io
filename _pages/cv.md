@@ -16,67 +16,69 @@ redirect_from:
 
 ## 📚 EDUCATION BACKGROUND
 
-- **University College London** (QS 9), 09/2024 - Present
+**University College London** (QS 9), 09/2024 - Present
 
-  ***MSc** in Computer Graphics, Vision and Imaging*
+**MSc** in Computer Graphics, Vision and Imaging
 
-  - **Compulsory modules**: Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing
-  - **Optional modules**: Inverse Problems in Imaging, Acquisition and Processing of 3D Geometry, Numerical Optimisation, Virtual Environments.
+- **Compulsory modules**: Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing
 
-- **Hefei University of Technology** (Project 211), 09/2020 - 06/2024
+- **Optional modules**: Inverse Problems in Imaging, Acquisition and Processing of 3D Geometry, Numerical Optimisation, Virtual Environments.
 
-  ***BEng** in Computer Science and Technology*
+**Hefei University of Technology** (Project 211), 09/2020 - 06/2024
 
-  - **Score**: 90.10% (3.85/4.0); 5/152
+***BEng** in Computer Science and Technology*
+
+- **Score**: 90.10% (3.85/4.0); 5/152
 
 
 
 ## 🧪 RESEARCH
 
-- **Text-guided Anomaly Detection in Videos** (Master thesis), 03/2025 - present
+**Text-guided Anomaly Detection in Videos** (Master thesis), 03/2025 - present
 
-  *Researcher*, [Kaan Akşit (Advisor)](https://kaanaksit.com/)
+*Researcher*, [Kaan Akşit (Advisor)](https://kaanaksit.com/)
 
-  - This project proposes a new video anomaly detection method that integrates a multimodal autoencoder with large language models (LLM) to efficiently detect and semantically interpret abnormal events in surveillance videos. The system first leverages a pre-trained off-the-shelf variational autoencoder (VAE/VQ-VAE) to extract features from video frames, mapping high-dimensional visual data into a low-dimensional latent space. Meanwhile, a CLIP model is employed for text-visual embedding to capture critical multimodal information. Based on differences in the latent feature distributions, the system identifies anomalous regions and utilizes an LLM for contextual semantic inference, generating intuitive anomaly descriptions and providing decision support.
+- This project proposes a new video anomaly detection method that integrates a multimodal autoencoder with large language models (LLM) to efficiently detect and semantically interpret abnormal events in surveillance videos. The system first leverages a pre-trained off-the-shelf variational autoencoder (VAE/VQ-VAE) to extract features from video frames, mapping high-dimensional visual data into a low-dimensional latent space. Meanwhile, a CLIP model is employed for text-visual embedding to capture critical multimodal information. Based on differences in the latent feature distributions, the system identifies anomalous regions and utilizes an LLM for contextual semantic inference, generating intuitive anomaly descriptions and providing decision support.
 
-- **Medical Dermatology Research on LLM-Based Question-Answering** [paper][[github](https://github.com/momiji-bit/Medical-Dermatology-Research-on-LLM-Based-Question-Answering)], 12/2024 - present
+**Medical Dermatology Research on LLM-Based Question-Answering** [paper][[github](https://github.com/momiji-bit/Medical-Dermatology-Research-on-LLM-Based-Question-Answering)], 12/2024 - present
 
-  *Researcher*
+*Researcher*
 
-  - Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
+- Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
 
-- **Research on Skeleton-Based Micro-Action Recognition** [paper][[github](https://github.com/momiji-bit/Skeleton-Based-Micro-Action-Recognition/tree/main)][[huggingface](https://huggingface.co/datasets/Geo2425/MA52-pose)], 10/2024 - present
+**Research on Skeleton-Based Micro-Action Recognition** [paper][[github](https://github.com/momiji-bit/Skeleton-Based-Micro-Action-Recognition/tree/main)][[huggingface](https://huggingface.co/datasets/Geo2425/MA52-pose)], 10/2024 - present
 
-  *Researcher*
+*Researcher*
 
-  - Divided skeletal-temporal relationships into four types and applied partition-specific self-attention for each type, focusing on efficiently capturing fine-grained skeletal-temporal correlations to optimize micro-action recognition algorithms, enhancing their accuracy and computational efficiency.
-  - Exploring an Adapter-based model tuning approach to replace the traditional Fine-tuning paradigm, aiming to reduce parameter update costs and enhance the efficiency of transfer learning from images to videos in large-scale models.
+- Divided skeletal-temporal relationships into four types and applied partition-specific self-attention for each type, focusing on efficiently capturing fine-grained skeletal-temporal correlations to optimize micro-action recognition algorithms, enhancing their accuracy and computational efficiency.
+- Exploring an Adapter-based model tuning approach to replace the traditional Fine-tuning paradigm, aiming to reduce parameter update costs and enhance the efficiency of transfer learning from images to videos in large-scale models.
+
+**Performance Analysis of Traditional VQA Models Under Limited Computational Resources** [[paper](https://arxiv.org/abs/2502.05738)], 06/2024 - 12/2024
+
+*First Author*
+
+- In real-world applications where computational resources are limited, effectively integrating visual and textual information for Visual Question Answering (VQA) presents significant challenges. This paper investigates the performance of traditional models under computational constraints, focusing on enhancing VQA performance, particularly for numerical and counting questions. We evaluate models based on Bidirectional GRU (BidGRU), GRU, Bidirectional LSTM (BidLSTM), and Convolutional Neural Networks (CNN), analyzing the impact of different vocabulary sizes, fine-tuning strategies, and embedding dimensions. Experimental results show that the BidGRU model with an embedding dimension of 300 and a vocabulary size of 3000 achieves the best overall performance without the computational overhead of larger models. Ablation studies emphasize the importance of attention mechanisms and counting information in handling complex reasoning tasks under resource limitations. Our research provides valuable insights for developing more efficient VQA models suitable for deployment in environments with limited computational capacity.
+
+**Enhancing the Baseline Performance of OrienterNet for Visual Localization**, 01/2024 - 06/2024
+
+*Collaborative Researcher*, [Yan Da (Advisor)](https://homes.luddy.indiana.edu/yanda/home.html)
+
+- Our task aims to further optimize OrienterNet, a neural network-based visual localization method designed to achieve accurate localization using 2D public maps (e.g., planar maps). The original approach matches camera-captured images with public maps, effectively addressing localization challenges in GPS-denied scenarios, especially in indoor and complex urban environments.
+
+**End-to-End Sign Language Recognition using Transformers**, 12/2022 - 10/2023
+
+*Researcher*, [LMC-VUT (Lab)](https://vut-hfut.github.io/index_chinese.html)
+
+- Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
+
+**Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)** [[thesis](https://github.com/momiji-bit/Bachelor-s-Degree-Project/blob/main/%5B%E7%BB%88%E7%89%88%5D%E8%B0%B7%E7%BA%AA%E8%B1%AA_%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87.pdf)][[github](https://github.com/momiji-bit/Bachelor-s-Degree-Project/tree/main)], 06/2021 - 6/2024
+
+*Project Leader*, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
+
+- This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. Spatial awareness is enhanced through 3D audio feedback. The hardware configuration includes an OAK-D-PRO camera, a head-mounted headset, a Raspberry Pi 5, and a Quectel RM500Q-GL module, with cloud servers employed for efficient data processing. The research conducted in this thesis aims to deliver a safe, convenient, and efficient navigation solution for visually impaired individuals, while also providing theoretical and methodological support for future studies in the field.
+- The primary contributions of this thesis are as follows: (1) the design and implementation of a navigation system based on visual environmental perception; (2) the proposal of a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals; (3) the development of an offset warning system leveraging semantic segmentation techniques; (4) the introduction of a collision warning method utilizing image-based object detection and visual depth estimation; (5) the formulation of a route planning method founded on weighted undirected graph principles; and (6) the construction of a road image dataset specifically for the Hefei University of Technology campus. 
 
 
-- **Performance Analysis of Traditional VQA Models Under Limited Computational Resources** [[paper](https://arxiv.org/abs/2502.05738)], 06/2024 - 12/2024
-
-  *First Author*
-
-  - In real-world applications where computational resources are limited, effectively integrating visual and textual information for Visual Question Answering (VQA) presents significant challenges. This paper investigates the performance of traditional models under computational constraints, focusing on enhancing VQA performance, particularly for numerical and counting questions. We evaluate models based on Bidirectional GRU (BidGRU), GRU, Bidirectional LSTM (BidLSTM), and Convolutional Neural Networks (CNN), analyzing the impact of different vocabulary sizes, fine-tuning strategies, and embedding dimensions. Experimental results show that the BidGRU model with an embedding dimension of 300 and a vocabulary size of 3000 achieves the best overall performance without the computational overhead of larger models. Ablation studies emphasize the importance of attention mechanisms and counting information in handling complex reasoning tasks under resource limitations. Our research provides valuable insights for developing more efficient VQA models suitable for deployment in environments with limited computational capacity.
-
-- **Enhancing the Baseline Performance of OrienterNet for Visual Localization**, 01/2024 - 06/2024
-
-  *Collaborative Researcher*, [Yan Da (Advisor)](https://homes.luddy.indiana.edu/yanda/home.html)
-
-  - Our task aims to further optimize OrienterNet, a neural network-based visual localization method designed to achieve accurate localization using 2D public maps (e.g., planar maps). The original approach matches camera-captured images with public maps, effectively addressing localization challenges in GPS-denied scenarios, especially in indoor and complex urban environments.
-
-- **End-to-End Sign Language Recognition using Transformers**, 12/2022 - 10/2023
-
-  *Researcher*, [LMC-VUT (Lab)](https://vut-hfut.github.io/index_chinese.html)
-
-  - Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
-
-- **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)** [[thesis](https://github.com/momiji-bit/Bachelor-s-Degree-Project/blob/main/%5B%E7%BB%88%E7%89%88%5D%E8%B0%B7%E7%BA%AA%E8%B1%AA_%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87.pdf)][[github](https://github.com/momiji-bit/Bachelor-s-Degree-Project/tree/main)], 06/2021 - 6/2024
-
-  *Project Leader*, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
-
-  - This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. Spatial awareness is enhanced through 3D audio feedback. The hardware configuration includes an OAK-D-PRO camera, a head-mounted headset, a Raspberry Pi 5, and a Quectel RM500Q-GL module, with cloud servers employed for efficient data processing. The research conducted in this thesis aims to deliver a safe, convenient, and efficient navigation solution for visually impaired individuals, while also providing theoretical and methodological support for future studies in the field.
-  - The primary contributions of this thesis are as follows: (1) the design and implementation of a navigation system based on visual environmental perception; (2) the proposal of a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals; (3) the development of an offset warning system leveraging semantic segmentation techniques; (4) the introduction of a collision warning method utilizing image-based object detection and visual depth estimation; (5) the formulation of a route planning method founded on weighted undirected graph principles; and (6) the construction of a road image dataset specifically for the Hefei University of Technology campus. 
 
 ## 📝 Paper Review
 
