@@ -112,11 +112,11 @@ redirect_from:
 
   - Outdoor visual impairment assisting method based on deep intelligent interaction ([CN114724053A](https://patents.google.com/patent/CN114724053A/en))
 
-  - Preferential direction deviation early warning system and method based on semantic segmentation ([CN114723946A](https://patents.google.com/patent/CN114723946A/en))
+  - A Semantic Segmentation-Based Preferential Direction Deviation Early Warning System and Method ([CN114723946A](https://patents.google.com/patent/CN114723946A/en))
 
   - Route planning method for visually impaired people based on weighted undirected graph ([CN116448130A](https://patents.google.com/patent/CN116448130A/en))
 
-  - Collision early warning method based on image target detection and visual depth estimation ([CN116403146A](https://patents.google.com/patent/CN116403146A/en))
+  - A collision warning method based on image target detection and visual depth estimation ([CN116403146A](https://patents.google.com/patent/CN116403146A/en))
 
 - **Competitions**
   - Gold Award, 9th Internet+ Student Innovation and Entrepreneurship Competition, Hefei University of Technology
