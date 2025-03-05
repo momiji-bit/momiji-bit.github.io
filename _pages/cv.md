@@ -20,8 +20,6 @@ redirect_from:
 
   ***MSc** in Computer Graphics, Vision and Imaging*
 
-  - **Score**: Distinction
-
   - **Compulsory modules**: Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing
   - **Optional modules**: Inverse Problems in Imaging, Acquisition and Processing of 3D Geometry, Numerical Optimisation, Virtual Environments.
 
