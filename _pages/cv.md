@@ -34,7 +34,7 @@ redirect_from:
 
 ## 🧪 RESEARCH
 
-**Text-guided Anomaly Detection in Videos** (Master thesis) [[paper](https://github.com/momiji-bit/TGADV)], 03/2025 - present
+**Text-guided Anomaly Detection in Videos** (Master thesis) [[github](https://github.com/momiji-bit/TGADV)], 03/2025 - present
 
 *Researcher*, [Kaan Akşit (Advisor)](https://kaanaksit.com/)
 
