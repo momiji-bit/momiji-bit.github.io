@@ -46,7 +46,7 @@ redirect_from:
 
 - Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
 
-**Research on Skeleton-Based Micro-Action Recognition** [paper][[github](https://github.com/momiji-bit/Skeleton-Based-Micro-Action-Recognition/tree/main)][[huggingface](https://huggingface.co/datasets/Geo2425/MA52-pose)], 10/2024 - present
+**Research on Skeleton-Based Micro-Action Recognition** [paper][[github](https://github.com/momiji-bit/MAR)], 10/2024 - present
 
 *Researcher*
 
