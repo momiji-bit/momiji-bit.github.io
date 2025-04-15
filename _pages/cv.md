@@ -12,6 +12,7 @@ redirect_from:
 
 
 
+
 ---
 
 ## 📚 EDUCATION BACKGROUND
@@ -74,27 +75,27 @@ redirect_from:
 
 *Project Leader*, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
-- This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. Spatial awareness is enhanced through 3D audio feedback. The hardware configuration includes an OAK-D-PRO camera, a head-mounted headset, a Raspberry Pi 5, and a Quectel RM500Q-GL module, with cloud servers employed for efficient data processing. The research conducted in this thesis aims to deliver a safe, convenient, and efficient navigation solution for visually impaired individuals, while also providing theoretical and methodological support for future studies in the field.
+- This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. 
 - The primary contributions of this thesis are as follows: (1) the design and implementation of a navigation system based on visual environmental perception; (2) the proposal of a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals; (3) the development of an offset warning system leveraging semantic segmentation techniques; (4) the introduction of a collision warning method utilizing image-based object detection and visual depth estimation; (5) the formulation of a route planning method founded on weighted undirected graph principles; and (6) the construction of a road image dataset specifically for the Hefei University of Technology campus. 
 
 
 
 ## 📝 Paper Review
 
-**Reviewer for IJCNN’25**, 03/2025
+### Conference
 
-- Served as a reviewer for The 2025 International Joint Conference on Neural Networks (IJCNN’25).
+- Reviewer for The 2025 International Joint Conference on Neural Networks (**IJCNN’25**), 03/2025
 
-**Reviewer for SIGIR’24**, 02/2024
+- Reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval(**SIGIR’24**), 02/2024
 
-- Served as a reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’24).
+### Journal
 
-
+- Reviewer for Engineering Applications of Artificial Intelligence(**EAAI**), 04/2025
+- Reviewer for Intelligent Data Analysis(**IDA**), 04/2025
 
 ## 🏅 HONOURS & AWARDS
 
 - **Honors and Awards**
-
   - Outstanding Graduate of Hefei University of Technology, Class of 2024
 
   - Outstanding Graduation Thesis (Design), Class of 2024, Hefei University of Technology
