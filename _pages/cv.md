@@ -47,7 +47,7 @@ redirect_from:
 
 - Currently, we have collected over 200 cases of medical record data from real hospitals. The data includes skin images of various parts of the body taken at different time periods for each patient, chief complaints, case characteristics, history of present illness, symptoms, tongue diagnosis, pulse diagnosis, specialist examination reports, Traditional Chinese Medicine (TCM) syndrome differentiation, treatment methods, prescriptions, and Chinese herbal medicine.
 
-**Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition** [paper][github], 10/2024 - 04/2025
+**Skeleton-based Micro-Action Recognition** [paper][github], 10/2024 - 04/2025
 
 *First Author*
 
