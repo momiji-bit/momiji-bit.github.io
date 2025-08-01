@@ -44,7 +44,7 @@ redirect_from:
 
 - **MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
 
-  [[ICJAI'25](https://2025.ijcai.org/)] [[paper](https://arxiv.org/abs/2507.21977)] [[code](https://github.com/momiji-bit/MM-Gesture)]
+  [[ICJAI'25](https://2025.ijcai.org/)] [[paper](https://arxiv.org/abs/2507.08344)] [[code](https://github.com/momiji-bit/MM-Gesture)]
 
   🏆 The Champion of Micro-gesture Classification sub-challenge in MiGA@IJCAI2025.
 
