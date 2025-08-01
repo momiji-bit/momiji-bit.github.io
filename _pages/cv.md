@@ -88,7 +88,7 @@ redirect_from:
 
 ## Projects
 
-**Prompt-guided Anomaly Detection in Videos** (Master thesis), 03/2025 - present
+**Prompt-guided Anomaly Detection in Videos** (postgraduate thesis), 03/2025 - present
 
 *Researcher, [Kaan Akşit (Advisor)](https://kaanaksit.com/)*
 
@@ -106,7 +106,7 @@ redirect_from:
 
 > Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
 
-**Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (Undergraduate Graduation Project)** [[thesis](https://github.com/momiji-bit/Bachelor-s-Degree-Project/blob/main/%5B%E7%BB%88%E7%89%88%5D%E8%B0%B7%E7%BA%AA%E8%B1%AA_%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87.pdf)] [[github](https://github.com/momiji-bit/UG-Thesis-VEPNav)], 06/2021 - 6/2024
+**Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (undergraduate thesis)** [[thesis](https://github.com/momiji-bit/Bachelor-s-Degree-Project/blob/main/%5B%E7%BB%88%E7%89%88%5D%E8%B0%B7%E7%BA%AA%E8%B1%AA_%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87.pdf)] [[github](https://github.com/momiji-bit/UG-Thesis-VEPNav)], 06/2021 - 6/2024
 
 *Researcher, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)*
 
