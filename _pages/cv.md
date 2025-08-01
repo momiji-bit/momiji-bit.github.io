@@ -21,6 +21,7 @@ redirect_from:
 ## Education
 
 - **University College London** (QS 9), 09/2024 - 09/2025
+  
   **MSc** in Computer Graphics, Vision and Imaging
 
   > **Compulsory modules**: Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing
@@ -28,6 +29,7 @@ redirect_from:
   > **Optional modules**: Inverse Problems in Imaging, Acquisition and Processing of 3D Geometry, Numerical Optimisation, Virtual Environments.
 
 - **Hefei University of Technology** (Project 211), 09/2020 - 06/2024
+  
   **BEng** in Computer Science and Technology
 
   > **Score**: 90.10% (3.85/4.0); 5/152
