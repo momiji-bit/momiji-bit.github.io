@@ -54,6 +54,8 @@ redirect_from:
 
   [[PRML'25](https://www.prml.org/prml2025.html)] [[paper](https://arxiv.org/abs/2502.05738)]
 
+  ***Jihao Gu***
+
 
 
 ## Peer Review
