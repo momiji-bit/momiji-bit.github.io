@@ -37,13 +37,21 @@ redirect_from:
 ## Publications
 
 - **Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
+
   [[ACM MM'25](https://acmmm2025.org/)] [[paper](https://arxiv.org/abs/2507.21977)] [[code](https://github.com/momiji-bit/MMN)]
+
   ***Jihao Gu**, Kun Li, Fei Wang, Yanyan Wei, Zhiliang Wu, Hehe Fan, Meng Wang*
+
 - **MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
+
   [[ICJAI'25](https://2025.ijcai.org/)] [[paper](https://arxiv.org/abs/2507.21977)] [[code](https://github.com/momiji-bit/MM-Gesture)]
+
   🏆 The Champion of Micro-gesture Classification sub-challenge in MiGA@IJCAI2025.
+
   ***Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo*
+
 - **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
+
   [[PRML'25](https://www.prml.org/prml2025.html)] [[paper](https://arxiv.org/abs/2502.05738)]
 
 
