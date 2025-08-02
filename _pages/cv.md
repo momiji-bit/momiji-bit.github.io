@@ -94,25 +94,29 @@ redirect_from:
 
 **Prompt-guided Anomaly Detection in Videos** (postgraduate thesis), 03/2025 - present
 
-*Researcher, [Kaan Akşit (Advisor)](https://kaanaksit.com/)*
+[thesis] [[code](https://github.com/momiji-bit/PG-Thesis-PGADV)]
+
+***Jihao Gu**, [Kaan Akşit (Advisor)](https://kaanaksit.com/)*
 
 > Video Anomaly Detection (VAD) aims to identify anomalous events within video segments. In scenarios such as surveillance or industrial process monitoring, anomaly detection is of critical importance. However, most existing approaches are semi-automated and rely on human intervention to assess anomalies. Traditional VAD methods typically focus only on determining whether a video contains anomalies or locating anomalous frames, with output limited to binary decisions (“normal” or “anomalous”). We propose \textbf{Prompt-guided Anomaly Detection in Videos (PGADV)}, a framework built upon Large Vision-Language Models (LVLMs). PGADV introduces an \textbf{Anomaly Decoder} that performs pixel-wise visual-textual feature alignment to generate fine-grained anomaly heatmaps. Furthermore, we design a \textbf{Region-aware Prompt Learner} that transforms the heatmaps into learnable textual embeddings, guiding the LVLM to accurately identify and localize anomalous events in videos. This significantly enhances both the granularity and interactivity of anomaly detection. 
 
 **Enhancing the Baseline Performance of OrienterNet for Visual Localization**, 01/2024 - 06/2024
 
-*Researcher, [Yan Da (Advisor)](https://homes.luddy.indiana.edu/yanda/home.html)*
+***Jihao Gu**, [Yan Da (Advisor)](https://homes.luddy.indiana.edu/yanda/home.html)*
 
 > Our task aims to further optimize OrienterNet, a neural network-based visual localization method designed to achieve accurate localization using 2D public maps (e.g., planar maps). The original approach matches camera-captured images with public maps, effectively addressing localization challenges in GPS-denied scenarios, especially in indoor and complex urban environments.
 
 **End-to-End Sign Language Recognition using Transformers**, 12/2022 - 10/2023
 
-*Researcher, [LMC-VUT (Lab)](https://vut-hfut.github.io/index_chinese.html)*
+***Jihao Gu**, [LMC-VUT (Lab)](https://vut-hfut.github.io/index_chinese.html)*
 
 > Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
 
-**Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (undergraduate thesis)** [[thesis](https://github.com/momiji-bit/Bachelor-s-Degree-Project/blob/main/%5B%E7%BB%88%E7%89%88%5D%E8%B0%B7%E7%BA%AA%E8%B1%AA_%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87.pdf)] [[github](https://github.com/momiji-bit/UG-Thesis-VEPNav)], 06/2021 - 6/2024
+**Navigation System for Visually Impaired People Based on Visual Ambient Intelligence (undergraduate thesis)**, 06/2021 - 6/2024
 
-*Researcher, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)*
+[[thesis](https://github.com/momiji-bit/Bachelor-s-Degree-Project/blob/main/%5B%E7%BB%88%E7%89%88%5D%E8%B0%B7%E7%BA%AA%E8%B1%AA_%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87.pdf)] [[code](https://github.com/momiji-bit/UG-Thesis-VEPNav)]
+
+***Jihao Gu**, [Guo Dan (Advisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)*
 
 > This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. The primary contributions of this thesis are as follows: (1) the design and implementation of a navigation system based on visual environmental perception; (2) the proposal of a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals; (3) the development of an offset warning system leveraging semantic segmentation techniques; (4) the introduction of a collision warning method utilizing image-based object detection and visual depth estimation; (5) the formulation of a route planning method founded on weighted undirected graph principles; and (6) the construction of a road image dataset specifically for the Hefei University of Technology campus. 
 
