@@ -54,7 +54,7 @@ redirect_from:
 
 - **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
 
-  [[PRML'25](https://www.prml.org/prml2025.html)] [[paper](https://arxiv.org/abs/2502.05738)]
+  [[PRML'25](https://www.prml.org/prml2025.html)] [[paper](https://ieeexplore.ieee.org/abstract/document/11159683)]
 
   ***Jihao Gu***
 
