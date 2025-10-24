@@ -39,7 +39,8 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MMN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,7 +49,8 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **Jihao Gu**, Kun Li, Fei Wang, Yanyan Wei, Zhiliang Wu, Hehe Fan, Meng Wang
 
-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,7 +59,8 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
-
+</div>
+</div>
 
 [Performance Analysis of Traditional VQA Models Under Limited Computational Resources](https://ieeexplore.ieee.org/abstract/document/11159683)
 
