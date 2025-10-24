@@ -160,7 +160,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
   >
   > **Optional:** Inverse Problems, 3D Geometry, Numerical Optimisation, Virtual Environments 
   >
-  > **Result:** Pass with Distinction
+  > **Score:** Pass with Distinction
 
 - *09/2020 - 06/2024*: Undergraduate, Computer Science and Technology, Hefei University of Technology, China 
 
