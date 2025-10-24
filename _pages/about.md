@@ -76,28 +76,6 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 **Jihao Gu**
 
-# 👥Peer Review
-
-- *2025.08*: Reviewer for Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**)
-- *2025.04*: Reviewer for Engineering Applications of Artificial Intelligence(**EAAI**)
-- *2025.04*: Reviewer for Intelligent Data Analysis(**IDA**)
-- *2025.03*: Reviewer for The 2025 International Joint Conference on Neural Networks (**IJCNN’25**)
-- *2024.02*: Reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval(**SIGIR’24**)
-
-# 📖 Educations
-
-- *09/2024 - 09/2025* Postgraduate, Computer Graphics, Vision and Imaging , University College London, UK 
-
-  > **Modules:** Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing 
-  >
-  > **Optional:** Inverse Problems, 3D Geometry, Numerical Optimisation, Virtual Environments 
-  >
-  > **Result:** Pass with Distinction
-
-- *09/2020 - 06/2024* Graduate, Computer Science and Technology, Hefei University of Technology, China 
-
-  > **GPA:** 90.10% (3.85/4.0), Rank: 5/152
-
 # 🔬 Patents
 
 - Blind Travel Obstacle Avoidance Assistance System V1.0 [2023SR0517944]
@@ -116,8 +94,32 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 - *2022.09*: "Three Good Students" Award
 - *2021.09*: Second-Class Scholarship
 
+# 👥Services
+
+- *2025.08*: Volunteer for International Joint Conferences on Artificial Intelligence, Guangzhou (**IJCAI**)
+- *2025.08*: Reviewer for Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+- *2025.04*: Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**)
+- *2025.04*: Reviewer for Intelligent Data Analysis (**IDA**)
+- *2025.03*: Reviewer for The 2025 International Joint Conference on Neural Networks (**IJCNN’25**)
+- *2024.02*: Reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR’24**)
+
 # 💻 Internships
 - *2023.07 - 2023.08*: Embedded Development Assistant, Shenzhen Boshengteng Technology Co., Ltd.
 - *2023.03 - 2023.06*: Algorithm Development Assistant, Shenzhen Boshengteng Technology Co., Ltd.
   
 - *2023.01 - 2023.02*: Python Development Engineer Assistant, Beijing Tuosida Technology Development Co., Ltd.
+
+
+# 📖 Educations
+
+- *09/2024 - 09/2025* Postgraduate, Computer Graphics, Vision and Imaging , University College London, UK 
+
+  > **Modules:** Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing 
+  >
+  > **Optional:** Inverse Problems, 3D Geometry, Numerical Optimisation, Virtual Environments 
+  >
+  > **Result:** Pass with Distinction
+
+- *09/2020 - 06/2024* Graduate, Computer Science and Technology, Hefei University of Technology, China 
+
+  > **GPA:** 90.10% (3.85/4.0), Rank: 5/152
