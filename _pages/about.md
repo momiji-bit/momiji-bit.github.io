@@ -27,8 +27,8 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by **ACM MM 2025**.
-- *2025.05*:  🏆 The Champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
+- *2025.07*:  🎉 Our paper accepted by **ACM MM 2025**.
+- *2025.05*:  🏆 Won the Champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
 
 # 📝 Publications 
 
@@ -36,6 +36,8 @@ If you are seeking any form of academic collaboration, please feel free to conta
 <div class='paper-box-text' markdown="1">
 
 **Text-guided Fine-Grained Video Anomaly Detection** (*under-review*)
+
+[[Eurographics'26\]](https://eg2026.github.io/) [Paper] [Project]
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
@@ -45,7 +47,9 @@ If you are seeking any form of academic collaboration, please feel free to conta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MMN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition](https://arxiv.org/abs/2507.21977)
+Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition
+
+[[ACM MM'25](https://acmmm2025.org/)] [[Paper](https://arxiv.org/abs/2507.21977)] [[Project](https://github.com/momiji-bit/MMN)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red"></a><a href="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow"></a>
 
 **Jihao Gu**, Kun Li, Fei Wang, Yanyan Wei, Zhiliang Wu, Hehe Fan, Meng Wang
 
@@ -55,24 +59,30 @@ If you are seeking any form of academic collaboration, please feel free to conta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion](https://arxiv.org/abs/2507.21977)
+MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion
+
+[[IJCAI'25](https://2025.ijcai.org/)] [[Paper](https://arxiv.org/abs/2507.08344)] [[Project](https://github.com/momiji-bit/MM-Gesture)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red"></a><a href="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow"></a>
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
+- 🏆 The Champion of Micro-gesture Classification sub-challenge in MiGA@IJCAI2025.
+
 </div>
 </div>
 
-[Performance Analysis of Traditional VQA Models Under Limited Computational Resources](https://ieeexplore.ieee.org/abstract/document/11159683)
+Performance Analysis of Traditional VQA Models Under Limited Computational Resources
+
+[[PRML'25](https://www.prml.org/prml2025.html)] [[Paper](https://ieeexplore.ieee.org/abstract/document/11159683)]
 
 **Jihao Gu**
 
 # 👥Peer Review
 
-- *2025.08* Reviewer for Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**)
-- *2025.04* Reviewer for Engineering Applications of Artificial Intelligence(**EAAI**)
-- *2025.04* Reviewer for Intelligent Data Analysis(**IDA**)
-- *2025.03* Reviewer for The 2025 International Joint Conference on Neural Networks (**IJCNN’25**)
-- *2024.02* Reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval(**SIGIR’24**)
+- *2025.08*: Reviewer for Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**)
+- *2025.04*: Reviewer for Engineering Applications of Artificial Intelligence(**EAAI**)
+- *2025.04*: Reviewer for Intelligent Data Analysis(**IDA**)
+- *2025.03*: Reviewer for The 2025 International Joint Conference on Neural Networks (**IJCNN’25**)
+- *2024.02*: Reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval(**SIGIR’24**)
 
 # 📖 Educations
 
@@ -98,21 +108,16 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 🎖 Honors and Awards
 
-- *2024.06* Outstanding Graduate of Hefei University of Technology. 
-- *2024.06* Outstanding Graduation Thesis (Design)
-- *2023.09* First-Class Scholarship
-- *2023.09* "Three Good Students" Award
-- *2022.09* Second-Class Scholarship
-- *2022.09* "Three Good Students" Award
-- *2021.09* Second-Class Scholarship
+- *2024.06*: Outstanding Graduate of Hefei University of Technology. 
+- *2024.06*: Outstanding Graduation Thesis (Design)
+- *2023.09*: First-Class Scholarship
+- *2023.09*: "Three Good Students" Award
+- *2022.09*: Second-Class Scholarship
+- *2022.09*: "Three Good Students" Award
+- *2021.09*: Second-Class Scholarship
 
 # 💻 Internships
-- **Shenzhen Boshengteng Technology Co., Ltd.** — *Embedded Development Assistant* (07/2023 - 08/2023)  
-
-  > Focused on AI chip design (RISC-V, Verilog), power optimization, and embedded neural network architecture design.
-
-- **Shenzhen Boshengteng Technology Co., Ltd.** — *Algorithm Development Assistant* (03/2023 - 06/2023)  
-  > Contributed to APA/HPP driving tech projects, model optimization, and perception documentation.
-
-- **Beijing Tuosida Technology Development Co., Ltd.** — *Python Development Engineer Assistant* (01/2023 - 02/2023)  
-  > Developed ML models with PyTorch/TensorFlow and maintained full development documentation.
+- *2023.07 - 2023.08*: Embedded Development Assistant, Shenzhen Boshengteng Technology Co., Ltd.
+- *2023.03 - 2023.06*: Algorithm Development Assistant, Shenzhen Boshengteng Technology Co., Ltd.
+  
+- *2023.01 - 2023.02*: Python Development Engineer Assistant, Beijing Tuosida Technology Development Co., Ltd.
