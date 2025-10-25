@@ -28,7 +28,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 🔥 News
 - *2025.07*:  🎉🎉🎉 Our paper accepted by **ACM MM 2025**.
-- *2025.05*:  🏆🏆🏆 Won the Champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
+- *2025.05*:  🏆🏆🏆 Our work won the champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
 
 # 📝 Publications 
 
@@ -65,7 +65,7 @@ MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
-- 🏆 The Champion of Micro-gesture Classification sub-challenge in MiGA@IJCAI2025.
+> 🏆 The Champion of Micro-gesture Classification sub-challenge in MiGA@IJCAI2025.
 
 </div>
 </div>
@@ -145,7 +145,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 # 🤝 Services
 
-- *2025.08*: Volunteer for International Joint Conferences on Artificial Intelligence, Guangzhou (**IJCAI**)
+- *2025.08*: Volunteer for International Joint Conferences on Artificial Intelligence(Guangzhou) (**IJCAI**)
 - *2025.08*: Reviewer for Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
 - *2025.04*: Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**)
 - *2025.04*: Reviewer for Intelligent Data Analysis (**IDA**)
