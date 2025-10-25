@@ -27,10 +27,10 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 
 # 🔥 News
-- *2025.07*:  🎉 Our paper accepted by **ACM MM 2025**.
-- *2025.05*:  🏆 Won the Champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
+- *2025.07*:  🎉🎉🎉 Our paper accepted by **ACM MM 2025**.
+- *2025.05*:  🏆🏆🏆 Won the Champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
 
-# 📝Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Eurographics 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,7 +82,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 </div>
 </div>
 
-# 🔬Projects
+# 🔬 Projects
 
 - *2025.09 - now*: MABench: Towards Fine-grained Micro-Action Understanding
 
@@ -118,7 +118,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   > This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. The primary contributions of this thesis are as follows: (1) the design and implementation of a navigation system based on visual environmental perception; (2) the proposal of a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals; (3) the development of an offset warning system leveraging semantic segmentation techniques; (4) the introduction of a collision warning method utilizing image-based object detection and visual depth estimation; (5) the formulation of a route planning method founded on weighted undirected graph principles; and (6) the construction of a road image dataset specifically for the Hefei University of Technology campus.
 
-# 🧾Patents
+# 🧾 Patents
 
 - Blind Travel Obstacle Avoidance Assistance System V1.0 [2023SR0517944]
 - Outdoor Visual Impairment Assisting Method based on Deep Intelligent Interaction [[CN114724053A]](https://patents.google.com/patent/CN114724053A/en)  
@@ -126,7 +126,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 - Route Planning Method for Visually Impaired People [[CN116448130A]](https://patents.google.com/patent/CN116448130A/en)  
 - Collision Warning Method based on Image Target Detection and Depth Estimation [[CN116403146A]](https://patents.google.com/patent/CN116403146A/en)
 
-# 🎖Honors and Awards
+# 🎖 Honors and Awards
 
 - *2024.06*: Outstanding Graduate of Hefei University of Technology. 
 - *2024.06*: Outstanding Graduation Thesis (Design)
@@ -136,14 +136,14 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 - *2022.09*: "Three Good Students" Award
 - *2021.09*: Second-Class Scholarship
 
-# 💼Internships
+# 💼 Internships
 
 - *2023.07 - 2023.08*: Embedded Development Assistant, Shenzhen Boshengteng Technology Co., Ltd.
 - *2023.03 - 2023.06*: Algorithm Development Assistant, Shenzhen Boshengteng Technology Co., Ltd.
 
 - *2023.01 - 2023.02*: Python Development Engineer Assistant, Beijing Tuosida Technology Development Co., Ltd.
 
-# 🤝Services
+# 🤝 Services
 
 - *2025.08*: Volunteer for International Joint Conferences on Artificial Intelligence, Guangzhou (**IJCAI**)
 - *2025.08*: Reviewer for Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
@@ -152,7 +152,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 - *2025.03*: Reviewer for The 2025 International Joint Conference on Neural Networks (**IJCNN’25**)
 - *2024.02*: Reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR’24**)
 
-# 📖Educations
+# 📖 Educations
 
 - *09/2024 - 09/2025*: Postgraduate, Computer Graphics, Vision and Imaging , University College London, UK 
 
