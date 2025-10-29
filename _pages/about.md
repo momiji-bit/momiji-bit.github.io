@@ -61,7 +61,7 @@ Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action
 
 MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion
 
-[[IJCAI'25](https://2025.ijcai.org/)] [[Paper](https://arxiv.org/abs/2507.08344)] [[Project](https://github.com/momiji-bit/MM-Gesture)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow"></a>
+[[IJCAI'25 Workshop](https://2025.ijcai.org/)] [[Paper](https://arxiv.org/abs/2507.08344)] [[Project](https://github.com/momiji-bit/MM-Gesture)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow"></a>
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
