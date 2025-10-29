@@ -23,7 +23,7 @@ I received my **BEng in Computer Science and Technology** from [Hefei University
 
 My research interests span **computer vision**, **multimodal learning**, and **vision-language understanding**, with an emphasis on perception, reasoning, and generation in visual intelligence. I am particularly interested in building systems that connect human motion, emotion, and cognition through multimodal signals, with additional interests in autonomous driving and environmental perception.
 
-If you are seeking any form of academic collaboration, please feel free to contact me.
+If you are seeking any form of academic collaboration, please feel free to contact me. <a href='https://scholar.google.com/citations?user=fSWwq3AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
