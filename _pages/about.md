@@ -65,7 +65,7 @@ MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
-> 🏆 The Champion of Micro-gesture Classification sub-challenge in MiGA@IJCAI2025.
+> 🏆 The Champion of Micro-gesture Classification sub-challenge in [MiGA@IJCAI2025](https://cv-ac.github.io/MiGA2025).
 
 </div>
 </div>
@@ -75,7 +75,7 @@ MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion
 
 Performance Analysis of Traditional VQA Models Under Limited Computational Resources
 
-[[PRML'25](https://www.prml.org/prml2025.html)] [[Paper](https://ieeexplore.ieee.org/abstract/document/11159683)]
+[[IEEE PRML'25](https://www.prml.org/prml2025.html)] [[Paper](https://ieeexplore.ieee.org/abstract/document/11159683)]
 
 **Jihao Gu**
 
