@@ -49,7 +49,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition
 
-[[ACM MM'25](https://acmmm2025.org/)] [[Paper](https://arxiv.org/abs/2507.21977)] [[Project](https://github.com/momiji-bit/MMN)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow"></a>
+[[ACM MM'25](https://acmmm2025.org/)] [[Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754722)] [[Project](https://github.com/momiji-bit/MMN)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow"></a>
 
 **Jihao Gu**, Kun Li, Fei Wang, Yanyan Wei, Zhiliang Wu, Hehe Fan, Meng Wang
 
