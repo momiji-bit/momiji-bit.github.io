@@ -32,12 +32,12 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Eurographics 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anonymous 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Text-guided Fine-Grained Video Anomaly Detection** (*under-review*)
 
-[[Eurographics'26\]](https://eg2026.github.io/) [Paper] [Project]
+[Anonymous]) [Paper] [Project]
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
