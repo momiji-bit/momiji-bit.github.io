@@ -37,7 +37,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **Text-guided Fine-Grained Video Anomaly Detection** (*under-review*)
 
-[Anonymous] [[Paper]](https://arxiv.org/abs/2511.00524) [Project]
+[Anonymous] [[Paper](https://arxiv.org/abs/2511.00524)] [Project]
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
