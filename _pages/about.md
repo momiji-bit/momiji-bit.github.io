@@ -150,10 +150,10 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 # 💼 Internships
 
-- *2023.07 - 2023.08*: Embedded Development Assistant, Shenzhen Boshengteng Technology Co., Ltd.
-- *2023.03 - 2023.06*: Algorithm Development Assistant, Shenzhen Boshengteng Technology Co., Ltd.
-
-- *2023.01 - 2023.02*: Python Development Engineer Assistant, Beijing Tuosida Technology Development Co., Ltd.
+- *2025.09 - now*: Research Assistant, [Computational Light Laboratory](https://complightlab.com), University College London, London, UK
+- *2023.07 - 2023.08*: Embedded Development Assistant, Shenzhen Boshengteng Technology Co., Ltd., Shenzhen, China
+- *2023.03 - 2023.06*: Algorithm Development Assistant, Shenzhen Boshengteng Technology Co., Ltd., Shenzhen, China
+- *2023.01 - 2023.02*: Python Development Engineer Assistant, Beijing Tuosida Technology Development Co., Ltd., Beijing, China
 
 # 🤝 Services
 
