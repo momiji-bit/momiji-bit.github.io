@@ -159,8 +159,8 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 - *2025.08*: Volunteer for International Joint Conferences on Artificial Intelligence(Guangzhou) (**IJCAI**)
 - *2025.08*: Reviewer for Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
-- *2025.04*: Reviewer for Engineering Applications of Artificial Intelligence (**EAAI***4)
-- *2025.04*: Reviewer for Intelligent Data Analysis (**IDA***2)
+- *2025.04*: Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**×4)
+- *2025.04*: Reviewer for Intelligent Data Analysis (**IDA**×2)
 - *2025.03*: Reviewer for The 2025 International Joint Conference on Neural Networks (**IJCNN’25**)
 - *2024.02*: Reviewer for The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR’24**)
 
