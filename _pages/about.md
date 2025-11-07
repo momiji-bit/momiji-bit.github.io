@@ -32,6 +32,18 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anonymous 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MA-Bench: Towards Fine-grained Micro-Action Understanding** (*under-review*)
+
+[Anonymous] [Paper] [Project]
+
+Kun Li, **Jihao Gu**, et al.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anonymous 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
