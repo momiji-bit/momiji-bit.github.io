@@ -100,7 +100,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
 
-  > We aim to bridge the gap between Micro-Action Recognition and Multimodal Large Language Models (MLLMs) by constructing a fine-grained visual-text dataset.
+  > With the rapid development of Multimodal Large Language Models (MLLMs), their potential in Micro-Action Recognition, a field that plays a vital role in human emotion analysis, remains largely unexplored due to the absence of specialized benchmarks. To bridge this gap, we present MA-Bench, a comprehensive benchmark comprising 1,000 videos and a three-tier evaluation architecture that progressively examines micro-action perception, relational comprehension, and interpretive reasoning. MA-Bench contains 8, 000 structured question–answer pairs, enabling systematic assessment of both recognition accuracy and action interpretive. Through extensive evaluations of 23 representative MLLMs, we reveal significant limitations in capturing motion granularity and fine-grained body-part dynamics. To address these challenges, we further construct MA-Bench-Train, a large-scale training corpus with 20K videos annotated for detailed motion patterns. Finetuning Qwen3-VL-8B on MA-Bench-Train achieves consistent gains across micro-action reasoning tasks. Together, MA-Bench and MA-Bench-Train establish a solid foundation for advancing MLLMs toward a deeper understanding of subtle human motions and emotion-related behaviors.
 
 - *2025.03 - 2025.09*: Text-guided Recognition of Events for Anomaly Detection
 
