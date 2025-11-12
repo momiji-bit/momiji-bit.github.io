@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am currently a **Research Assistant** at the [Computational Light Laboratory](https://complightlab.com), University College London, working under the supervision of [**Assoc. Kaan Akşit**](https://www.kaanaksit.com/). I am also in the process of applying for PhD programs in Computer Vision.
 
-I’m currently pursuing an **MSc in Computer Graphics, Vision and Imaging** at [University College London](https://www.ucl.ac.uk/). Under the supervision of [**Assoc. Kaan Akşit**](https://www.kaanaksit.com/), my current research focuses on text-guided video anomaly detection (VAD) based on Large Vision-Language Models (LVLMs), aiming to enable fine-grained, interpretable, and human-centered video understanding.
+I recently completed my **MSc in Computer Graphics, Vision and Imaging** at [University College London](https://www.ucl.ac.uk/). Under the supervision of [**Assoc. Kaan Akşit**](https://www.kaanaksit.com/), my research centers on text-guided video anomaly detection (VAD) based on Large Vision-Language Models (LVLMs), aiming to enable fine-grained, interpretable, and human-centered video understanding.
 
 I received my **BEng in Computer Science and Technology** from [Hefei University of Technology](https://ci.hfut.edu.cn/), School of Computer Science and Information Engineering (School of Artificial Intelligence), where I was supervised by [**Prof. Dan Guo**](https://faculty.hfut.edu.cn/gd/en/index.htm). During my undergraduate studies, I conducted research on visual perception systems for assisting visually impaired individuals, exploring multimodal sensing, intelligent interaction, and navigation technologies.
 
