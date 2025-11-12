@@ -30,6 +30,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 # 🔥 News
 - *2025.07*:  🎉🎉🎉 Our paper accepted by **ACM MM 2025**.
 - *2025.05*:  🏆🏆🏆 Our work won the champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
+- *2024.06*:  🏆🏆🏆 My undergraduate thesis was recognized as the **Best Thesis Award** at Hefei University of Technology.
 
 # 📝 Publications 
 
