@@ -46,12 +46,12 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anonymous 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Eurographics 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Text-guided Fine-Grained Video Anomaly Detection** (*under-review*)
 
-[Anonymous] [[Paper](https://arxiv.org/abs/2511.00524)] [Project]
+[[Eurographics'26](https://eg2026.github.io/)] [[Paper](https://arxiv.org/abs/2511.00524)] [Project]
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
