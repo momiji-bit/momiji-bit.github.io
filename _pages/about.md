@@ -172,9 +172,9 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   > **Modules:** Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing 
   >
-  > **Optional:** Inverse Problems, 3D Geometry, Numerical Optimisation, Virtual Environments 
+  > **Optional:** Inverse Problems in lmaging, Acquisition and Processing of 3D Geometry, Numerical Optimisation, Virtual Environments 
   >
-  > **Score:** Pass with Distinction
+  > **Score:** Pass with Distinction (78.30/100)
 
 - *09/2020 - 06/2024*: Undergraduate, Computer Science and Technology, Hefei University of Technology, China 
 
