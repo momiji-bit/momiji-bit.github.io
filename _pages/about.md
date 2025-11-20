@@ -39,7 +39,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **MA-Bench: Towards Fine-grained Micro-Action Understanding** (*under-review*)
 
-[[CVPR](https://cvpr.thecvf.com/)] [Paper] [Project]
+[[CVPR'26](https://cvpr.thecvf.com/)] [Paper] [Project]
 
 Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
