@@ -159,6 +159,8 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 # 🤝 Services
 
+- *2025.11*: Reviewer for IEEE Transactions on Multimedia (**TMM**)
+- *2025.11*: Reviewer for IEEE Transactions on Multimedia Computing Communications, and Applications (**TOMM**)
 - *2025.08*: Volunteer for International Joint Conferences on Artificial Intelligence(Guangzhou) (**IJCAI**)
 - *2025.08*: Reviewer for Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
 - *2025.04*: Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**×4)
