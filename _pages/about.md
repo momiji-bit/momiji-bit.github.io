@@ -128,7 +128,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   [Undergraduate Project] [[Thesis](https://github.com/momiji-bit/Bachelor-s-Degree-Project/blob/main/[终版]谷纪豪_毕业论文.pdf)] [[Project](https://github.com/momiji-bit/UG-Thesis-VEPNav)]
 
-  **Jihao Gu**, [Guo Dan (Supervisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm),[Meng Wang (Co-supervisor)](https://sites.google.com/view/meng-wang/home)
+  **Jihao Gu**, [Guo Dan (Supervisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm), [Meng Wang (Co-supervisor)](https://sites.google.com/view/meng-wang/home)
 
   > This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. The primary contributions of this thesis are as follows: (1) the design and implementation of a navigation system based on visual environmental perception; (2) the proposal of a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals; (3) the development of an offset warning system leveraging semantic segmentation techniques; (4) the introduction of a collision warning method utilizing image-based object detection and visual depth estimation; (5) the formulation of a route planning method founded on weighted undirected graph principles; and (6) the construction of a road image dataset specifically for the Hefei University of Technology campus.
 
