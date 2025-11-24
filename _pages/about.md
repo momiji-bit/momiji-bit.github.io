@@ -98,17 +98,18 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 # 🔬 Projects
 
-- *2025.09 - now*: MABench: Towards Fine-grained Micro-Action Understanding
+- *2025.09 - 2025.11*: MABench: Towards Fine-grained Micro-Action Understanding
 
   **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
 
-  > With the rapid development of Multimodal Large Language Models (MLLMs), their potential in Micro-Action Recognition, a field that plays a vital role in human emotion analysis, remains largely unexplored due to the absence of specialized benchmarks. To bridge this gap, we present MA-Bench, a comprehensive benchmark comprising 1,000 videos and a three-tier evaluation architecture that progressively examines micro-action perception, relational comprehension, and interpretive reasoning. MA-Bench contains 8, 000 structured question–answer pairs, enabling systematic assessment of both recognition accuracy and action interpretive. Through extensive evaluations of 23 representative MLLMs, we reveal significant limitations in capturing motion granularity and fine-grained body-part dynamics. To address these challenges, we further construct MA-Bench-Train, a large-scale training corpus with 20K videos annotated for detailed motion patterns. Finetuning Qwen3-VL-8B on MA-Bench-Train achieves consistent gains across micro-action reasoning tasks. Together, MA-Bench and MA-Bench-Train establish a solid foundation for advancing MLLMs toward a deeper understanding of subtle human motions and emotion-related behaviors.
+  > Proposed MA-Bench, a comprehensive benchmark comprising 1,000 videos and a three-tier evaluation architecture that progressively examines micro-action perception, relational comprehension, and interpretive reasoning
+  > Constructed MA-Bench-Train, a large-scale training corpus with 20K videos annotated for detailed motion patterns and finetuned Qwen3-VL-8B on MA-Bench-Train, achieving consistent gains across micro-action reasoning tasks
 
 - *2025.03 - 2025.09*: Text-guided Recognition of Events for Anomaly Detection
 
   [Postgraduate Project] [Thesis]
 
-  **Jihao Gu**, [Kaan Akşit (Supervisor)](https://kaanaksit.com/)
+  **Jihao Gu**, [Kaan Akşit (Supervisor)](https://kaanaksit.com/), [He Wang](https://drhewang.com/)
 
   > Video Anomaly Detection (VAD) aims to identify anomalous events within video segments. In scenarios such as surveillance or industrial process monitoring, anomaly detection is of critical importance. While existing approaches are semi-automated requiring human assessment for anomaly detection, traditional VADs are offering limited output as either normal or anomalous. We propose Text-guided Recognition of Events for Anomaly Detection (TREAD), a framework built upon Large Vision-Language Models (LVLMs). TREAD introduces an Anomaly Heatmap Decoder (AHD) that performs pixel-wise visual-textual feature alignment to generate fine-grained anomaly heatmaps. Furthermore, we design a Region-aware Anomaly Encoder (RAE) that transforms the heatmaps into learnable textual embeddings, guiding the LVLM to accurately identify and localize anomalous events in videos. This significantly enhances both the granularity and interactivity of anomaly detection. Our proposed method achieves SOTA performance by demonstrating 94.8% micro-AUC and 67.8% / 76.7% accuracy in anomaly heatmaps (RBDC / TBDC) on the UBnormal dataset, and subjectively more preferable textual descriptions on the ShanghaiTech-based dataset (BLEU-4: 62.67 for targets, 88.84 for trajectories; Yes/No accuracy: 97.67%).
 
@@ -122,7 +123,10 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   **Jihao Gu**, [Shengeng Tang](https://tangshengeng.github.io/)
 
-  > Enhanced a Transformer-based model for sign language recognition, achieving improved translation accuracy and reduced word error rate.
+  > Read and analyzed two papers in detail, and learned the application of the Transformer architecture in sign language recognition and the design idea of the dual-block module
+  > Used the PyTorch toolkit to reproduce the model in the paper, and achieved similar BLEU and WER scores on the validation set and test set
+  > Combined the dual-block module with the reproduced model, and enhanced the BLEU and WER scores on the validation set and test set by parameter adjustment and multiple rounds of training
+
 
 - *2021.06 - 2024.06*: Navigation System for Visually Impaired People Based on Visual Ambient Intelligence
 
@@ -130,7 +134,13 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   **Jihao Gu**, [Guo Dan (Supervisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm), [Meng Wang (Co-supervisor)](https://sites.google.com/view/meng-wang/home)
 
-  > This thesis proposes a visually aware navigation system to assist visually impaired individuals in outdoor travel. By integrating computer vision, artificial intelligence, and cloud computing technologies, the system captures environmental information using a binocular camera and processes the data through advanced algorithms such as object detection and semantic segmentation. The primary contributions of this thesis are as follows: (1) the design and implementation of a navigation system based on visual environmental perception; (2) the proposal of a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals; (3) the development of an offset warning system leveraging semantic segmentation techniques; (4) the introduction of a collision warning method utilizing image-based object detection and visual depth estimation; (5) the formulation of a route planning method founded on weighted undirected graph principles; and (6) the construction of a road image dataset specifically for the Hefei University of Technology campus.
+  > Designed and implemented a navigation system based on visual environmental perception, with accuracy increased by approximately 15% compared with traditional navigation systems
+  > Proposed a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals
+  > Developed an offset warning system leveraging semantic segmentation techniques
+  > Introduced a collision warning method utilizing image-based object detection and visual depth estimation
+  > Formulated a route planning method founded on weighted undirected graph principles
+  > Constructed a road image dataset specifically for the Hefei University of Technology campus, which contains over 12,000 images
+
 
 # 🧾 Patents
 
