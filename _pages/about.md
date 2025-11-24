@@ -105,13 +105,17 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
   > Proposed MA-Bench, a comprehensive benchmark comprising 1,000 videos and a three-tier evaluation architecture that progressively examines micro-action perception, relational comprehension, and interpretive reasoning
   > Constructed MA-Bench-Train, a large-scale training corpus with 20K videos annotated for detailed motion patterns and finetuned Qwen3-VL-8B on MA-Bench-Train, achieving consistent gains across micro-action reasoning tasks
 
-- *2025.03 - 2025.09*: Text-guided Recognition of Events for Anomaly Detection
+- *2025.03 - 2025.09*: Text-guided Fine-Grained Video Anomaly
 
   [Postgraduate Project] [Thesis]
 
   **Jihao Gu**, [Kaan Akşit (Supervisor)](https://kaanaksit.com/), [He Wang (Co-supervisor)](https://drhewang.com/)
 
-  > Video Anomaly Detection (VAD) aims to identify anomalous events within video segments. In scenarios such as surveillance or industrial process monitoring, anomaly detection is of critical importance. While existing approaches are semi-automated requiring human assessment for anomaly detection, traditional VADs are offering limited output as either normal or anomalous. We propose Text-guided Recognition of Events for Anomaly Detection (TREAD), a framework built upon Large Vision-Language Models (LVLMs). TREAD introduces an Anomaly Heatmap Decoder (AHD) that performs pixel-wise visual-textual feature alignment to generate fine-grained anomaly heatmaps. Furthermore, we design a Region-aware Anomaly Encoder (RAE) that transforms the heatmaps into learnable textual embeddings, guiding the LVLM to accurately identify and localize anomalous events in videos. This significantly enhances both the granularity and interactivity of anomaly detection. Our proposed method achieves SOTA performance by demonstrating 94.8% micro-AUC and 67.8% / 76.7% accuracy in anomaly heatmaps (RBDC / TBDC) on the UBnormal dataset, and subjectively more preferable textual descriptions on the ShanghaiTech-based dataset (BLEU-4: 62.67 for targets, 88.84 for trajectories; Yes/No accuracy: 97.67%).
+  > Proposed Text-guided Fine-Grained Video Anomaly Detection (T-VAD), a framework built upon Large Vision-Language Model (LVLM)
+  > Introduced an Anomaly Heatmap Decoder (AHD) that performs pixel-wise visual-textual feature alignment to generate fine-grained anomaly heatmaps
+  > Designed a Region-aware Anomaly Encoder (RAE) that transforms the heatmaps into learnable textual embeddings, guiding the LVLM to accurately identify and localize anomalous events in videos
+  > Achieved SOTA performance by demonstrating 94.8% micro-AUC and 67.8% / 76.7% accuracy in anomaly heatmaps (RBDC / TBDC) on the UBnormal dataset
+
 
 - *2024.01 - 2024.06*: Enhancing the Baseline Performance of OrienterNet for Visual Localization
 
