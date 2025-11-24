@@ -102,8 +102,8 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
 
-  > Proposed MA-Bench, a comprehensive benchmark comprising 1,000 videos and a three-tier evaluation architecture that progressively examines micro-action perception, relational comprehension, and interpretive reasoning
-  > Constructed MA-Bench-Train, a large-scale training corpus with 20K videos annotated for detailed motion patterns and finetuned Qwen3-VL-8B on MA-Bench-Train, achieving consistent gains across micro-action reasoning tasks
+  > - Proposed MA-Bench, a comprehensive benchmark comprising 1,000 videos and a three-tier evaluation architecture that progressively examines micro-action perception, relational comprehension, and interpretive reasoning
+  > - Constructed MA-Bench-Train, a large-scale training corpus with 20K videos annotated for detailed motion patterns and finetuned Qwen3-VL-8B on MA-Bench-Train, achieving consistent gains across micro-action reasoning tasks
 
 - *2025.03 - 2025.09*: Text-guided Fine-Grained Video Anomaly
 
@@ -111,10 +111,10 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   **Jihao Gu**, [Kaan Akşit (Supervisor)](https://kaanaksit.com/), [He Wang (Co-supervisor)](https://drhewang.com/)
 
-  > Proposed Text-guided Fine-Grained Video Anomaly Detection (T-VAD), a framework built upon Large Vision-Language Model (LVLM)
-  > Introduced an Anomaly Heatmap Decoder (AHD) that performs pixel-wise visual-textual feature alignment to generate fine-grained anomaly heatmaps
-  > Designed a Region-aware Anomaly Encoder (RAE) that transforms the heatmaps into learnable textual embeddings, guiding the LVLM to accurately identify and localize anomalous events in videos
-  > Achieved SOTA performance by demonstrating 94.8% micro-AUC and 67.8% / 76.7% accuracy in anomaly heatmaps (RBDC / TBDC) on the UBnormal dataset
+  > - Proposed Text-guided Fine-Grained Video Anomaly Detection (T-VAD), a framework built upon Large Vision-Language Model (LVLM)
+  > - Introduced an Anomaly Heatmap Decoder (AHD) that performs pixel-wise visual-textual feature alignment to generate fine-grained anomaly heatmaps
+  > - Designed a Region-aware Anomaly Encoder (RAE) that transforms the heatmaps into learnable textual embeddings, guiding the LVLM to accurately identify and localize anomalous events in videos
+  > - Achieved SOTA performance by demonstrating 94.8% micro-AUC and 67.8% / 76.7% accuracy in anomaly heatmaps (RBDC / TBDC) on the UBnormal dataset
 
 
 - *2024.01 - 2024.06*: Enhancing the Baseline Performance of OrienterNet for Visual Localization
@@ -127,9 +127,9 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   **Jihao Gu**, [Shengeng Tang](https://tangshengeng.github.io/)
 
-  > Read and analyzed two papers in detail, and learned the application of the Transformer architecture in sign language recognition and the design idea of the dual-block module
-  > Used the PyTorch toolkit to reproduce the model in the paper, and achieved similar BLEU and WER scores on the validation set and test set
-  > Combined the dual-block module with the reproduced model, and enhanced the BLEU and WER scores on the validation set and test set by parameter adjustment and multiple rounds of training
+  > - Read and analyzed two papers in detail, and learned the application of the Transformer architecture in sign language recognition and the design idea of the dual-block module
+  > - Used the PyTorch toolkit to reproduce the model in the paper, and achieved similar BLEU and WER scores on the validation set and test set
+  > - Combined the dual-block module with the reproduced model, and enhanced the BLEU and WER scores on the validation set and test set by parameter adjustment and multiple rounds of training
 
 
 - *2021.06 - 2024.06*: Navigation System for Visually Impaired People Based on Visual Ambient Intelligence
@@ -138,12 +138,12 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   **Jihao Gu**, [Guo Dan (Supervisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm), [Meng Wang (Co-supervisor)](https://sites.google.com/view/meng-wang/home)
 
-  > Designed and implemented a navigation system based on visual environmental perception, with accuracy increased by approximately 15% compared with traditional navigation systems
-  > Proposed a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals
-  > Developed an offset warning system leveraging semantic segmentation techniques
-  > Introduced a collision warning method utilizing image-based object detection and visual depth estimation
-  > Formulated a route planning method founded on weighted undirected graph principles
-  > Constructed a road image dataset specifically for the Hefei University of Technology campus, which contains over 12,000 images
+  > - Designed and implemented a navigation system based on visual environmental perception, with accuracy increased by approximately 15% compared with traditional navigation systems
+  > - Proposed a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals
+  > - Developed an offset warning system leveraging semantic segmentation techniques
+  > - Introduced a collision warning method utilizing image-based object detection and visual depth estimation
+  > - Formulated a route planning method founded on weighted undirected graph principles
+  > - Constructed a road image dataset specifically for the Hefei University of Technology campus, which contains over 12,000 images
 
 
 # 🧾 Patents
