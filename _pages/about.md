@@ -173,6 +173,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 # 🤝 Services
 
+- *2025.12*: Data Chair for The 3rd Micro-Action Analysis Grand Challenge (**ACM MM'26**, MAC)
 - *2025.11*: Reviewer for IEEE Transactions on Multimedia (**TMM**)
 - *2025.11*: Reviewer for ACM Transactions on Multimedia Computing Communications, and Applications (**TOMM**)
 - *2025.08*: Volunteer for International Joint Conference on Artificial Intelligence (**IJCAI'25**, Guangzhou)
