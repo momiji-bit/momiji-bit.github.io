@@ -34,24 +34,24 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MA-Bench: Towards Fine-grained Micro-Action Understanding** (*under-review*)
 
-[[CVPR'26](https://cvpr.thecvf.com/)] [Paper] [Project]
+[Preprint] [Paper] [Project]
 
 Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Eurographics 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Text-guided Fine-Grained Video Anomaly Detection** (*under-review*)
 
-[[Eurographics'26](https://eg2026.github.io/)] [[Paper](https://arxiv.org/abs/2511.00524)] [Project]
+[Preprint] [[Paper](https://arxiv.org/abs/2511.00524)] [Project]
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
