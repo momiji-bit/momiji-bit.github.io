@@ -127,7 +127,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
   **Jihao Gu**, [Yan Da (Supervisor)](https://homes.luddy.indiana.edu/yanda/home.html)
 
-  > Our task aims to further optimize OrienterNet, a neural network-based visual localization method designed to achieve accurate localization using 2D public maps (e.g., planar maps). The original approach matches camera-captured images with public maps, effectively addressing localization challenges in GPS-denied scenarios, especially in indoor and complex urban environments.
+  > - Our task aims to further optimize OrienterNet, a neural network-based visual localization method designed to achieve accurate localization using 2D public maps (e.g., planar maps). The original approach matches camera-captured images with public maps, effectively addressing localization challenges in GPS-denied scenarios, especially in indoor and complex urban environments.
 
 - *2022.12 - 2023.10*: End-to-End Sign Language Recognition using Transformers, 12/2022 - 10/2023
 
