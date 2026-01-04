@@ -98,6 +98,10 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 # 🔬 Projects
 
+- *2025.12 - Present*: Reflective Meta-Learner Agent for Micro-Action Recognition
+
+  **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
+
 - *2025.09 - 2025.11*: MABench: Towards Fine-grained Micro-Action Understanding
 
   **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
@@ -166,7 +170,7 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 # 💼 Internships
 
-- *2025.09 - now*: Research Assistant, [Computational Light Laboratory](https://complightlab.com), University College London, London, UK
+- *2025.09 - Present*: Research Assistant, [Computational Light Laboratory](https://complightlab.com), University College London, London, UK
 - *2023.07 - 2023.08*: Embedded Development Assistant, Shenzhen Boshengteng Technology Co., Ltd., Shenzhen, China
 - *2023.03 - 2023.06*: Algorithm Development Assistant, Shenzhen Boshengteng Technology Co., Ltd., Shenzhen, China
 - *2023.01 - 2023.02*: Python Development Engineer Assistant, Beijing Tuosida Technology Development Co., Ltd., Beijing, China
