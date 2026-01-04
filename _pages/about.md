@@ -98,9 +98,11 @@ Performance Analysis of Traditional VQA Models Under Limited Computational Resou
 
 # 🔬 Projects
 
-- *2025.12 - Present*: Reflective Meta-Learner Agent for Micro-Action Recognition
+- *2026.01 - Present*: Reflective Meta-Learner Agent for Micro-Action Recognition
 
   **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
+
+  > - We propose a diagnosis-driven agentic framework for micro-action recognition that leverages Large Vision-Language Models to reflect on backbone error patterns and perform adaptive, context-aware fusion.
 
 - *2025.09 - 2025.11*: MABench: Towards Fine-grained Micro-Action Understanding
 
