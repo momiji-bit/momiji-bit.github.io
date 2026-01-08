@@ -39,7 +39,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **MA-Bench: Towards Fine-grained Micro-Action Understanding** (*under-review*)
 
-[Preprint] [Paper] [Project]
+[Preprint] [[Paper](https://drive.google.com/file/d/1YOtJhsndc5tYGm28LlAXAVkvmqx3FT42/view?usp=drive_link)] [Project]
 
 Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
