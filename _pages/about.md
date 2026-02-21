@@ -28,18 +28,19 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 
 # 🔥 News
+- *2026.02*:  🎉🎉🎉 Our paper accepted by **CVPR 2026**.
 - *2025.07*:  🎉🎉🎉 Our paper accepted by **ACM MM 2025**.
 - *2025.05*:  🏆🏆🏆 Our work won the champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
 - *2024.06*:  🏆🏆🏆 My undergraduate thesis was recognized as the **Best Thesis Award** at Hefei University of Technology.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**MA-Bench: Towards Fine-grained Micro-Action Understanding** (*under-review*)
+**MA-Bench: Towards Fine-grained Micro-Action Understanding**
 
-[Preprint] [[Paper](https://drive.google.com/file/d/1YOtJhsndc5tYGm28LlAXAVkvmqx3FT42/view?usp=drive_link)] [Project]
+[[CVPR'26](https://cvpr.thecvf.com/Conferences/2026)] [[Paper](https://drive.google.com/file/d/1YOtJhsndc5tYGm28LlAXAVkvmqx3FT42/view?usp=drive_link)] [Project]
 
 Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
