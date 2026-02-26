@@ -35,6 +35,30 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Text-guided Fine-Grained Video Anomaly Detection**
+
+[Preprint] [[Paper](https://arxiv.org/abs/2511.00524)] [Project]
+
+**Jihao Gu**, Kun Li, Wang He, Akşit Kaan
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
+
+[Preprint] [[Paper](https://drive.google.com/file/d/1D5YT8i_fBEYGYOiyvf42VV3t5Ou59At4/view?usp=drive_link)] [[Project](https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B)]
+
+Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu**, Kui Chen, Jiaxi Yang, Bingjie Lu, Zhou Zhang, Jirui Dai, Changyong Luo, Xiameng Gai, Haibing Lan, Zhi Liu
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,22 +71,10 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Text-guided Fine-Grained Video Anomaly Detection** (*under-review*)
-
-[Preprint] [[Paper](https://arxiv.org/abs/2511.00524)] [Project]
-
-**Jihao Gu**, Kun Li, Wang He, Akşit Kaan
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MMN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition
+**Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
 
 [[ACM MM'25](https://acmmm2025.org/)] [[Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754722)] [[Project](https://github.com/momiji-bit/MMN)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow"></a>
 
@@ -74,7 +86,7 @@ Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion
+**MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
 
 [[IJCAI'25 Workshop](https://2025.ijcai.org/)] [[Paper](https://arxiv.org/abs/2507.08344)] [[Project](https://github.com/momiji-bit/MM-Gesture)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow"></a>
 
@@ -88,7 +100,7 @@ MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Performance Analysis of Traditional VQA Models Under Limited Computational Resources
+**Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
 
 [[IEEE PRML'25](https://www.prml.org/prml2025.html)] [[Paper](https://ieeexplore.ieee.org/abstract/document/11159683)]
 
