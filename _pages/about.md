@@ -52,7 +52,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
 
-[Preprint] [[Paper](https://drive.google.com/file/d/1D5YT8i_fBEYGYOiyvf42VV3t5Ou59At4/view?usp=drive_link)] [[Project](https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B)]
+[Preprint] [[Paper](https://drive.google.com/file/d/1D5YT8i_fBEYGYOiyvf42VV3t5Ou59At4/view?usp=drive_link)] [[Project](https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R)] [[Model](https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B)]
 
 Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu**, Kui Chen, Jiaxi Yang, Bingjie Lu, Zhou Zhang, Jirui Dai, Changyong Luo, Xiameng Gai, Haibing Lan, Zhi Liu
 
