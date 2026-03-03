@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -28,6 +29,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 
 # 🔥 News
+
 - *2026.02*:  🎉🎉🎉 Our paper accepted by **CVPR 2026**.
 - *2025.07*:  🎉🎉🎉 Our paper accepted by **ACM MM 2025**.
 - *2025.05*:  🏆🏆🏆 Our work won the champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
@@ -38,9 +40,12 @@ If you are seeking any form of academic collaboration, please feel free to conta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **Text-guided Fine-Grained Video Anomaly Detection**
 
-[Preprint] [[Paper](https://arxiv.org/abs/2511.00524)] [Project]
+<a href="https://arxiv.org/abs/2511.00524" target="_blank">
+  <img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv">
+</a>
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
@@ -50,9 +55,10 @@ If you are seeking any form of academic collaboration, please feel free to conta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DERM-3R.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
 
-[Preprint] [[Paper](https://drive.google.com/file/d/1D5YT8i_fBEYGYOiyvf42VV3t5Ou59At4/view?usp=drive_link)] [[Project](https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R)] [[Model](https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B)]
+<a href="https://drive.google.com/file/d/1D5YT8i_fBEYGYOiyvf42VV3t5Ou59At4/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a><a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/badge/GitHub-DERM--3R-black?logo=github"></a><a href="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/NJUCM-BJUCM-TCM-AI/DERM-3R?style=flat&color=yellow"></a><a href="https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-DERM--3R--7B-yellow?logo=huggingface"></a>
 
 Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu**, Kui Chen, Jiaxi Yang, Bingjie Lu, Zhou Zhang, Jirui Dai, Changyong Luo, Xiameng Gai, Haibing Lan, Zhi Liu
 
@@ -62,9 +68,10 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
 
-[[CVPR'26](https://cvpr.thecvf.com/Conferences/2026)] [[Paper](https://drive.google.com/file/d/1YOtJhsndc5tYGm28LlAXAVkvmqx3FT42/view?usp=drive_link)] [Project]
+<a href="https://drive.google.com/file/d/1YOtJhsndc5tYGm28LlAXAVkvmqx3FT42/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a>
 
 Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
@@ -74,9 +81,10 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MMN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
 
-[[ACM MM'25](https://acmmm2025.org/)] [[Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754722)] [[Project](https://github.com/momiji-bit/MMN)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow"></a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754722" target="_blank"><img src="https://img.shields.io/badge/ACM-10.1145%2F3746027.3754722-00457C?logo=acm"></a><a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/badge/GitHub-MMN-black?logo=github"></a><a href="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow"></a><a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red"></a> 
 
 **Jihao Gu**, Kun Li, Fei Wang, Yanyan Wei, Zhiliang Wu, Hehe Fan, Meng Wang
 
@@ -86,9 +94,10 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
 
-[[IJCAI'25 Workshop](https://2025.ijcai.org/)] [[Paper](https://arxiv.org/abs/2507.08344)] [[Project](https://github.com/momiji-bit/MM-Gesture)] <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?style=flat&color=yellow"></a>
+<a href="https://arxiv.org/abs/2507.08344" target="_blank"><img src="https://img.shields.io/badge/arXiv-2507.08344-red?logo=arxiv"></a><a href="https://github.com/momiji-bit/MM-Gesture" target="_blank"><img src="https://img.shields.io/badge/GitHub-MM--Gesture-black?logo=github"></a><a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?logo=github&color=yellow&style=flat"></a><a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red"></a>
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
@@ -100,9 +109,10 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
 
-[[IEEE PRML'25](https://www.prml.org/prml2025.html)] [[Paper](https://ieeexplore.ieee.org/abstract/document/11159683)]
+<a href="https://ieeexplore.ieee.org/abstract/document/11159683" target="_blank"> <img src="https://img.shields.io/badge/IEEE-11159683-blue?logo=ieee&style=flat"></a>
 
 **Jihao Gu**
 
