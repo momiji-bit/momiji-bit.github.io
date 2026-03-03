@@ -58,7 +58,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
 
-<a href="https://drive.google.com/file/d/1D5YT8i_fBEYGYOiyvf42VV3t5Ou59At4/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a> <a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/badge/GitHub-DERM--3R-black?logo=github"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/NJUCM-BJUCM-TCM-AI/DERM-3R?style=flat&color=yellow"></a> <a href="https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-DERM--3R--7B-yellow?logo=huggingface"></a>
+<a href="https://drive.google.com/file/d/1D5YT8i_fBEYGYOiyvf42VV3t5Ou59At4/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a> <a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/badge/GitHub-DERM--3R-black?logo=github"></a> <a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/github/stars/NJUCM-BJUCM-TCM-AI/DERM-3R?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-DERM--3R--7B-yellow?logo=huggingface"></a>
 
 Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu**, Kui Chen, Jiaxi Yang, Bingjie Lu, Zhou Zhang, Jirui Dai, Changyong Luo, Xiameng Gai, Haibing Lan, Zhi Liu
 
@@ -84,7 +84,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 **Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
 
-<a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754722" target="_blank"><img src="https://img.shields.io/badge/ACM-10.1145%2F3746027.3754722-00457C?logo=acm"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/badge/GitHub-MMN-black?logo=github"></a> <a href="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?style=flat&color=yellow"></a> <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red"></a> 
+<a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754722" target="_blank"><img src="https://img.shields.io/badge/ACM-10.1145%2F3746027.3754722-00457C?logo=acm"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/badge/GitHub-MMN-black?logo=github"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?logo=github&color=yellow&style=flat"></a> <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red"></a> 
 
 **Jihao Gu**, Kun Li, Fei Wang, Yanyan Wei, Zhiliang Wu, Hehe Fan, Meng Wang
 
@@ -97,7 +97,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 **MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
 
-<a href="https://arxiv.org/abs/2507.08344" target="_blank"><img src="https://img.shields.io/badge/arXiv-2507.08344-red?logo=arxiv"></a> <a href="https://github.com/momiji-bit/MM-Gesture" target="_blank"><img src="https://img.shields.io/badge/GitHub-MM--Gesture-black?logo=github"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?logo=github&color=yellow&style=flat"></a> <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red"></a>
+<a href="https://arxiv.org/abs/2507.08344" target="_blank"><img src="https://img.shields.io/badge/arXiv-2507.08344-red?logo=arxiv"></a> <a href="https://github.com/momiji-bit/MM-Gesture" target="_blank"><img src="https://img.shields.io/badge/GitHub-MM--Gesture-black?logo=github"></a> <a href="https://github.com/momiji-bit/MM-Gesture" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?logo=github&color=yellow&style=flat"></a> <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red"></a>
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
