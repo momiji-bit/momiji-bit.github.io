@@ -43,9 +43,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **Text-guided Fine-Grained Video Anomaly Detection**
 
-<a href="https://arxiv.org/abs/2511.00524" target="_blank">
-  <img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv">
-</a>
+<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a> <a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=arxiv_2511_00524&left_color=green&right_color=red"></a>
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
