@@ -43,7 +43,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **Text-guided Fine-Grained Video Anomaly Detection**
 
-<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a> <a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=arxiv_2511_00524&left_color=green&right_color=red"></a>
+<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a>
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
@@ -82,7 +82,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 **Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
 
-<a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754722" target="_blank"><img src="https://img.shields.io/badge/ACM-10.1145%2F3746027.3754722-00457C?logo=acm"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/badge/GitHub-MMN-black?logo=github"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?logo=github&color=yellow&style=flat"></a> <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MMN&left_color=green&right_color=red"></a> 
+<a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754722" target="_blank"><img src="https://img.shields.io/badge/ACM-10.1145%2F3746027.3754722-00457C?logo=acm"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/badge/GitHub-MMN-black?logo=github"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?logo=github&color=yellow&style=flat"></a>
 
 **Jihao Gu**, Kun Li, Fei Wang, Yanyan Wei, Zhiliang Wu, Hehe Fan, Meng Wang
 
@@ -95,7 +95,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 **MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
 
-<a href="https://arxiv.org/abs/2507.08344" target="_blank"><img src="https://img.shields.io/badge/arXiv-2507.08344-red?logo=arxiv"></a> <a href="https://github.com/momiji-bit/MM-Gesture" target="_blank"><img src="https://img.shields.io/badge/GitHub-MM--Gesture-black?logo=github"></a> <a href="https://github.com/momiji-bit/MM-Gesture" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?logo=github&color=yellow&style=flat"></a> <a href="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=momiji-bit.MM-Gesture&left_color=green&right_color=red"></a>
+<a href="https://arxiv.org/abs/2507.08344" target="_blank"><img src="https://img.shields.io/badge/arXiv-2507.08344-red?logo=arxiv"></a> <a href="https://github.com/momiji-bit/MM-Gesture" target="_blank"><img src="https://img.shields.io/badge/GitHub-MM--Gesture-black?logo=github"></a> <a href="https://github.com/momiji-bit/MM-Gesture" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MM-Gesture?logo=github&color=yellow&style=flat"></a>
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
