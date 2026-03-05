@@ -69,7 +69,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
 
-<a href="https://drive.google.com/file/d/1YOtJhsndc5tYGm28LlAXAVkvmqx3FT42/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a>
+<a href="https://drive.google.com/file/d/1YOtJhsndc5tYGm28LlAXAVkvmqx3FT42/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a> <a href="https://ma-bench.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-MA--Bench-blue?logo=googlechrome"></a>
 
 Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
