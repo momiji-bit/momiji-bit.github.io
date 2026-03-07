@@ -119,20 +119,20 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 # 🔬 Projects
 
-- *2026.01 - Present*: Reflective Meta-Learner Agent for Micro-Action Recognition
+- *2026.01 - Present*: **Reflective Meta-Learner Agent for Micro-Action Recognition**
 
   **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
 
   > - We propose a diagnosis-driven agentic framework for micro-action recognition that leverages Large Vision-Language Models to reflect on backbone error patterns and perform adaptive, context-aware fusion.
 
-- *2025.09 - 2025.11*: MABench: Towards Fine-grained Micro-Action Understanding
+- *2025.09 - 2025.11*: **MABench: Towards Fine-grained Micro-Action Understanding**
 
   **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
 
   > - Proposed MA-Bench, a comprehensive benchmark comprising 1,000 videos and a three-tier evaluation architecture that progressively examines micro-action perception, relational comprehension, and interpretive reasoning
   > - Constructed MA-Bench-Train, a large-scale training corpus with 20K videos annotated for detailed motion patterns and finetuned Qwen3-VL-8B on MA-Bench-Train, achieving consistent gains across micro-action reasoning tasks
 
-- *2025.03 - 2025.09*: Text-guided Fine-Grained Video Anomaly
+- *2025.03 - 2025.09*: **Text-guided Fine-Grained Video Anomaly**
 
   [Postgraduate Project] [Thesis]
 
@@ -144,13 +144,13 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
   > - Achieved SOTA performance by demonstrating 94.8% micro-AUC and 67.8% / 76.7% accuracy in anomaly heatmaps (RBDC / TBDC) on the UBnormal dataset
 
 
-- *2024.01 - 2024.06*: Enhancing the Baseline Performance of OrienterNet for Visual Localization
+- *2024.01 - 2024.06*: **Enhancing the Baseline Performance of OrienterNet for Visual Localization**
 
   **Jihao Gu**, [Yan Da (Supervisor)](https://homes.luddy.indiana.edu/yanda/home.html)
 
   > - Our task aims to further optimize OrienterNet, a neural network-based visual localization method designed to achieve accurate localization using 2D public maps (e.g., planar maps). The original approach matches camera-captured images with public maps, effectively addressing localization challenges in GPS-denied scenarios, especially in indoor and complex urban environments.
 
-- *2022.12 - 2023.10*: End-to-End Sign Language Recognition using Transformers
+- *2022.12 - 2023.10*: **End-to-End Sign Language Recognition using Transformers**
 
   **Jihao Gu**, [Shengeng Tang](https://tangshengeng.github.io/)
 
@@ -159,7 +159,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
   > - Combined the dual-block module with the reproduced model, and enhanced the BLEU and WER scores on the validation set and test set by parameter adjustment and multiple rounds of training
 
 
-- *2021.06 - 2024.06*: Navigation System for Visually Impaired People Based on Visual Ambient Intelligence
+- *2021.06 - 2024.06*: **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence**
 
   [Undergraduate Project] [[Thesis](https://github.com/momiji-bit/Bachelor-s-Degree-Project/blob/main/[终版]谷纪豪_毕业论文.pdf)] [[Project](https://github.com/momiji-bit/UG-Thesis-VEPNav)]
 
