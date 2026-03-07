@@ -200,16 +200,26 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 # 🤝 Services
 
-- *2026.01*: Reviewer for IEEE International Conference on Multimedia and Expo (**ICME'26**×7)
-- *2025.12*: Data Chair for The 3rd Micro-Action Analysis Grand Challenge (**ACM MM'26**)
-- *2025.11*: Reviewer for IEEE Transactions on Multimedia (**TMM**)
-- *2025.11*: Reviewer for ACM Transactions on Multimedia Computing Communications, and Applications (**TOMM**)
-- *2025.08*: Volunteer for International Joint Conference on Artificial Intelligence (**IJCAI'25**, Guangzhou)
-- *2025.08*: Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**×2)
-- *2025.04*: Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**×4)
-- *2025.04*: Reviewer for Intelligent Data Analysis (**IDA**×2)
-- *2025.03*: Reviewer for the 2025 International Joint Conference on Neural Networks (**IJCNN’25**)
-- *2024.02*: Reviewer for the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'24**)
+**Journal Reviewing**
+
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) ×2
+- IEEE Transactions on Multimedia (**TMM**)
+- ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**)
+- Engineering Applications of Artificial Intelligence (**EAAI**) ×4
+- Intelligent Data Analysis (**IDA**) ×2
+
+**Conference Reviewing**
+
+- International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'24**)
+- IEEE International Conference on Multimedia and Expo (**ICME'26**) ×7
+- International Joint Conference on Neural Networks (**IJCNN'25**)
+
+**Organizing & Volunteering**
+
+- Data Chair, MAC'26: The 3rd Micro-Action Analysis Grand Challenge (**ACM MM'26**)
+- Volunteer, International Joint Conference on Artificial Intelligence (**IJCAI'25**, Guangzhou)
+
+
 
 # 📖 Educations
 
