@@ -39,7 +39,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 # 📝 Publications 
 
 
-## Preprint 
+## Preprint Papers
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DERM-3R.png' alt="sym" width="100%"></div></div>
