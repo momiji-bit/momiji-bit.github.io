@@ -39,26 +39,10 @@ If you are seeking any form of academic collaboration, please feel free to conta
 # 📝 Publications 
 
 
-## Preprint Papers
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DERM-3R.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
-
-<a href="https://drive.google.com/file/d/1D5YT8i_fBEYGYOiyvf42VV3t5Ou59At4/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a> <a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/badge/GitHub-DERM--3R-black?logo=github"></a> <a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/github/stars/NJUCM-BJUCM-TCM-AI/DERM-3R?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-DERM--3R--7B-yellow?logo=huggingface"></a>
-
-Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu**, Kui Chen, Jiaxi Yang, Bingjie Lu, Zhou Zhang, Jirui Dai, Changyong Luo, Xiameng Gai, Haibing Lan, Zhi Liu
-
-</div>
-</div>
-
-
 ## Conference Papers
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Text-guided Fine-Grained Video Anomaly Understanding**
@@ -71,7 +55,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
@@ -126,6 +110,23 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 </div>
 </div>
+
+
+## Preprint Papers
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DERM-3R.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
+
+<a href="https://drive.google.com/file/d/1D5YT8i_fBEYGYOiyvf42VV3t5Ou59At4/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a> <a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/badge/GitHub-DERM--3R-black?logo=github"></a> <a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/github/stars/NJUCM-BJUCM-TCM-AI/DERM-3R?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-DERM--3R--7B-yellow?logo=huggingface"></a>
+
+Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu**, Kui Chen, Jiaxi Yang, Bingjie Lu, Zhou Zhang, Jirui Dai, Changyong Luo, Xiameng Gai, Haibing Lan, Zhi Liu
+
+</div>
+</div>
+
 
 # 🔬 Projects
 
