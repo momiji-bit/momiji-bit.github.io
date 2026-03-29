@@ -58,12 +58,12 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 <div class='paper-box-text' markdown="1">
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 ## Conference Papers
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Text-guided Fine-Grained Video Anomaly Understanding**
 
