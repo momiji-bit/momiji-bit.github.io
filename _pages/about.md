@@ -30,6 +30,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 🔥 News
 
+- *2026.03*:  🎉🎉🎉 Our paper accepted by **CVPR Workshop 2026**.
 - *2026.02*:  🎉🎉🎉 Our paper accepted by **CVPR 2026**.
 - *2025.07*:  🎉🎉🎉 Our paper accepted by **ACM MM 2025**.
 - *2025.05*:  🏆🏆🏆 Our work won the champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
@@ -37,22 +38,9 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-**Text-guided Fine-Grained Video Anomaly Detection**
-
-<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a>
-
-**Jihao Gu**, Kun Li, Wang He, Akşit Kaan
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DERM-3R.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 **DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
 
@@ -63,8 +51,21 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Text-guided Fine-Grained Video Anomaly Understanding**
+
+<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a>
+
+**Jihao Gu**, Kun Li, Wang He, Akşit Kaan
+
+</div>
+</div>
 
 
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
@@ -89,7 +90,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
