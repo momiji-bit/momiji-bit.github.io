@@ -39,6 +39,9 @@ If you are seeking any form of academic collaboration, please feel free to conta
 # 📝 Publications 
 
 
+## Preprint 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DERM-3R.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,6 +60,10 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+## Conference Papers
+
 
 **Text-guided Fine-Grained Video Anomaly Understanding**
 
@@ -107,6 +114,9 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+## Journal Papers
 
 
 **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
