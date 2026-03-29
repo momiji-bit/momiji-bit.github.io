@@ -54,10 +54,6 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
 
 ## Conference Papers
 
@@ -75,6 +71,9 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
 
 <a href="https://drive.google.com/file/d/1YOtJhsndc5tYGm28LlAXAVkvmqx3FT42/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a> <a href="https://ma-bench.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-MA--Bench-blue?logo=googlechrome"></a>
@@ -84,9 +83,9 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MMN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 **Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
 
@@ -97,9 +96,9 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 **MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
 
