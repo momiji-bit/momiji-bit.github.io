@@ -112,12 +112,12 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 ## Journal Papers
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
 
