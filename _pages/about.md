@@ -30,7 +30,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 🔥 News
 
-- *2026.03*:  🎉🎉🎉 Our paper accepted by **CVPR Workshop 2026**.
+- *2026.03*:  🎉🎉🎉 Our paper accepted by **CVPR 2026 SVC Workshop**.
 - *2026.02*:  🎉🎉🎉 Our paper accepted by **CVPR 2026**.
 - *2025.07*:  🎉🎉🎉 Our paper accepted by **ACM MM 2025**.
 - *2025.05*:  🏆🏆🏆 Our work won the champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
