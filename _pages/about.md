@@ -30,11 +30,14 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 # 🔥 News
 
-- *2026.03*:  🎉🎉🎉 Our paper accepted by **CVPR 2026 SVC Workshop**.
-- *2026.02*:  🎉🎉🎉 Our paper accepted by **CVPR 2026**.
-- *2025.07*:  🎉🎉🎉 Our paper accepted by **ACM MM 2025**.
-- *2025.05*:  🏆🏆🏆 Our work won the champion of Micro-gesture Classification sub-challenge in **MiGA@IJCAI 2025**.
-- *2024.06*:  🏆🏆🏆 My undergraduate thesis was recognized as the **Best Thesis Award** at Hefei University of Technology.
+- *2026.03*: 🎉🎉🎉 Our paper accepted by **CVPR 2026 SVC Workshop**.  
+- *2026.02*: 🎉🎉🎉 Our paper accepted by **CVPR 2026**.  
+- *2025.09*: 🎓🎓🎓 Received **MSc with Distinction** in Computer Graphics, Vision and Imaging (CGVI), UCL.  
+- *2025.07*: 🎉🎉🎉 Our paper accepted by **ACM MM 2025**.  
+- *2025.05*: 🎉🎉🎉 Our paper accepted by **MiGA Workshop @ IJCAI 2025**.  
+- *2025.05*: 🏆🏆🏆 Champion of Micro-gesture Classification Sub-challenge in **MiGA @ IJCAI 2025**.  
+- *2024.06*: 🏆🏆🏆 Awarded **Best Thesis Award** at Hefei University of Technology.  
+- *2024.06*: 🎓🎓🎓 Received **BEng with First-Class Honours** in Computer Science and Technology, Hefei University of Technology.  
 
 # 📝 Publications 
 
