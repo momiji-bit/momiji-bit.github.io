@@ -60,7 +60,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
   
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
 
-<a href="https://drive.google.com/file/d/1YOtJhsndc5tYGm28LlAXAVkvmqx3FT42/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Preprint-PDF-blue?logo=google-drive"></a> <a href="https://ma-bench.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-MA--Bench-blue?logo=googlechrome"></a>
+<a href="https://arxiv.org/abs/2603.26586" target="_blank"><img src="https://img.shields.io/badge/arXiv-2603.26586-red?logo=arxiv"></a> <a href="https://ma-bench.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-MA--Bench-blue?logo=googlechrome"></a> <a href="https://huggingface.co/datasets/kunli-cs/MA-Bench" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MA--Bench-yellow?logo=huggingface"></a>
 
 Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
