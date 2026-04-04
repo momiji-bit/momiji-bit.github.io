@@ -50,7 +50,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 **Text-guided Fine-Grained Video Anomaly Understanding**
 
-<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a>
+<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/badge/GitHub-T--VAU-black?logo=github"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/T-VAU?logo=github&color=yellow&style=flat"></a>
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
 
