@@ -32,7 +32,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 - *2026.03*: 🎉 Our paper accepted by **CVPR 2026 SVC Workshop**.  
 - *2026.02*: 🎉 Our paper accepted by **CVPR 2026**.  
-- *2025.09*: 🎓 Received **MSc with Distinction** in Computer Graphics, Vision and Imaging (CGVI), University College London.  
+- *2025.09*: 🎓 Received **MSc with Distinction** in Computer Graphics, Vision and Imaging, University College London.  
 - *2025.07*: 🎉 Our paper accepted by **ACM MM 2025**.  
 - *2025.05*: 🎉 Our paper accepted by **IJCAI 2025 MiGA Workshop**.  
 - *2025.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **MiGA @ IJCAI 2025**.  
