@@ -230,7 +230,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 **Organizing & Volunteering**
 
-- Data Chair, MAC'26: The 3rd Micro-Action Analysis Grand Challenge (**ACM MM'26**)
+- Data Chair, [MAC'26](https://sites.google.com/view/micro-action): The 3rd Micro-Action Analysis Grand Challenge (**ACM MM'26**)
 - Volunteer, International Joint Conference on Artificial Intelligence (**IJCAI'25**, Guangzhou)
 
 
