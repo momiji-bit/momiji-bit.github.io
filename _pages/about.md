@@ -154,7 +154,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 - *2025.09 - 2025.11*: **MABench: Towards Fine-grained Micro-Action Understanding**
 
-  **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
+  **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/), [Guo Dan (Supervisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)
 
   <details>
   <summary>Details</summary>
