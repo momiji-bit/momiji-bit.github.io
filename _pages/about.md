@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -48,6 +49,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **Text-guided Fine-Grained Video Anomaly Understanding**
 
 <a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a> <a href="https://complightlab.com/publications/text_guided_video_anomaly_understanding/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome&logoColor=white"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/badge/GitHub-T--VAU-black?logo=github"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/T-VAU?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/T-VAU" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-T--VAU-yellow?logo=huggingface"></a>
@@ -60,12 +62,13 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
+
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
 
 <a href="https://arxiv.org/abs/2603.26586" target="_blank"><img src="https://img.shields.io/badge/arXiv-2603.26586-red?logo=arxiv"></a> <a href="https://ma-bench.github.io/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome&logoColor=white"></a> <a href="https://huggingface.co/datasets/kunli-cs/MA-Bench" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MA--Bench-yellow?logo=huggingface"></a>
 
-Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
+Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 </div>
 </div>
@@ -73,6 +76,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MMN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 **Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
 
@@ -86,6 +90,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 **MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
 
@@ -101,6 +106,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
 
@@ -121,6 +127,7 @@ Kun Li, **Jihao Gu**, Fei Wang, zhiliang wu, Hehe Fan, Dan Guo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DERM-3R.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
 
 <a href="https://arxiv.org/abs/2604.09596" target="_blank"><img src="https://img.shields.io/badge/arXiv-2604.09596-red?logo=arxiv"></a> <a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/badge/GitHub-DERM--3R-black?logo=github"></a> <a href="https://github.com/NJUCM-BJUCM-TCM-AI/DERM-3R" target="_blank"><img src="https://img.shields.io/github/stars/NJUCM-BJUCM-TCM-AI/DERM-3R?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/MightyAntsGoesUp/DERM-3R-7B" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-DERM--3R--7B-yellow?logo=huggingface"></a>
@@ -133,18 +140,29 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 # 🔬 Projects
 
-- *2026.01 - Present*: **Reflective Meta-Learner Agent for Micro-Action Recognition**
+- *2026.04 - Present*: **Enhancing 3D Perception for Vision-Language-Action Models**
 
-  **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
+  **Jihao Gu**,  [Jiachen Tao](https://scholar.google.com/citations?hl=en&user=NsYqGP8AAAAJ), [Yan Yan (Supervisor)](https://scholar.google.com/citations?user=zhi-j1wAAAAJ&hl)
 
-  > - We propose a diagnosis-driven agentic framework for micro-action recognition that leverages Large Vision-Language Models to reflect on backbone error patterns and perform adaptive, context-aware fusion.
+  <details> <summary>In progress</summary> </details>
+
+- *2026.03 - Present*: **Text-Guided Shadow Removal with LVLMs and Diffusion Models**
+
+  **Jihao Gu**, [Zhiliang Wu](https://openreview.net/profile?id=~zhiliang_wu1), [Kun Li](https://kunli-cs.github.io/)
+
+  <details> <summary>In progress</summary> </details>
 
 - *2025.09 - 2025.11*: **MABench: Towards Fine-grained Micro-Action Understanding**
 
   **Jihao Gu**, [Kun Li](https://kunli-cs.github.io/)
 
-  > - Proposed MA-Bench, a comprehensive benchmark comprising 1,000 videos and a three-tier evaluation architecture that progressively examines micro-action perception, relational comprehension, and interpretive reasoning
-  > - Constructed MA-Bench-Train, a large-scale training corpus with 20K videos annotated for detailed motion patterns and finetuned Qwen3-VL-8B on MA-Bench-Train, achieving consistent gains across micro-action reasoning tasks
+  <details>
+  <summary>Details</summary>
+  <ul>
+    <li>Proposed MA-Bench, a comprehensive benchmark comprising 1,000 videos and a three-tier evaluation architecture that progressively examines micro-action perception, relational comprehension, and interpretive reasoning</li>
+    <li>Constructed MA-Bench-Train, a large-scale training corpus with 20K videos annotated for detailed motion patterns and finetuned Qwen3-VL-8B on MA-Bench-Train, achieving consistent gains across micro-action reasoning tasks</li>
+  </ul>
+  </details>
 
 - *2025.03 - 2025.09*: **Text-guided Fine-Grained Video Anomaly**
 
@@ -152,25 +170,37 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
   **Jihao Gu**, [Kaan Akşit (Supervisor)](https://kaanaksit.com/), [He Wang (Co-supervisor)](https://drhewang.com/)
 
-  > - Proposed Text-guided Fine-Grained Video Anomaly Detection (T-VAD), a framework built upon Large Vision-Language Model (LVLM)
-  > - Introduced an Anomaly Heatmap Decoder (AHD) that performs pixel-wise visual-textual feature alignment to generate fine-grained anomaly heatmaps
-  > - Designed a Region-aware Anomaly Encoder (RAE) that transforms the heatmaps into learnable textual embeddings, guiding the LVLM to accurately identify and localize anomalous events in videos
-  > - Achieved SOTA performance by demonstrating 94.8% micro-AUC and 67.8% / 76.7% accuracy in anomaly heatmaps (RBDC / TBDC) on the UBnormal dataset
-
+  <details>
+  <summary>Details</summary>
+  <ul>
+  <li>Proposed Text-guided Fine-Grained Video Anomaly Detection (T-VAD), a framework built upon Large Vision-Language Model (LVLM)</li>
+  <li>Introduced an Anomaly Heatmap Decoder (AHD) that performs pixel-wise visual-textual feature alignment to generate fine-grained anomaly heatmaps</li>
+  <li>Designed a Region-aware Anomaly Encoder (RAE) that transforms the heatmaps into learnable textual embeddings, guiding the LVLM to accurately identify and localize anomalous events in videos</li>
+  <li>Achieved SOTA performance by demonstrating 94.8% micro-AUC and 67.8% / 76.7% accuracy in anomaly heatmaps (RBDC / TBDC) on the UBnormal dataset</li>
+  </ul>
+  </details>
 
 - *2024.01 - 2024.06*: **Enhancing the Baseline Performance of OrienterNet for Visual Localization**
 
   **Jihao Gu**, [Yan Da (Supervisor)](https://homes.luddy.indiana.edu/yanda/home.html)
 
-  > - Our task aims to further optimize OrienterNet, a neural network-based visual localization method designed to achieve accurate localization using 2D public maps (e.g., planar maps). The original approach matches camera-captured images with public maps, effectively addressing localization challenges in GPS-denied scenarios, especially in indoor and complex urban environments.
+  <details>
+  <summary>Details</summary>
+  Our task aims to further optimize OrienterNet, a neural network-based visual localization method designed to achieve accurate localization using 2D public maps (e.g., planar maps). The original approach matches camera-captured images with public maps, effectively addressing localization challenges in GPS-denied scenarios, especially in indoor and complex urban environments.
+  </details>
 
 - *2022.12 - 2023.10*: **End-to-End Sign Language Recognition using Transformers**
 
   **Jihao Gu**, [Shengeng Tang](https://tangshengeng.github.io/)
 
-  > - Read and analyzed two papers in detail, and learned the application of the Transformer architecture in sign language recognition and the design idea of the dual-block module
-  > - Used the PyTorch toolkit to reproduce the model in the paper, and achieved similar BLEU and WER scores on the validation set and test set
-  > - Combined the dual-block module with the reproduced model, and enhanced the BLEU and WER scores on the validation set and test set by parameter adjustment and multiple rounds of training
+  <details>
+  <summary>Details</summary>
+  <ul>
+  <li>Read and analyzed two papers in detail, and learned the application of the Transformer architecture in sign language recognition and the design idea of the dual-block module</li>
+  <li>Used the PyTorch toolkit to reproduce the model in the paper, and achieved similar BLEU and WER scores on the validation set and test set</li>
+  <li>Combined the dual-block module with the reproduced model, and enhanced the BLEU and WER scores on the validation set and test set by parameter adjustment and multiple rounds of training</li>
+  </ul>
+  </details>
 
 
 - *2021.06 - 2024.06*: **Navigation System for Visually Impaired People Based on Visual Ambient Intelligence**
@@ -179,12 +209,17 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
   **Jihao Gu**, [Guo Dan (Supervisor)](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm), [Meng Wang (Co-supervisor)](https://sites.google.com/view/meng-wang/home)
 
-  > - Designed and implemented a navigation system based on visual environmental perception, with accuracy increased by approximately 15% compared with traditional navigation systems
-  > - Proposed a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals
-  > - Developed an offset warning system leveraging semantic segmentation techniques
-  > - Introduced a collision warning method utilizing image-based object detection and visual depth estimation
-  > - Formulated a route planning method founded on weighted undirected graph principles
-  > - Constructed a road image dataset specifically for the Hefei University of Technology campus, which contains over 12,000 images
+  <details>
+  <summary>Details</summary>
+  <ul>
+  <li>Designed and implemented a navigation system based on visual environmental perception, with accuracy increased by approximately 15% compared with traditional navigation systems</li>
+  <li>Proposed a deep intelligent interaction-based outdoor assistance method tailored for visually impaired individuals</li>
+  <li>Developed an offset warning system leveraging semantic segmentation techniques</li>
+  <li>Introduced a collision warning method utilizing image-based object detection and visual depth estimation</li>
+  <li>Formulated a route planning method founded on weighted undirected graph principles</li>
+  <li>Constructed a road image dataset specifically for the Hefei University of Technology campus, which contains over 12,000 images</li>
+  </ul>
+  </details>
 
 
 # 🧾 Patents
