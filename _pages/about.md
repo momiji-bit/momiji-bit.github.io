@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 
 
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,16 +19,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a **Research Assistant** at the [Computational Light Laboratory](https://complightlab.com), University College London, working under the supervision of [**Assoc. Kaan Akşit**](https://www.kaanaksit.com/). I am also in the process of applying for PhD programs in Computer Vision.
 
-I recently completed my **MSc in Computer Graphics, Vision and Imaging** at [University College London](https://www.ucl.ac.uk/). Under the supervision of [**Assoc. Kaan Akşit**](https://www.kaanaksit.com/), my research centers on text-guided video anomaly detection (VAD) based on Large Vision-Language Models (LVLMs), aiming to enable fine-grained, interpretable, and human-centered video understanding.
+# Bio
 
-I received my **BEng in Computer Science and Technology** from [Hefei University of Technology](https://ci.hfut.edu.cn/), School of Computer Science and Information Engineering (School of Artificial Intelligence), where I was supervised by [**Prof. Dan Guo**](https://faculty.hfut.edu.cn/gd/en/index.htm). During my undergraduate studies, I conducted research on visual perception systems for assisting visually impaired individuals, exploring multimodal sensing, intelligent interaction, and navigation technologies.
+I am an incoming PhD student in [Computer Science](https://www.ucl.ac.uk/engineering/computer-science/study/postgraduate-research/computer-science-mphilphd) at [University College London (UCL)](https://www.ucl.ac.uk/), based in [UCL Computer Science](https://www.ucl.ac.uk/engineering/computer-science). I will be supervised by [Assoc. Prof. He Wang](https://profiles.ucl.ac.uk/93306-he-wang) and co-supervised by [Prof. Gabriel Brostow](https://profiles.ucl.ac.uk/6427-gabriel-brostow).
 
-My research interests span **computer vision**, **multimodal learning**, and **vision-language understanding**, with an emphasis on perception, reasoning, and generation in visual intelligence. I am particularly interested in building systems that connect human motion, emotion, and cognition through multimodal signals, with additional interests in autonomous driving and environmental perception.
+My research lies at the intersection of **computer vision**, **multimodal learning**, and **vision-language understanding**, with a focus on fine-grained video understanding, motion-centric representation learning, and human-centered visual intelligence. I am particularly interested in building models that can understand subtle human motion, emotion, and cognition through multimodal signals, with broader interests in autonomous driving, environmental perception, and embodied visual understanding.
 
-If you are seeking any form of academic collaboration, please feel free to contact me. <a href='https://scholar.google.com/citations?user=fSWwq3AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Before starting my PhD, I worked as a **Research Assistant** at the [Computational Light Laboratory](https://complightlab.com/) in [UCL Computer Science](https://www.ucl.ac.uk/engineering/computer-science), under the supervision of [Assoc. Prof. Kaan Akşit](https://www.kaanaksit.com/) and in collaboration with [Assoc. Prof. He Wang](https://profiles.ucl.ac.uk/93306-he-wang). My recent research focuses on text-guided fine-grained video anomaly understanding with Large Vision-Language Models, aiming to enable interpretable, evidence-grounded, and human-centered video reasoning.
 
+I received my MSc in [Computer Graphics, Vision and Imaging](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc) from [University College London](https://www.ucl.ac.uk/), where I worked with [Assoc. Prof. Kaan Akşit](https://www.kaanaksit.com/). Prior to that, I obtained my BEng in Computer Science and Technology from the [School of Computer Science and Information Engineering (School of Artificial Intelligence)](https://ci.hfut.edu.cn/) at [Hefei University of Technology](https://www.hfut.edu.cn/), where I worked with [Prof. Dan Guo](https://faculty.hfut.edu.cn/gd/en/index.htm). During my undergraduate studies, I explored visual perception systems for assisting visually impaired individuals, including multimodal sensing, intelligent interaction, and navigation technologies.
+
+I am open to academic collaboration. Please feel free to contact me if you are interested in related research topics.
 
 # 🔥 News
 
@@ -50,6 +53,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 <div class='paper-box-text' markdown="1">
 
 
+
 **Text-guided Fine-Grained Video Anomaly Understanding**
 
 <a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a> <a href="https://complightlab.com/publications/text_guided_video_anomaly_understanding/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome&logoColor=white"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/badge/GitHub-T--VAU-black?logo=github"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/T-VAU?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/T-VAU" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-T--VAU-yellow?logo=huggingface"></a>
@@ -62,6 +66,7 @@ If you are seeking any form of academic collaboration, please feel free to conta
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
@@ -78,6 +83,7 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 <div class='paper-box-text' markdown="1">
 
 
+
 **Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754722" target="_blank"><img src="https://img.shields.io/badge/ACM-10.1145%2F3746027.3754722-00457C?logo=acm"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/badge/GitHub-MMN-black?logo=github"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/MMN" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MMN-yellow?logo=huggingface"></a>
@@ -90,6 +96,7 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 **MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
@@ -106,6 +113,7 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
@@ -126,6 +134,7 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DERM-3R.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 **DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
