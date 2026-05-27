@@ -34,6 +34,7 @@ I am open to academic collaboration. Please feel free to contact me if you are i
 
 # 🔥 News
 
+- *2026.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **EI-MiGA @ IJCAI 2026**.
 - *2026.03*: 🎉 Our paper accepted by **CVPR 2026 SVC Workshop**.  
 - *2026.02*: 🎉 Our paper accepted by **CVPR 2026**.  
 - *2025.09*: 🎓 Received **MSc with Distinction** in Computer Graphics, Vision and Imaging, University College London.  
@@ -280,6 +281,8 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 
 # 📖 Educations
+
+- *10/2026 - Present*: MPhil/PhD, Computer Science, University College London, UK 
 
 - *09/2024 - 09/2025*: Postgraduate, Computer Graphics, Vision and Imaging , University College London, UK 
 
