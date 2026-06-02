@@ -286,13 +286,6 @@ td > code {
   position: relative;
   width: 100%;
   max-width: 400px;
-  padding: 0.65rem;
-  background-color: #ffffff;
-  border: 1px solid rgba(116, 217, 255, 0.16);
-  border-radius: 8px;
-  box-shadow:
-    0 18px 40px rgba(0, 0, 0, 0.34),
-    0 0 24px rgba(116, 217, 255, 0.12);
 }
 
 .paper-box-image img {
@@ -300,8 +293,10 @@ td > code {
   width: 100%;
   max-width: 100%;
   height: auto;
-  background-color: #ffffff;
-  box-shadow: none;
+  background-color: transparent;
+  box-shadow:
+    0 18px 40px rgba(0, 0, 0, 0.34),
+    0 0 24px rgba(116, 217, 255, 0.12);
   object-fit: contain;
 }
 
