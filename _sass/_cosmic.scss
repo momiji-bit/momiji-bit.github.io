@@ -210,6 +210,11 @@ td > code {
   color: #ffffff;
 }
 
+.author__urls a .fa-github,
+.author__urls_sm a .fa-github {
+  color: inherit;
+}
+
 @media (max-width: 924px) {
   .author__urls {
     border-color: rgba(116, 217, 255, 0.22);
