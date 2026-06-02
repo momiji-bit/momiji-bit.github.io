@@ -14,6 +14,10 @@ body {
     linear-gradient(125deg, rgba(18, 52, 74, 0.42), rgba(2, 4, 10, 0) 42%),
     linear-gradient(280deg, rgba(80, 45, 96, 0.28), rgba(2, 4, 10, 0) 38%),
     #02040a;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   isolation: isolate;
 }
 
@@ -140,6 +144,7 @@ h4,
 h5,
 h6 {
   color: #f5f9ff;
+  letter-spacing: 0;
 }
 
 a {
