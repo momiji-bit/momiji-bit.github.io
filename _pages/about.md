@@ -22,15 +22,11 @@ redirect_from:
 
 # Bio
 
-I am an incoming PhD student in [Computer Science](https://www.ucl.ac.uk/engineering/computer-science/study/postgraduate-research/computer-science-mphilphd) at [University College London (UCL)](https://www.ucl.ac.uk/), based in [UCL Computer Science](https://www.ucl.ac.uk/engineering/computer-science). I will be supervised by [Assoc. Prof. He Wang](https://profiles.ucl.ac.uk/93306-he-wang) and co-supervised by [Prof. Gabriel Brostow](https://profiles.ucl.ac.uk/6427-gabriel-brostow).
+I am an incoming MPhil/PhD student in [Computer Science](https://www.ucl.ac.uk/engineering/computer-science/study/postgraduate-research/computer-science-mphilphd) at [University College London (UCL)](https://www.ucl.ac.uk/), supervised by [Assoc. Prof. He Wang](https://profiles.ucl.ac.uk/93306-he-wang) and co-supervised by [Prof. Gabriel Brostow](https://profiles.ucl.ac.uk/6427-gabriel-brostow).
 
-My research lies at the intersection of **computer vision**, **multimodal learning**, and **vision-language understanding**, with a focus on fine-grained video understanding, motion-centric representation learning, and human-centered visual intelligence. I am particularly interested in building models that can understand subtle human motion, emotion, and cognition through multimodal signals, with broader interests in autonomous driving, environmental perception, and embodied visual understanding.
+My research lies in **computer vision** and **multimodal learning**, focusing on **fine-grained video understanding**, **motion-centric representation learning**, and **vision-language reasoning** for human-centered visual intelligence.
 
-Before starting my PhD, I worked as a **Research Assistant** at the [Computational Light Laboratory](https://complightlab.com/) in [UCL Computer Science](https://www.ucl.ac.uk/engineering/computer-science), under the supervision of [Assoc. Prof. Kaan Akşit](https://www.kaanaksit.com/) and in collaboration with [Assoc. Prof. He Wang](https://profiles.ucl.ac.uk/93306-he-wang). My recent research focuses on text-guided fine-grained video anomaly understanding with Large Vision-Language Models, aiming to enable interpretable, evidence-grounded, and human-centered video reasoning.
-
-I received my MSc in [Computer Graphics, Vision and Imaging](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc) from [University College London](https://www.ucl.ac.uk/), where I worked with [Assoc. Prof. Kaan Akşit](https://www.kaanaksit.com/). Prior to that, I obtained my BEng in Computer Science and Technology from the [School of Computer Science and Information Engineering (School of Artificial Intelligence)](https://ci.hfut.edu.cn/) at [Hefei University of Technology](https://www.hfut.edu.cn/), where I worked with [Prof. Dan Guo](https://faculty.hfut.edu.cn/gd/en/index.htm). During my undergraduate studies, I explored visual perception systems for assisting visually impaired individuals, including multimodal sensing, intelligent interaction, and navigation technologies.
-
-I am open to academic collaboration. Please feel free to contact me if you are interested in related research topics.
+Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision and Imaging](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc) from UCL, where I worked with [Assoc. Prof. Kaan Akşit](https://www.kaanaksit.com/). My recent research has led to publications at **CVPR Workshops**, **ACM MM**, and **IJCAI Workshops**, as well as challenge-winning work on **micro-gesture** and **micro-action understanding**.
 
 # 🔥 News
 
