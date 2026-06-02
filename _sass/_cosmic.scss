@@ -80,6 +80,17 @@ body::before {
   padding: 1rem;
 }
 
+@include breakpoint($large) {
+  .sidebar {
+    @include span(2.6 of 12);
+  }
+
+  .page {
+    @include span(9.4 of 12 last);
+    @include prefix(0.35 of 12);
+  }
+}
+
 @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
   .page .page__inner-wrap,
   .sidebar .profile_box {
@@ -237,10 +248,13 @@ td > code {
   }
 }
 
-.author__urls .fa-map-marker,
 .author__urls .fa-github,
 .author__urls_sm .fa-github {
   color: #bceeff;
+}
+
+.author__urls .fa-map-marker {
+  color: #ffffff;
 }
 
 .author__urls a .fa-github,
