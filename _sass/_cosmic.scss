@@ -204,6 +204,12 @@ td > code {
   }
 }
 
+.author__urls .fa-map-marker,
+.author__urls .fa-github,
+.author__urls_sm .fa-github {
+  color: #ffffff;
+}
+
 @media (max-width: 924px) {
   .author__urls {
     border-color: rgba(116, 217, 255, 0.22);
@@ -225,6 +231,7 @@ td > code {
 }
 
 .paper-box-image img {
+  background-color: #ffffff;
   border: 1px solid rgba(116, 217, 255, 0.16);
   box-shadow:
     0 18px 40px rgba(0, 0, 0, 0.34),
