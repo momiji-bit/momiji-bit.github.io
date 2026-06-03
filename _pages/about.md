@@ -291,6 +291,8 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 - *10/2026 - Present*: MPhil/PhD, Computer Science, University College London, UK 
 
+  > **Research Direction:** Visual Differential Fields
+
 - *09/2024 - 09/2025*: Postgraduate, Computer Graphics, Vision and Imaging , University College London, UK 
 
   > **Modules:** Machine Vision, Image Processing, Computer Graphics, Machine Learning for Visual Computing 
