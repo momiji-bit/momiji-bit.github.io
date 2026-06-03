@@ -22,11 +22,9 @@ redirect_from:
 
 # Bio
 
-I am an incoming MPhil/PhD student in [Computer Science](https://www.ucl.ac.uk/engineering/computer-science/study/postgraduate-research/computer-science-mphilphd) at [University College London (UCL)](https://www.ucl.ac.uk/), supervised by [Assoc. Prof. He Wang](https://profiles.ucl.ac.uk/93306-he-wang) and co-supervised by [Prof. Gabriel Brostow](https://profiles.ucl.ac.uk/6427-gabriel-brostow).
+I am an incoming MPhil/PhD student in [Computer Science](https://www.ucl.ac.uk/engineering/computer-science/study/postgraduate-research/computer-science-mphilphd) at [University College London (UCL)](https://www.ucl.ac.uk/), supervised by [Assoc. Prof. He Wang](https://profiles.ucl.ac.uk/93306-he-wang) and co-supervised by [Prof. Gabriel Brostow](https://profiles.ucl.ac.uk/6427-gabriel-brostow). I received my MSc in [Computer Graphics, Vision and Imaging](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc) with Distinction from UCL, where I worked with [Assoc. Prof. Kaan Akşit](https://www.kaanaksit.com/). Prior to UCL, I obtained my B.Eng. in Computer Science and Technology from [Hefei University of Technology](https://international.hfut.edu.cn/en/index.htm).
 
-My research lies in **computer vision** and **multimodal learning**, focusing on **fine-grained video understanding**, **motion-centric representation learning**, and **vision-language reasoning** for human-centered visual intelligence.
-
-Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision and Imaging](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc) from UCL, where I worked with [Assoc. Prof. Kaan Akşit](https://www.kaanaksit.com/). My recent research has led to publications at **CVPR**, **CVPR Workshops**, **ACM MM**, and **IJCAI Workshops**, as well as challenge-winning work on **micro-gesture** and **micro-action understanding**.
+My research focuses on **computer vision** and **multimodal learning**, with an emphasis on fine-grained video understanding and motion-centric vision-language reasoning for subtle, localized, and short-duration human-centered visual cues.
 
 # 🔥 News
 
