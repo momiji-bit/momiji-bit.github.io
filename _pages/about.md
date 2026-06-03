@@ -93,7 +93,7 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 **Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
 
-<a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754722" target="_blank"><img src="https://img.shields.io/badge/ACM-10.1145%2F3746027.3754722-00457C?logo=acm"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/badge/GitHub-MMN-black?logo=github"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/MMN" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MMN-yellow?logo=huggingface"></a>
+<a href="https://arxiv.org/abs/2507.21977" target="_blank"><img src="https://img.shields.io/badge/arXiv-2507.21977-red?logo=arxiv"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/badge/GitHub-MMN-black?logo=github"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/MMN" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MMN-yellow?logo=huggingface"></a>
 
 **Jihao Gu**, Kun Li, Fei Wang, Yanyan Wei, Zhiliang Wu, Hehe Fan, Meng Wang
 
