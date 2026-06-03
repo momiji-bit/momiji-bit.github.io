@@ -29,7 +29,7 @@ My research focuses on **computer vision** and **multimodal learning**, with an 
 # 🔥 News
 
 - *2026.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **EI-MiGA @ IJCAI 2026**.
-- *2026.03*: 🎉 Our paper accepted by **CVPR 2026 SVC Workshop**.  
+- *2026.03*: 🏆 Our paper accepted by **CVPR 2026 SVC Workshop** (**Best Paper Honorable Mention Award**).  
 - *2026.02*: 🎉 Our paper accepted by **CVPR 2026**.  
 - *2025.09*: 🎓 Received **MSc with Distinction** in Computer Graphics, Vision and Imaging, University College London.  
 - *2025.07*: 🎉 Our paper accepted by **ACM MM 2025**.  
@@ -66,6 +66,8 @@ My research focuses on **computer vision** and **multimodal learning**, with an 
 <a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a> <a href="https://complightlab.com/publications/text_guided_video_anomaly_understanding/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome&logoColor=white"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/badge/GitHub-T--VAU-black?logo=github"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/T-VAU?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/T-VAU" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-T--VAU-yellow?logo=huggingface"></a>
 
 **Jihao Gu**, Kun Li, Wang He, Akşit Kaan
+
+> 🏆 Best Paper Honorable Mention Award
 
 </div>
 </div>
