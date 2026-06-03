@@ -46,7 +46,7 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 ## Conference Papers
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/ReFELS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
