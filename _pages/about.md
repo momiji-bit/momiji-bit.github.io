@@ -48,7 +48,7 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2026</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
