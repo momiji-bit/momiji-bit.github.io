@@ -31,7 +31,7 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 # 🔥 News
 
 - *2025.06*: 🎉 Our paper accepted by **IJCAI 2026 EI-MiGA Workshop**.  
-- *2026.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **EI-MiGA @ IJCAI 2026**.
+- *2026.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **EI-MiGA @ IJCAI 2026**.  
 - *2026.03*: 🎉 Our paper accepted by **CVPR 2026 SVC Workshop**.  
 - *2026.02*: 🎉 Our paper accepted by **CVPR 2026**.  
 - *2025.09*: 🎓 Received **MSc with Distinction** in Computer Graphics, Vision and Imaging, University College London.  
@@ -47,11 +47,13 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 ## Conference Papers
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2026</div></div>
 <div class='paper-box-text' markdown="1">
 
-**Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**
 
+
+**Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**
 
 > 🏆 The Champion of Micro-gesture Classification sub-challenge in [EI-MiGA@IJCAI2026](https://ei-miga.github.io/).
 
@@ -61,6 +63,8 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
 
 **Text-guided Fine-Grained Video Anomaly Understanding**
 
@@ -75,6 +79,8 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MABench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
+
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
 
 <a href="https://arxiv.org/abs/2603.26586" target="_blank"><img src="https://img.shields.io/badge/arXiv-2603.26586-red?logo=arxiv"></a> <a href="https://ma-bench.github.io/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome&logoColor=white"></a> <a href="https://huggingface.co/datasets/kunli-cs/MA-Bench" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MA--Bench-yellow?logo=huggingface"></a>
@@ -88,6 +94,8 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MMN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
+
 **Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition**
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754722" target="_blank"><img src="https://img.shields.io/badge/ACM-10.1145%2F3746027.3754722-00457C?logo=acm"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/badge/GitHub-MMN-black?logo=github"></a> <a href="https://github.com/momiji-bit/MMN" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/MMN?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/MMN" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MMN-yellow?logo=huggingface"></a>
@@ -100,6 +108,8 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2025</div><img src='images/MMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
 
 **MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**
 
@@ -115,6 +125,8 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
 
 **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
 
@@ -134,6 +146,8 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DERM-3R.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
 
 **DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings**
 
