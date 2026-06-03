@@ -30,7 +30,8 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 
 # 🔥 News
 
-- *2026.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **EI-MiGA @ IJCAI 2026**.
+- *2025.06*: 🎉 Our paper accepted by **IJCAI 2026 EI-MiGA Workshop**.  
+- *2026.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **EI-MiGA @ IJCAI 2026**.  
 - *2026.03*: 🎉 Our paper accepted by **CVPR 2026 SVC Workshop**.  
 - *2026.02*: 🎉 Our paper accepted by **CVPR 2026**.  
 - *2025.09*: 🎓 Received **MSc with Distinction** in Computer Graphics, Vision and Imaging, University College London.  
@@ -46,7 +47,25 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 ## Conference Papers
 
 
+<<<<<<< HEAD
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/ReFELS.png' alt="sym" width="100%"></div></div>
+=======
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+**Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**
+
+> 🏆 The Champion of Micro-gesture Classification sub-challenge in [EI-MiGA@IJCAI2026](https://ei-miga.github.io/).
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2026</div><img src='images/T-VAD.png' alt="sym" width="100%"></div></div>
+>>>>>>> 6e9209abcde4b00241ca90bff17d0e1802b59816
 <div class='paper-box-text' markdown="1">
 
 
