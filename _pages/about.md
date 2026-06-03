@@ -289,7 +289,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 # 📖 Educations
 
-- *10/2026 - Present*: MPhil/PhD, Computer Science, University College London, UK 
+- *Starting 10/2026*: MPhil/PhD, Computer Science, University College London, UK 
 
   > **Research Direction:** Visual Differential Fields
 
