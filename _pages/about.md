@@ -50,13 +50,10 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 
 
 
+**Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**
 
-**Text-guided Fine-Grained Video Anomaly Understanding**
-
-<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a> <a href="https://complightlab.com/publications/text_guided_video_anomaly_understanding/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome&logoColor=white"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/badge/GitHub-T--VAU-black?logo=github"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/T-VAU?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/T-VAU" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-T--VAU-yellow?logo=huggingface"></a>
-
-**Jihao Gu**, Kun Li, Wang He, Akşit Kaan
-
+> 🏆 The Champion of Micro-gesture Classification sub-challenge in [EI-MiGA@IJCAI2026](https://ei-miga.github.io/).
+> 
 </div>
 </div>
 
