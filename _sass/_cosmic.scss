@@ -86,8 +86,8 @@ body::before {
   }
 
   .page {
-    @include span(9.6 of 12 last);
-    @include prefix(0.35 of 12);
+    @include span(9.8 of 12 last);
+    @include prefix(0.1 of 12);
   }
 }
 
