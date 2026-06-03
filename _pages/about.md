@@ -30,6 +30,7 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 
 # 🔥 News
 
+- *2025.06*: 🎉 Our paper accepted by **IJCAI 2026 EI-MiGA Workshop**.  
 - *2026.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **EI-MiGA @ IJCAI 2026**.
 - *2026.03*: 🎉 Our paper accepted by **CVPR 2026 SVC Workshop**.  
 - *2026.02*: 🎉 Our paper accepted by **CVPR 2026**.  
