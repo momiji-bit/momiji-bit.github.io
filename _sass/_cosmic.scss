@@ -82,11 +82,11 @@ body::before {
 
 @include breakpoint($large) {
   .sidebar {
-    @include span(2.6 of 12);
+    @include span(2.4 of 12);
   }
 
   .page {
-    @include span(9.4 of 12 last);
+    @include span(9.6 of 12 last);
     @include prefix(0.35 of 12);
   }
 }
