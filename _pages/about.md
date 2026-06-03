@@ -53,7 +53,7 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 **Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**
 
 
-> 🏆 The Champion of Micro-gesture Classification sub-challenge in [MiGA@IJCAI2025](https://cv-ac.github.io/MiGA2025).
+> 🏆 The Champion of Micro-gesture Classification sub-challenge in [EI-MiGA@IJCAI2026](https://ei-miga.github.io/).
 
 </div>
 </div>
