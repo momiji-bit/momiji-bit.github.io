@@ -26,7 +26,7 @@ I am an incoming MPhil/PhD student in [Computer Science](https://www.ucl.ac.uk/e
 
 My research lies in **computer vision** and **multimodal learning**, focusing on **fine-grained video understanding**, **motion-centric representation learning**, and **vision-language reasoning** for human-centered visual intelligence.
 
-Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision and Imaging](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc) from UCL, where I worked with [Assoc. Prof. Kaan Akşit](https://www.kaanaksit.com/). My recent research has led to publications at **CVPR Workshops**, **ACM MM**, and **IJCAI Workshops**, as well as challenge-winning work on **micro-gesture** and **micro-action understanding**.
+Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision and Imaging](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-graphics-vision-and-imaging-msc) from UCL, where I worked with [Assoc. Prof. Kaan Akşit](https://www.kaanaksit.com/). My recent research has led to publications at **CVPR**, **CVPR Workshops**, **ACM MM**, and **IJCAI Workshops**, as well as challenge-winning work on **micro-gesture** and **micro-action understanding**.
 
 # 🔥 News
 
@@ -53,7 +53,7 @@ Before my PhD, I received my MSc with Distinction in [Computer Graphics, Vision 
 **Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**
 
 > 🏆 The Champion of Micro-gesture Classification sub-challenge in [EI-MiGA@IJCAI2026](https://ei-miga.github.io/).
-> 
+
 </div>
 </div>
 
