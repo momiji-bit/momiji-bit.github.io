@@ -259,10 +259,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 # 💼 Internships
 
-- *2025.09 - Present*: Research Assistant, [Computational Light Laboratory](https://complightlab.com), University College London, London, UK
-- *2023.07 - 2023.08*: Embedded Development Assistant, Shenzhen Boshengteng Technology Co., Ltd., Shenzhen, China
-- *2023.03 - 2023.06*: Algorithm Development Assistant, Shenzhen Boshengteng Technology Co., Ltd., Shenzhen, China
-- *2023.01 - 2023.02*: Python Development Engineer Assistant, Beijing Tuosida Technology Development Co., Ltd., Beijing, China
+- *2025.09 - 2026.06*: Research Assistant, [Computational Light Laboratory](https://complightlab.com), University College London, London, UK
 
 # 🤝 Services
 
