@@ -28,13 +28,13 @@ My research focuses on **computer vision** and **multimodal learning**, with an 
 
 # 🔥 News
 
-- *2026.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **EI-MiGA @ IJCAI 2026**.
+- *2026.05*: 🏆 Champion of The 4th **EI-MiGA-IJCAI** Challenge Track 1 & 3.
 - *2026.03*: 🏆 Our paper accepted by **CVPR 2026 SVC Workshop** (**Best Paper Honorable Mention Award**).  
 - *2026.02*: 🎉 Our paper accepted by **CVPR 2026**.  
 - *2025.09*: 🎓 Received **MSc with Distinction** in Computer Graphics, Vision and Imaging, University College London.  
 - *2025.07*: 🎉 Our paper accepted by **ACM MM 2025**.  
 - *2025.05*: 🎉 Our paper accepted by **IJCAI 2025 MiGA Workshop**.  
-- *2025.05*: 🏆 Champion of Micro-gesture Classification Sub-challenge in **MiGA @ IJCAI 2025**.  
+- *2025.05*: 🏆 Champion of The 3rd **MiGA-IJCAI** Challenge Track 1.
 - *2024.06*: 🏆 Awarded **Best Thesis Award** and **Outstanding Graduate** at Hefei University of Technology, China.  
 - *2024.06*: 🎓 Received **BEng with First-Class Honours** in Computer Science and Technology, Hefei University of Technology.  
 
@@ -43,14 +43,36 @@ My research focuses on **computer vision** and **multimodal learning**, with an 
 
 ## Conference Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2026</div><img src='images/ReFELS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2026</div><img src='images/SLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 
+**Self-supervised Learning Matters: A Simple Ensemble Solution for Micro-Gesture Recognition**
+
+<a href="https://arxiv.org" target="_blank"><img src="https://img.shields.io/badge/arXiv-To be done-red?logo=arxiv"></a>
+
+Tingyi Liu, Kun Li, Fei Wang, Junjie Chen, Zhiliang Wu, **Jihao Gu**, Haixu Liu, Dan Guo
+
+> 🏆 The Champion of [The 4th EI-MiGA-IJCAI Challenge Track 1](https://ei-miga.github.io/).
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2026</div><img src='images/ReFELS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
 **Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**
 
-> 🏆 The Champion of Micro-gesture Classification sub-challenge in [EI-MiGA@IJCAI2026](https://ei-miga.github.io/).
+<a href="https://arxiv.org" target="_blank"><img src="https://img.shields.io/badge/arXiv-To be done-red?logo=arxiv"></a>
+
+Xiaochuan Guo<sup>†</sup>, **Jihao Gu**<sup>†</sup>, Haixu Liu<sup>†</sup>, Yuxin Liu, Qi Wang, Yufei Wang, Fei Wang, Kun Li, Dan Guo
+
+<sup>†</sup> Equal contribution.
+
+> 🏆 The Champion of [The 4th EI-MiGA-IJCAI Challenge Track 3](https://ei-miga.github.io/).
 
 </div>
 </div>
@@ -113,7 +135,7 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
-> 🏆 The Champion of Micro-gesture Classification sub-challenge in [MiGA@IJCAI2025](https://cv-ac.github.io/MiGA2025).
+> 🏆 The Champion of [The 3rd MiGA-IJCAI Challenge Track 1](https://cv-ac.github.io/MiGA2025).
 
 </div>
 </div>
