@@ -40,9 +40,6 @@ My research focuses on **computer vision** and **multimodal learning**, with an 
 
 # 📝 Publications 
 
-
-## Conference Papers
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2026</div><img src='images/SLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -153,9 +150,6 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 </div>
 </div>
-
-
-## Journal Papers
 
 
 ## Preprint Papers
