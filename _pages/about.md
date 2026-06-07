@@ -145,10 +145,9 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 <div class='paper-box-text' markdown="1">
 
 
-
 **Performance Analysis of Traditional VQA Models Under Limited Computational Resources**
 
-<a href="https://ieeexplore.ieee.org/abstract/document/11159683" target="_blank"> <img src="https://img.shields.io/badge/IEEE-11159683-blue?logo=ieee&style=flat"></a>
+<a href="https://arxiv.org/abs/2502.05738" target="_blank"><img src="https://img.shields.io/badge/arXiv-2502.05738-red?logo=arxiv"></a>
 
 **Jihao Gu**
 
