@@ -85,7 +85,7 @@ Xiaochuan Guo<sup>†</sup>, **Jihao Gu**<sup>†</sup>, Haixu Liu<sup>†</sup>
 
 **Text-guided Fine-Grained Video Anomaly Understanding**
 
-<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a> <a href="https://complightlab.com/publications/text_guided_video_anomaly_understanding/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome&logoColor=white"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/badge/GitHub-T--VAU-black?logo=github"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/T-VAU?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/T-VAU" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-T--VAU-yellow?logo=huggingface"></a>
+<a href="https://arxiv.org/abs/2511.00524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.00524-red?logo=arxiv"></a>  [![Website](https://img.shields.io/badge/Website-Page-8A2BE2)](https://complightlab.com/publications/text_guided_video_anomaly_understanding) <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/badge/GitHub-T--VAU-black?logo=github"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/github/stars/momiji-bit/T-VAU?logo=github&color=yellow&style=flat"></a> <a href="https://huggingface.co/datasets/Geo2425/T-VAU" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-T--VAU-yellow?logo=huggingface"></a>
 
 **Jihao Gu**, Kun Li, He Wang, Akşit Kaan
 
@@ -102,7 +102,7 @@ Xiaochuan Guo<sup>†</sup>, **Jihao Gu**<sup>†</sup>, Haixu Liu<sup>†</sup>
 
 **MA-Bench: Towards Fine-grained Micro-Action Understanding**
 
-<a href="https://arxiv.org/abs/2603.26586" target="_blank"><img src="https://img.shields.io/badge/arXiv-2603.26586-red?logo=arxiv"></a> <a href="https://ma-bench.github.io/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome&logoColor=white"></a> <a href="https://huggingface.co/datasets/kunli-cs/MA-Bench" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MA--Bench-yellow?logo=huggingface"></a>
+<a href="https://arxiv.org/abs/2603.26586" target="_blank"><img src="https://img.shields.io/badge/arXiv-2603.26586-red?logo=arxiv"></a> [![Website](https://img.shields.io/badge/Website-Page-8A2BE2)](https://ma-bench.github.io/) <a href="https://github.com/MA-Bench/MA-Bench" target="_blank"><img src="https://img.shields.io/badge/GitHub-MA--Bench-black?logo=github"></a> <a href="https://github.com/momiji-bit/T-VAU" target="_blank"><img src="https://img.shields.io/github/stars/MA-Bench/MA-Bench?logo=github&color=yellow&style=flat"></a>  <a href="https://huggingface.co/datasets/kunli-cs/MA-Bench" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MA--Bench-yellow?logo=huggingface"></a>
 
 Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
