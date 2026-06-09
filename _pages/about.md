@@ -42,10 +42,9 @@ I am an incoming MPhil/PhD student in [Computer Science](https://www.ucl.ac.uk/e
 <div class='paper-box-text' markdown="1">
 
 
-
 **Self-supervised Learning Matters: A Simple Ensemble Solution for Micro-Gesture Recognition**
 
-<a href="https://arxiv.org" target="_blank"><img src="https://img.shields.io/badge/arXiv-To be done-red?logo=arxiv"></a>
+<a href="https://arxiv.org/abs/2606.09261" target="_blank"><img src="https://img.shields.io/badge/arXiv-2606.09261-red?logo=arxiv"></a>
 
 Tingyi Liu, Kun Li, Fei Wang, Junjie Chen, Zhiliang Wu, **Jihao Gu**, Haixu Liu, Dan Guo
 
