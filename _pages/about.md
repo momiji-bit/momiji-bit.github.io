@@ -60,7 +60,7 @@ Tingyi Liu, Kun Li, Fei Wang, Junjie Chen, Zhiliang Wu, **Jihao Gu**, Haixu Liu,
 
 **Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**
 
-<a href="https://arxiv.org" target="_blank"><img src="https://img.shields.io/badge/arXiv-To be done-red?logo=arxiv"></a>
+<a href="http://arxiv.org/abs/2606.31249" target="_blank"><img src="https://img.shields.io/badge/arXiv-2606.31249-red?logo=arxiv"></a>
 
 Xiaochuan Guo<sup>†</sup>, **Jihao Gu**<sup>†</sup>, Haixu Liu<sup>†</sup>, Yuxin Liu, Qi Wang, Yufei Wang, Fei Wang, Kun Li, Dan Guo
 
