@@ -26,6 +26,7 @@ I am an incoming MPhil/PhD student in [Computer Science](https://www.ucl.ac.uk/e
 
 # 🔥 News
 
+- *2026.06*: 🎉 Successfully held the **MAC 2026 Challenge** at **ACM MM 2026**.  
 - *2026.05*: 🏆 Champion of The 4th **EI-MiGA-IJCAI** Challenge Track 1 & 3.
 - *2026.03*: 🏆 Our paper accepted by **CVPR 2026 SVC Workshop** (**Best Paper Honorable Mention Award**).  
 - *2026.02*: 🎉 Our paper accepted by **CVPR 2026**.  
@@ -44,12 +45,11 @@ I am an incoming MPhil/PhD student in [Computer Science](https://www.ucl.ac.uk/e
 
 **MAC 2026: Advancing Micro-Action Analysis Towards Fine-Grained Understanding**
 
-<a href="https://arxiv.org/abs/" target="_blank"><img src="https://img.shields.io/badge/arXiv-to-be-done-red?logo=arxiv"></a>
+<a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-to be done-red?logo=arxiv"></a>
 
 Kun Li<sup>*</sup>, Dan Guo<sup>*</sup>, **Jihao Gu**, Pengyu Liu, Xiaobai Li, Haoyu Chen, Yanbin Hao, Guoying Zhao, Meng Wang
 
 <sup>*</sup> Corresponding author.
-
 
 </div>
 </div>
