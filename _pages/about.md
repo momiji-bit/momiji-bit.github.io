@@ -47,9 +47,7 @@ I am an incoming MPhil/PhD student in [Computer Science](https://www.ucl.ac.uk/e
 
 <a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-to be done-red?logo=arxiv"></a>
 
-Kun Li<sup>*</sup>, Dan Guo<sup>*</sup>, **Jihao Gu**, Pengyu Liu, Xiaobai Li, Haoyu Chen, Yanbin Hao, Guoying Zhao, Meng Wang
-
-<sup>*</sup> Corresponding author.
+Kun Li, Dan Guo, **Jihao Gu**, Pengyu Liu, Xiaobai Li, Haoyu Chen, Yanbin Hao, Guoying Zhao, Meng Wang
 
 </div>
 </div>
