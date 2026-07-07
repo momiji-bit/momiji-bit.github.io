@@ -38,6 +38,23 @@ I am an incoming MPhil/PhD student in [Computer Science](https://www.ucl.ac.uk/e
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/MAC26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**MAC 2026: Advancing Micro-Action Analysis Towards Fine-Grained Understanding**
+
+<a href="https://arxiv.org/abs/" target="_blank"><img src="https://img.shields.io/badge/arXiv-to-be-done-red?logo=arxiv"></a>
+
+Kun Li<sup>*</sup>, Dan Guo<sup>*</sup>, **Jihao Gu**, Pengyu Liu, Xiaobai Li, Haoyu Chen, Yanbin Hao, Guoying Zhao, Meng Wang
+
+<sup>*</sup> Corresponding author.
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop 2026</div><img src='images/SLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,9 +79,9 @@ Tingyi Liu, Kun Li, Fei Wang, Junjie Chen, Zhiliang Wu, **Jihao Gu**, Haixu Liu,
 
 <a href="http://arxiv.org/abs/2606.31249" target="_blank"><img src="https://img.shields.io/badge/arXiv-2606.31249-red?logo=arxiv"></a>
 
-Xiaochuan Guo<sup>†</sup>, **Jihao Gu**<sup>†</sup>, Haixu Liu<sup>†</sup>, Yuxin Liu, Qi Wang, Yufei Wang, Fei Wang, Kun Li, Dan Guo
+Xiaochuan Guo<sup>*</sup>, **Jihao Gu**<sup>*</sup>, Haixu Liu<sup>*</sup>, Yuxin Liu, Qi Wang, Yufei Wang, Fei Wang, Kun Li, Dan Guo
 
-<sup>†</sup> Equal contribution.
+<sup>*</sup> Equal contribution.
 
 > 🏆 The Champion of [The 4th EI-MiGA-IJCAI Challenge Track 3](https://ei-miga.github.io/).
 
