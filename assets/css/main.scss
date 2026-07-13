@@ -87,7 +87,20 @@
 
 }
 
+:root {
+    --masthead-offset: 4rem;
+}
+
+html {
+    scroll-padding-top: var(--masthead-offset);
+}
+
 $scroll_offset : 2em;
+h1,
+.anchor {
+    scroll-margin-top: var(--masthead-offset);
+}
+
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
