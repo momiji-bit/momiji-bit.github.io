@@ -1,0 +1,334 @@
+/* ==========================================================================
+   Liquid Glass optical refinement
+   ========================================================================== */
+
+:root {
+  --lg-edge-cool: rgba(132, 211, 255, 0.72);
+  --lg-edge-violet: rgba(189, 151, 255, 0.58);
+  --lg-edge-warm: rgba(255, 231, 190, 0.42);
+  --lg-x: 50%;
+  --lg-y: 0%;
+}
+
+.masthead__inner-wrap {
+  --lg-light: 0.6;
+  box-shadow:
+    0 6px 16px rgba(0, 0, 0, 0.26),
+    0 22px 58px rgba(0, 0, 0, 0.26),
+    inset 0 1px 0 rgba(255, 255, 255, 0.22),
+    inset 1px 0 0 rgba(132, 211, 255, 0.09),
+    inset -1px 0 0 rgba(189, 151, 255, 0.075),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.04);
+  transition: background-color 0.28s ease, border-color 0.28s ease, box-shadow 0.28s ease;
+}
+
+.masthead__inner-wrap::before {
+  inset: 0;
+  z-index: 0;
+  height: auto;
+  border-radius: inherit;
+  background:
+    radial-gradient(240px circle at var(--lg-x) var(--lg-y), rgba(255, 255, 255, 0.23), transparent 58%),
+    linear-gradient(100deg, transparent 5%, rgba(255, 255, 255, 0.28) 27%, transparent 57%);
+  opacity: var(--lg-light);
+  mix-blend-mode: screen;
+  transition: opacity 0.25s ease;
+}
+
+.masthead__inner-wrap::after,
+.page .page__inner-wrap::after,
+.sidebar .profile_box::after,
+.paper-box::after {
+  display: none;
+  content: "";
+  position: absolute;
+  inset: -1px;
+  z-index: 0;
+  padding: 1px;
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+@supports ((-webkit-mask-composite: xor) or (mask-composite: exclude)) {
+  .masthead__inner-wrap::after {
+    display: block;
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    mask-composite: exclude;
+  }
+}
+
+.masthead__inner-wrap::after {
+  background:
+    conic-gradient(
+      from 205deg at var(--lg-x) var(--lg-y),
+      transparent 0 16%,
+      var(--lg-edge-cool) 24%,
+      rgba(255, 255, 255, 0.88) 30%,
+      var(--lg-edge-warm) 36%,
+      transparent 45% 70%,
+      var(--lg-edge-violet) 82%,
+      transparent 92%
+    );
+  opacity: 0.72;
+  filter: drop-shadow(0 0 9px rgba(112, 188, 255, 0.16));
+  transition: opacity 0.25s ease;
+}
+
+.masthead__menu {
+  position: relative;
+  z-index: 1;
+}
+
+.masthead.is-scrolled .masthead__inner-wrap {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.13), rgba(255, 255, 255, 0.035)),
+    rgba(15, 16, 21, 0.82);
+  border-color: rgba(255, 255, 255, 0.18);
+  box-shadow:
+    0 8px 18px rgba(0, 0, 0, 0.3),
+    0 25px 65px rgba(0, 0, 0, 0.32),
+    inset 0 1px 0 rgba(255, 255, 255, 0.25),
+    inset 1px 0 0 rgba(132, 211, 255, 0.12),
+    inset -1px 0 0 rgba(189, 151, 255, 0.1),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.masthead__inner-wrap.is-glass-active {
+  --lg-light: 0.98;
+}
+
+.masthead__inner-wrap.is-glass-active::after {
+  opacity: 1;
+}
+
+.greedy-nav button {
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
+  min-height: 44px;
+  box-shadow:
+    0 8px 24px rgba(0, 0, 0, 0.28),
+    inset 0 1px 0 rgba(255, 255, 255, 0.24),
+    inset 1px 0 0 rgba(132, 211, 255, 0.1),
+    inset -1px 0 0 rgba(189, 151, 255, 0.09);
+}
+
+.greedy-nav a:hover,
+.greedy-nav a:focus-visible {
+  box-shadow:
+    0 6px 20px rgba(0, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.18),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.045);
+}
+
+.page .page__inner-wrap,
+.sidebar .profile_box {
+  --lg-light: 0.42;
+  box-shadow:
+    0 7px 18px rgba(0, 0, 0, 0.24),
+    0 30px 72px rgba(0, 0, 0, 0.24),
+    inset 0 1px 0 rgba(255, 255, 255, 0.15),
+    inset 1px 0 0 rgba(132, 211, 255, 0.035),
+    inset -1px 0 0 rgba(189, 151, 255, 0.03);
+  backdrop-filter: blur(20px) saturate(122%);
+  -webkit-backdrop-filter: blur(20px) saturate(122%);
+  transition: border-color 0.28s ease, box-shadow 0.28s ease;
+}
+
+.page .page__inner-wrap::before,
+.sidebar .profile_box::before {
+  background:
+    radial-gradient(320px circle at var(--lg-x) var(--lg-y), rgba(255, 255, 255, 0.11), transparent 64%),
+    radial-gradient(circle at 8% 0%, rgba(108, 184, 255, 0.105), transparent 24rem),
+    linear-gradient(115deg, rgba(255, 255, 255, 0.055), transparent 22%);
+  opacity: var(--lg-light);
+  transition: opacity 0.28s ease;
+}
+
+.page .page__inner-wrap::after,
+.sidebar .profile_box::after {
+  background:
+    conic-gradient(
+      from 215deg at var(--lg-x) var(--lg-y),
+      transparent 0 20%,
+      rgba(134, 211, 255, 0.5) 29%,
+      rgba(255, 255, 255, 0.62) 34%,
+      transparent 43% 76%,
+      rgba(186, 151, 255, 0.36) 86%,
+      transparent 94%
+    );
+  opacity: 0.42;
+  transition: opacity 0.28s ease;
+}
+
+.sidebar .profile_box.is-glass-active {
+  --lg-light: 0.94;
+  border-color: rgba(166, 215, 255, 0.22);
+  box-shadow:
+    0 8px 20px rgba(0, 0, 0, 0.29),
+    0 34px 78px rgba(0, 0, 0, 0.28),
+    inset 0 1px 0 rgba(255, 255, 255, 0.19),
+    inset 1px 0 0 rgba(132, 211, 255, 0.06),
+    inset -1px 0 0 rgba(189, 151, 255, 0.055);
+}
+
+.sidebar .profile_box.is-glass-active::after {
+  opacity: 0.86;
+}
+
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible {
+  outline: 2px solid rgba(132, 211, 255, 0.92);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(108, 184, 255, 0.14), 0 0 20px rgba(108, 184, 255, 0.22);
+}
+
+.paper-box {
+  position: relative;
+  --lg-light: 0;
+  overflow: hidden;
+  box-shadow:
+    0 5px 14px rgba(0, 0, 0, 0.2),
+    0 20px 48px rgba(0, 0, 0, 0.18),
+    inset 0 1px 0 rgba(255, 255, 255, 0.09);
+}
+
+.paper-box::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  border-radius: inherit;
+  background:
+    radial-gradient(250px circle at var(--lg-x) var(--lg-y), rgba(255, 255, 255, 0.14), transparent 66%),
+    linear-gradient(115deg, rgba(132, 211, 255, 0.035), transparent 30%, rgba(189, 151, 255, 0.025));
+  opacity: var(--lg-light);
+  mix-blend-mode: screen;
+  transition: opacity 0.28s ease;
+}
+
+.paper-box::after {
+  background:
+    conic-gradient(
+      from 210deg at var(--lg-x) var(--lg-y),
+      transparent 0 22%,
+      rgba(132, 211, 255, 0.56) 30%,
+      rgba(255, 255, 255, 0.68) 35%,
+      transparent 44% 78%,
+      rgba(189, 151, 255, 0.38) 87%,
+      transparent 95%
+    );
+  opacity: 0.22;
+  transition: opacity 0.28s ease;
+}
+
+.paper-box > * {
+  position: relative;
+  z-index: 1;
+}
+
+.paper-box.is-glass-active {
+  --lg-light: 1;
+}
+
+.paper-box.is-glass-active::after,
+.paper-box:hover::after {
+  opacity: 0.88;
+}
+
+.paper-box-image img {
+  box-shadow:
+    0 6px 18px rgba(0, 0, 0, 0.28),
+    0 22px 44px rgba(0, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+.badge {
+  box-shadow:
+    0 7px 16px rgba(64, 116, 255, 0.28),
+    0 16px 34px rgba(64, 116, 255, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.46),
+    inset 1px 0 0 rgba(189, 227, 255, 0.2),
+    inset -1px 0 0 rgba(213, 192, 255, 0.2);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .paper-box:hover {
+    transform: translateY(-3px) scale(1.002);
+  }
+}
+
+@media (hover: none), (pointer: coarse) {
+  body {
+    background-attachment: scroll;
+  }
+
+  #particle-background {
+    opacity: 0.17;
+  }
+
+  .masthead__inner-wrap::before,
+  .sidebar .profile_box::before,
+  .paper-box::before {
+    opacity: 0.28;
+  }
+
+  .paper-box:hover {
+    transform: none;
+  }
+
+  .paper-box::after {
+    opacity: 0.28;
+  }
+
+  .page .page__inner-wrap,
+  .sidebar .profile_box {
+    backdrop-filter: blur(16px) saturate(116%);
+    -webkit-backdrop-filter: blur(16px) saturate(116%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .masthead__inner-wrap::before,
+  .sidebar .profile_box::before,
+  .paper-box::before {
+    opacity: 0.28;
+  }
+}
+
+@media (prefers-reduced-transparency: reduce) {
+  .masthead__inner-wrap::before,
+  .page .page__inner-wrap::before,
+  .sidebar .profile_box::before,
+  .paper-box::before,
+  .masthead__inner-wrap::after,
+  .page .page__inner-wrap::after,
+  .sidebar .profile_box::after,
+  .paper-box::after {
+    display: none;
+  }
+}
+
+@media (forced-colors: active) {
+  .masthead__inner-wrap::before,
+  .page .page__inner-wrap::before,
+  .sidebar .profile_box::before,
+  .paper-box::before,
+  .masthead__inner-wrap::after,
+  .page .page__inner-wrap::after,
+  .sidebar .profile_box::after,
+  .paper-box::after {
+    display: none;
+  }
+
+  .masthead__inner-wrap,
+  .page .page__inner-wrap,
+  .sidebar .profile_box,
+  .paper-box {
+    border: 1px solid CanvasText;
+  }
+}
