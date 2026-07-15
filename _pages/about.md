@@ -98,7 +98,7 @@ Xiaochuan Guo<sup>*</sup>, **Jihao Gu**<sup>*</sup>, Haixu Liu<sup>*</sup>, Yuxi
 
 **Jihao Gu**, Kun Li, He Wang, Akşit Kaan
 
-> 🏆 Best Paper Honorable Mention Award
+> <a href="{{ '/images/Jihao%20Gu-Best%20Paper%20Honorable%20Mention%20Award.png' | relative_url }}" title="Best Paper Honorable Mention Award certificate" aria-label="View the Best Paper Honorable Mention Award certificate">🏆 Best Paper Honorable Mention Award</a>
 
 </div>
 </div>
