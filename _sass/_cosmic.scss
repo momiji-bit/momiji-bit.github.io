@@ -93,16 +93,17 @@ body::after {
   padding: 0.34rem 0.8rem;
   overflow: visible;
   background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.105), rgba(255, 255, 255, 0.025)),
-    rgba(16, 17, 22, 0.68);
-  border: 1px solid var(--lg-border);
+    linear-gradient(112deg, rgba(255, 255, 255, 0.14), rgba(255, 255, 255, 0.045) 34%, rgba(132, 211, 255, 0.035) 63%, rgba(189, 151, 255, 0.07)),
+    rgba(12, 14, 20, 0.28);
+  border: 1px solid rgba(255, 255, 255, 0.18);
   border-radius: 999px;
   box-shadow:
-    0 16px 48px rgba(0, 0, 0, 0.36),
-    inset 0 1px 0 rgba(255, 255, 255, 0.2),
-    inset 0 -1px 0 rgba(255, 255, 255, 0.035);
-  backdrop-filter: blur(32px) saturate(165%);
-  -webkit-backdrop-filter: blur(32px) saturate(165%);
+    0 14px 46px rgba(0, 0, 0, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.06),
+    inset 0 0 22px rgba(142, 194, 255, 0.025);
+  backdrop-filter: blur(14px) saturate(175%) brightness(1.1) contrast(1.04);
+  -webkit-backdrop-filter: blur(14px) saturate(175%) brightness(1.1) contrast(1.04);
 }
 
 .masthead__inner-wrap::before {

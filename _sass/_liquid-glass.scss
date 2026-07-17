@@ -11,7 +11,7 @@
 }
 
 .masthead__inner-wrap {
-  --lg-light: 0.6;
+  --lg-light: 0.42;
   box-shadow:
     0 6px 16px rgba(0, 0, 0, 0.26),
     0 22px 58px rgba(0, 0, 0, 0.26),
@@ -19,7 +19,7 @@
     inset 1px 0 0 rgba(132, 211, 255, 0.09),
     inset -1px 0 0 rgba(189, 151, 255, 0.075),
     inset 0 -1px 0 rgba(255, 255, 255, 0.04);
-  transition: background-color 0.28s ease, border-color 0.28s ease, box-shadow 0.28s ease;
+  transition: background-color 0.28s ease, border-color 0.28s ease, box-shadow 0.28s ease, backdrop-filter 0.28s ease;
 }
 
 .masthead__inner-wrap::before {
@@ -28,8 +28,8 @@
   height: auto;
   border-radius: inherit;
   background:
-    radial-gradient(240px circle at var(--lg-x) var(--lg-y), rgba(255, 255, 255, 0.23), transparent 58%),
-    linear-gradient(100deg, transparent 5%, rgba(255, 255, 255, 0.28) 27%, transparent 57%);
+    radial-gradient(280px circle at var(--lg-x) var(--lg-y), rgba(255, 255, 255, 0.2), rgba(132, 211, 255, 0.055) 33%, transparent 66%),
+    linear-gradient(102deg, transparent 9%, rgba(255, 255, 255, 0.19) 28%, rgba(180, 218, 255, 0.075) 42%, transparent 61%);
   opacity: var(--lg-light);
   mix-blend-mode: screen;
   transition: opacity 0.25s ease;
@@ -49,30 +49,18 @@
   border-radius: inherit;
 }
 
-@supports ((-webkit-mask-composite: xor) or (mask-composite: exclude)) {
-  .masthead__inner-wrap::after {
-    display: block;
-    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
-    -webkit-mask-composite: xor;
-    mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
-    mask-composite: exclude;
-  }
-}
 
 .masthead__inner-wrap::after {
+  display: block;
+  inset: 0;
+  padding: 0;
   background:
-    conic-gradient(
-      from 205deg at var(--lg-x) var(--lg-y),
-      transparent 0 16%,
-      var(--lg-edge-cool) 24%,
-      rgba(255, 255, 255, 0.88) 30%,
-      var(--lg-edge-warm) 36%,
-      transparent 45% 70%,
-      var(--lg-edge-violet) 82%,
-      transparent 92%
-    );
-  opacity: 0.72;
-  filter: drop-shadow(0 0 9px rgba(112, 188, 255, 0.16));
+    radial-gradient(180px 7px at var(--lg-x) 0, rgba(255, 255, 255, 0.92), var(--lg-edge-cool) 41%, transparent 94%) top / 100% 2px no-repeat,
+    radial-gradient(170px 6px at var(--lg-x) 100%, var(--lg-edge-violet), transparent 92%) bottom / 100% 1px no-repeat,
+    linear-gradient(180deg, var(--lg-edge-cool), transparent 42%, var(--lg-edge-violet)) left / 1px 100% no-repeat,
+    linear-gradient(180deg, var(--lg-edge-warm), transparent 47%, rgba(132, 211, 255, 0.4)) right / 1px 100% no-repeat;
+  opacity: 0.78;
+  filter: drop-shadow(0 0 8px rgba(112, 188, 255, 0.2));
   transition: opacity 0.25s ease;
 }
 
@@ -83,16 +71,18 @@
 
 .masthead.is-scrolled .masthead__inner-wrap {
   background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.13), rgba(255, 255, 255, 0.035)),
-    rgba(15, 16, 21, 0.82);
-  border-color: rgba(255, 255, 255, 0.18);
+    linear-gradient(112deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.045) 34%, rgba(132, 211, 255, 0.05) 63%, rgba(189, 151, 255, 0.085)),
+    rgba(12, 14, 20, 0.38);
+  border-color: rgba(255, 255, 255, 0.22);
   box-shadow:
-    0 8px 18px rgba(0, 0, 0, 0.3),
-    0 25px 65px rgba(0, 0, 0, 0.32),
-    inset 0 1px 0 rgba(255, 255, 255, 0.25),
-    inset 1px 0 0 rgba(132, 211, 255, 0.12),
-    inset -1px 0 0 rgba(189, 151, 255, 0.1),
-    inset 0 -1px 0 rgba(255, 255, 255, 0.05);
+    0 8px 18px rgba(0, 0, 0, 0.28),
+    0 25px 65px rgba(0, 0, 0, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.34),
+    inset 1px 0 0 rgba(132, 211, 255, 0.15),
+    inset -1px 0 0 rgba(189, 151, 255, 0.13),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.075);
+  backdrop-filter: blur(16px) saturate(175%) brightness(1.08) contrast(1.05);
+  -webkit-backdrop-filter: blur(16px) saturate(175%) brightness(1.08) contrast(1.05);
 }
 
 .masthead__inner-wrap.is-glass-active {
@@ -100,7 +90,7 @@
 }
 
 .masthead__inner-wrap.is-glass-active::after {
-  opacity: 1;
+  opacity: 0.96;
 }
 
 .greedy-nav button {
