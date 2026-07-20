@@ -22,7 +22,7 @@ redirect_from:
 
 # Bio
 
-I am an incoming MPhil/PhD student in the Virtual Environment and Computer Graphics ([VECG](http://vecg.cs.ucl.ac.uk/academics.html)) Group at the Department of Computer Science, University College London (UCL), supervised by Dr. [He Wang](https://profiles.ucl.ac.uk/93306-he-wang), Associate Professor, and co-supervised by Prof. [Gabriel Brostow](https://profiles.ucl.ac.uk/6427-gabriel-brostow). My research interests include multimodal intelligence, latent world models, representation learning, and generative AI.
+I am an incoming MPhil/PhD student in the Virtual Environment and Computer Graphics ([VECG](http://vecg.cs.ucl.ac.uk/academics.html)) Group at the Department of Computer Science, University College London (UCL), supervised by Dr. [He Wang](https://profiles.ucl.ac.uk/93306-he-wang), Associate Professor, and co-supervised by Prof. [Gabriel Brostow](https://profiles.ucl.ac.uk/6427-gabriel-brostow). My research interests include **multimodal intelligence**, **latent world models**, **representation learning**, and **generative AI**.
 
 I received an MSc in Computer Graphics, Vision and Imaging with Distinction from UCL, where I was a member of the [Computational Light Laboratory](https://complightlab.com/), led by Dr. [Kaan Akşit](https://www.kaanaksit.com/), Associate Professor. Prior to UCL, I obtained my B.Eng. with Honours from Hefei University of Technology, where I was a member of the [Visual Understanding Team](https://vut-hfut.github.io/index.html).
 
