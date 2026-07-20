@@ -192,7 +192,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
   <details> <summary>In progress</summary> </details>
 
-- *2026.03 - Present*: **Text-Guided Shadow Removal with LVLMs and Diffusion Models**
+- *2026.03 - Present*: **Beyond Shadow Masks: Subject-aware Reasoning for Controllable Shadow Removal**
 
   **Jihao Gu**, [Zhiliang Wu](https://openreview.net/profile?id=~zhiliang_wu1), [Kun Li](https://kunli-cs.github.io/)
 
