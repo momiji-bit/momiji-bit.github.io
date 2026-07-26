@@ -47,7 +47,7 @@ I received an MSc in Computer Graphics, Vision and Imaging with Distinction from
 
 **MAC 2026: Advancing Micro-Action Analysis Towards Fine-Grained Understanding**
 
-<a href="https://arxiv.org/abs/2607.16284" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.16284-red?logo=arxiv"></a>
+<a href="https://arxiv.org/abs/2607.16284" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.16284-red?logo=arxiv"></a> [![Website](https://img.shields.io/badge/Website-Page-8A2BE2)](https://sites.google.com/view/micro-action)
 
 Kun Li, Dan Guo, **Jihao Gu**, Pengyu Liu, Xiaobai Li, Haoyu Chen, Yanbin Hao, Guoying Zhao, Meng Wang
 
