@@ -303,7 +303,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 **Conference Reviewing**
 
-- ACM International Conference on Multimedia (**ACM MM'26**) ×2
+- ACM International Conference on Multimedia (**ACM MM'26**) ×3
 - International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'24**)
 - IEEE International Conference on Multimedia and Expo (**ICME'26**) ×7
 - International Joint Conference on Neural Networks (**IJCNN'25**)
