@@ -29,7 +29,7 @@ I received an MSc in Computer Graphics, Vision and Imaging with Distinction from
 # 🔥 News
 
 - *2026.06*: 🎉 Successfully held the **MAC 2026 Challenge** at **ACM MM 2026**.  
-- *2026.05*: 🏆 Champion of The 4th **EI-MiGA-IJCAI** Challenge Track 1 & 3.
+- *2026.05*: 🏆 Champion of The 4th **EI-MiGA-IJCAI** Challenge Track 1 & 3  (**Best Paper Award**).
 - *2026.03*: 🏆 Our paper accepted by **CVPR 2026 SVC Workshop** (**Best Paper Honorable Mention Award**).  
 - *2026.02*: 🎉 Our paper accepted by **CVPR 2026**.  
 - *2025.09*: 🎓 Received **MSc with Distinction** in Computer Graphics, Vision and Imaging, University College London.  
@@ -83,7 +83,8 @@ Xiaochuan Guo<sup>*</sup>, **Jihao Gu**<sup>*</sup>, Haixu Liu<sup>*</sup>, Yuxi
 
 <sup>*</sup> Equal contribution.
 
-> 🏆 The Champion of [The 4th EI-MiGA-IJCAI Challenge Track 3](https://ei-miga.github.io/).
+> 🏆 <a href="{{ '/images/ijicai_first_place_award.png' | relative_url }}" title="First Palce Award certificate" aria-label="View the First Palce Award certificate">First Place Award</a>
+> 🏆 <a href="{{ '/images/ijaci_best_paper_award.png' | relative_url }}" title="Best Paper Award certificate" aria-label="View the Best Paper Award certificate">Best Paper Award</a>
 
 </div>
 </div>
@@ -100,7 +101,7 @@ Xiaochuan Guo<sup>*</sup>, **Jihao Gu**<sup>*</sup>, Haixu Liu<sup>*</sup>, Yuxi
 
 **Jihao Gu**, Kun Li, He Wang, Akşit Kaan
 
-> <a href="{{ '/images/Jihao%20Gu-Best%20Paper%20Honorable%20Mention%20Award.png' | relative_url }}" title="Best Paper Honorable Mention Award certificate" aria-label="View the Best Paper Honorable Mention Award certificate">🏆 Best Paper Honorable Mention Award</a>
+> 🏆 <a href="{{ '/images/cvprw_best_paper_honorable_mention_award.png' | relative_url }}" title="Best Paper Honorable Mention Award certificate" aria-label="View the Best Paper Honorable Mention Award certificate">Best Paper Honorable Mention Award</a>
 
 </div>
 </div>
