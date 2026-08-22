@@ -84,6 +84,7 @@ Xiaochuan Guo<sup>*</sup>, **Jihao Gu**<sup>*</sup>, Haixu Liu<sup>*</sup>, Yuxi
 <sup>*</sup> Equal contribution.
 
 > 🏆 <a href="{{ '/images/ijicai_first_place_award.png' | relative_url }}" title="First Palce Award certificate" aria-label="View the First Palce Award certificate">First Place Award</a>
+
 > 🏆 <a href="{{ '/images/ijaci_best_paper_award.png' | relative_url }}" title="Best Paper Award certificate" aria-label="View the Best Paper Award certificate">Best Paper Award</a>
 
 </div>
@@ -147,7 +148,7 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 
 **Jihao Gu**, Fei Wang, Kun Li, Yanyan Wei, Zhiliang Wu, Dan Guo
 
-> 🏆 The Champion of [The 3rd MiGA-IJCAI Challenge Track 1](https://cv-ac.github.io/MiGA2025).
+> 🏆 <a href="{{ '/images/ijicai25_first_place_award.png' | relative_url }}" title="First Palce Award certificate" aria-label="View the First Palce Award certificate">First Place Award</a>
 
 </div>
 </div>
