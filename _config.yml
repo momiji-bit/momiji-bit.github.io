@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jihao Gu (谷纪豪)"
-description              : "MPhil/PhD Student @ UCL"
+description              : "PhD"
 repository               : "momiji-bit/momiji-bit.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jihao Gu (谷纪豪)"
   avatar           : "images/profile.png"
-  bio              : "Multimodal Intelligence · World Models · Generative AI"
+  bio              : "Computer Vision"
   location         : "London, UK"
   employer         :
   pubmed           : 
