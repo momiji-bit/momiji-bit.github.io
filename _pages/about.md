@@ -26,7 +26,7 @@ I am an incoming MPhil/PhD student in the Virtual Environment and Computer Graph
 
 I received an MSc in Computer Graphics, Vision and Imaging with Distinction from UCL, where I was a member of the [Computational Light Laboratory](https://complightlab.com/), led by Dr. [Kaan Akşit](https://www.kaanaksit.com/), Associate Professor. Prior to UCL, I obtained my B.Eng. with Honours from Hefei University of Technology, where I was a member of the [Visual Understanding Team](https://vut-hfut.github.io/index.html).
 
-# 🔥 News
+# News
 
 - *2026.06*: 🎉 Successfully held the **MAC 2026 Challenge** at **ACM MM 2026**.  
 - *2026.05*: 🏆 Champion of The 4th **EI-MiGA-IJCAI** Challenge Track 1 & 3  (**Best Paper Award**).
@@ -39,7 +39,7 @@ I received an MSc in Computer Graphics, Vision and Imaging with Distinction from
 - *2024.06*: 🏆 Awarded **Best Thesis Award** and **Outstanding Graduate** at Hefei University of Technology, China.  
 - *2024.06*: 🎓 Received **BEng with First-Class Honours** in Computer Science and Technology, Hefei University of Technology.  
 
-# 📝 Publications 
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/MAC26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -186,7 +186,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 </div>
 
 
-# 🔬 Projects
+# Projects
 
 - *2026.04 - Present*: **Enhancing 3D Perception for Vision-Language-Action Models**
 
@@ -270,7 +270,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
   </details>
 
 
-# 🧾 Patents
+# Patents
 
 - Blind Travel Obstacle Avoidance Assistance System V1.0 [2023SR0517944]
 - Outdoor Visual Impairment Assisting Method based on Deep Intelligent Interaction [[CN114724053A]](https://patents.google.com/patent/CN114724053A/en)  
@@ -278,7 +278,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 - Route Planning Method for Visually Impaired People [[CN116448130A]](https://patents.google.com/patent/CN116448130A/en)  
 - Collision Warning Method based on Image Target Detection and Depth Estimation [[CN116403146A]](https://patents.google.com/patent/CN116403146A/en)
 
-# 🎖 Honors and Awards
+# Honors and Awards
 
 - *2024.06*: Outstanding Graduate of Hefei University of Technology. 
 - *2024.06*: Outstanding Graduation Thesis (Design)
@@ -288,11 +288,11 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 - *2022.09*: "Three Good Students" Award
 - *2021.09*: Second-Class Scholarship
 
-# 💼 Internships
+# Internships
 
 - *2025.09 - 2026.06*: Research Assistant, [Computational Light Laboratory](https://complightlab.com), University College London, London, UK
 
-# 🤝 Services
+# Services
 
 **Journal Reviewing**
 
@@ -317,7 +317,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 
 
-# 📖 Educations
+# Educations
 
 - *Starting 10/2026*: MPhil/PhD, Computer Science, University College London, UK 
 
