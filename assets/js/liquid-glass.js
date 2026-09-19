@@ -3,7 +3,7 @@
 
   var root = document.documentElement;
   var masthead = document.querySelector(".masthead");
-  var surfaceSelector = ".masthead__inner-wrap, .sidebar .profile_box, .paper-box";
+  var surfaceSelector = ".greedy-nav .visible-links, .sidebar .profile_box, .paper-box, .entry-window";
   var finePointer = window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches;
   var reducedMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   var activeSurface = null;
@@ -99,7 +99,30 @@
       return;
     }
 
-    var pill = document.createElement("span");
+    var list = nav.querySelector(".visible-links");
+    if (!list) {
+      return;
+    }
+
+    /* A list item, first in the list: it paints above the bar's glass and
+       below the tab labels, and the greedy-nav script (which only ever moves
+       the last item) leaves it alone. */
+    var pill = document.createElement("li");
+    var rail = window.matchMedia && window.matchMedia("(min-width: 925px)");
+    var overflow = nav.querySelector(".hidden-links");
+
+    /* The rail shows every tab. If the page was loaded narrow and then widened,
+       the greedy-nav script has tabs parked in its overflow menu and will not
+       bring them back (it compares against the rail's width), so do it here. */
+    function restoreTabs() {
+      if (!rail || !rail.matches || !overflow) {
+        return;
+      }
+
+      while (overflow.firstElementChild) {
+        list.appendChild(overflow.firstElementChild);
+      }
+    }
     var sections = [];
     var activeLink = null;
     var spyFrame = null;
@@ -107,7 +130,8 @@
 
     pill.className = "nav-glass-pill";
     pill.setAttribute("aria-hidden", "true");
-    nav.insertBefore(pill, nav.firstChild);
+    pill.setAttribute("role", "presentation");
+    list.insertBefore(pill, list.firstChild);
 
     Array.prototype.forEach.call(nav.querySelectorAll("a[href*='#']"), function (link) {
       var item = link.parentElement;
@@ -134,8 +158,7 @@
     }
 
     function placePill() {
-      var visible = activeLink && activeLink.offsetParent !== null &&
-        !!nav.querySelector(".visible-links") && nav.querySelector(".visible-links").contains(activeLink);
+      var visible = activeLink && activeLink.offsetParent !== null && list.contains(activeLink);
 
       if (!visible) {
         pill.classList.remove("is-visible");
@@ -143,7 +166,7 @@
         return;
       }
 
-      var navRect = nav.getBoundingClientRect();
+      var listRect = list.getBoundingClientRect();
       var linkRect = activeLink.getBoundingClientRect();
 
       if (!placed) {
@@ -151,7 +174,9 @@
       }
 
       pill.style.width = linkRect.width.toFixed(1) + "px";
-      pill.style.transform = "translate3d(" + (linkRect.left - navRect.left).toFixed(1) + "px, 0, 0)";
+      pill.style.height = linkRect.height.toFixed(1) + "px";
+      pill.style.transform = "translate3d(" + (linkRect.left - listRect.left).toFixed(1) + "px, " +
+        (linkRect.top - listRect.top).toFixed(1) + "px, 0)";
 
       if (!placed) {
         void pill.offsetWidth;
@@ -165,7 +190,7 @@
     function syncActiveSection() {
       spyFrame = null;
 
-      var offset = (masthead ? masthead.getBoundingClientRect().bottom : 0) + 40;
+      var offset = (rail && rail.matches ? 0 : (masthead ? masthead.getBoundingClientRect().bottom : 0)) + 72;
       var current = sections[0];
       var atBottom = window.innerHeight + window.pageYOffset >= document.documentElement.scrollHeight - 4;
 
@@ -203,7 +228,10 @@
     window.addEventListener("resize", function () {
       /* The greedy nav reflows its links on resize; measure after it settles. */
       placed = false;
-      window.setTimeout(requestSync, 60);
+      window.setTimeout(function () {
+        restoreTabs();
+        requestSync();
+      }, 60);
     });
     window.addEventListener("load", function () {
       placed = false;
@@ -217,6 +245,7 @@
       });
     }
 
+    restoreTabs();
     syncActiveSection();
   }
 
@@ -224,7 +253,7 @@
      displacement map. Chromium is the only engine that accepts SVG filters in
      backdrop-filter, so every other browser keeps the plain blurred material. */
   function initRefraction() {
-    var surface = document.querySelector(".masthead__inner-wrap");
+    var surface = document.querySelector(".greedy-nav .visible-links");
     var svgNS = "http://www.w3.org/2000/svg";
     var reducedTransparency = window.matchMedia && window.matchMedia("(prefers-reduced-transparency: reduce)").matches;
     var isChromium = !!window.chrome || !!(navigator.userAgentData && navigator.userAgentData.brands &&
@@ -427,14 +456,129 @@
     sync();
   }
 
+  /* Gold rail (wide screens): labels unfold as the pointer comes near. Each
+     link gets --near, 0 to 1, from the pointer's vertical distance to its bead;
+     the stylesheet turns that into label opacity, slide and bead size. Simply
+     being beside the rail lifts every label a little, so the rail announces
+     itself before a bead is reached. */
+  function initRailProximity() {
+    var list = document.querySelector("#site-nav .visible-links");
+    var rail = window.matchMedia && window.matchMedia("(min-width: 925px)");
+    var reach = 78;
+    var zone = 130;
+    var frame = null;
+    var x = 0;
+    var y = 0;
+    var engaged = false;
+
+    if (!list || !rail) {
+      return;
+    }
+
+    /* The rail is as tall as the profile card it mirrors. */
+    var card = document.querySelector(".sidebar .profile_box");
+
+    function matchCard() {
+      if (rail.matches && card && card.offsetHeight) {
+        list.style.height = card.offsetHeight + "px";
+      } else {
+        list.style.removeProperty("height");
+      }
+    }
+
+    if (card && window.ResizeObserver) {
+      new ResizeObserver(matchCard).observe(card);
+    }
+
+    if (rail.addEventListener) {
+      rail.addEventListener("change", matchCard);
+    } else if (rail.addListener) {
+      rail.addListener(matchCard);
+    }
+
+    window.addEventListener("load", matchCard);
+    matchCard();
+
+    if (!finePointer) {
+      return;
+    }
+
+    function links() {
+      return list.querySelectorAll("a");
+    }
+
+    function release() {
+      if (!engaged) {
+        return;
+      }
+
+      engaged = false;
+      Array.prototype.forEach.call(links(), function (link) {
+        link.style.removeProperty("--near");
+        if (link.parentElement) {
+          link.parentElement.classList.remove("is-near");
+        }
+      });
+    }
+
+    function paint() {
+      frame = null;
+
+      if (!rail.matches) {
+        release();
+        return;
+      }
+
+      var bounds = list.getBoundingClientRect();
+      var beside = x >= bounds.left - zone && y >= bounds.top - 36 && y <= bounds.bottom + 36;
+
+      if (!beside) {
+        release();
+        return;
+      }
+
+      engaged = true;
+
+      /* Beads spread out with the card's height, so the falloff follows their
+         spacing: the neighbours of the nearest bead always lift part-way. */
+      var all = links();
+      var spacing = all.length > 1 ? all[1].getBoundingClientRect().top - all[0].getBoundingClientRect().top : reach;
+      var falloff = Math.max(reach, spacing * 1.7);
+
+      Array.prototype.forEach.call(all, function (link) {
+        var box = link.getBoundingClientRect();
+        var distance = Math.abs(y - (box.top + box.height / 2));
+        var near = Math.max(0, 1 - distance / falloff);
+
+        near = near * near * (3 - 2 * near);
+        link.style.setProperty("--near", Math.max(near, 0.2).toFixed(3));
+        if (link.parentElement) {
+          link.parentElement.classList.toggle("is-near", near > 0.5);
+        }
+      });
+    }
+
+    document.addEventListener("pointermove", function (event) {
+      x = event.clientX;
+      y = event.clientY;
+      if (frame === null) {
+        frame = window.requestAnimationFrame(paint);
+      }
+    }, { passive: true });
+
+    document.documentElement.addEventListener("pointerleave", release);
+    window.addEventListener("blur", release);
+  }
+
   if (finePointer && !reducedMotion) {
     document.addEventListener("pointermove", handlePointerMove, { passive: true });
     document.addEventListener("pointerout", handlePointerOut, { passive: true });
   }
 
   initNavPill();
+  initRailProximity();
   initVisitorMap();
-  initEntryWindow("#projects + ul", 2);
+  initEntryWindow("#projects + .entry-window > ul, #projects + ul", 2);
   initRefraction();
 
   window.addEventListener("scroll", handleScroll, { passive: true });

@@ -28,6 +28,8 @@ I received an MSc in Computer Graphics, Vision and Imaging with Distinction from
 
 # News
 
+<div class="entry-window" markdown="1">
+
 - *2026.06*: 🎉 Successfully held the **MAC 2026 Challenge** at **ACM MM 2026**.  
 - *2026.05*: 🏆 Champion of The 4th **EI-MiGA-IJCAI** Challenge Track 1 & 3  (**Best Paper Award**).
 - *2026.03*: 🏆 Our paper accepted by **CVPR 2026 SVC Workshop** (**Best Paper Honorable Mention Award**).  
@@ -38,6 +40,8 @@ I received an MSc in Computer Graphics, Vision and Imaging with Distinction from
 - *2025.05*: 🏆 Champion of The 3rd **MiGA-IJCAI** Challenge Track 1.
 - *2024.06*: 🏆 Awarded **Best Thesis Award** and **Outstanding Graduate** at Hefei University of Technology, China.  
 - *2024.06*: 🎓 Received **BEng with First-Class Honours** in Computer Science and Technology, Hefei University of Technology.  
+
+</div>
 
 # Publications
 
@@ -188,6 +192,8 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 
 # Projects
 
+<div class="entry-window" markdown="1">
+
 - *2026.04 - Present*: **Enhancing 3D Perception for Vision-Language-Action Models**
 
   **Jihao Gu**,  [Jiachen Tao](https://scholar.google.com/citations?hl=en&user=NsYqGP8AAAAJ), [Yan Yan (Supervisor)](https://scholar.google.com/citations?user=zhi-j1wAAAAJ&hl)
@@ -269,6 +275,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
   </ul>
   </details>
 
+</div>
 
 # Patents
 
@@ -277,16 +284,6 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 - Semantic Segmentation-Based Preferential Direction Deviation Early Warning System [[CN114723946A]](https://patents.google.com/patent/CN114723946A/en)  
 - Route Planning Method for Visually Impaired People [[CN116448130A]](https://patents.google.com/patent/CN116448130A/en)  
 - Collision Warning Method based on Image Target Detection and Depth Estimation [[CN116403146A]](https://patents.google.com/patent/CN116403146A/en)
-
-# Honors and Awards
-
-- *2024.06*: Outstanding Graduate of Hefei University of Technology. 
-- *2024.06*: Outstanding Graduation Thesis (Design)
-- *2023.09*: First-Class Scholarship
-- *2023.09*: "Three Good Students" Award
-- *2022.09*: Second-Class Scholarship
-- *2022.09*: "Three Good Students" Award
-- *2021.09*: Second-Class Scholarship
 
 # Internships
 

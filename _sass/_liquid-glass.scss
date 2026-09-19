@@ -61,10 +61,15 @@ html {
   animation: none;
 }
 
-.masthead__inner-wrap,
+.greedy-nav .visible-links,
 .page .page__inner-wrap,
 .sidebar .profile_box {
   animation: lg-surface-in 0.7s var(--lg-ease) both;
+}
+
+/* The button is positioned with a transform, so it only fades. */
+.greedy-nav button {
+  animation: intro 0.7s ease both;
 }
 
 .sidebar .profile_box {
@@ -88,11 +93,16 @@ html {
 }
 
 /*
-   Floating navigation capsule
+   Floating navigation
+   A capsule sized to its tabs and centred on the page, with the overflow menu
+   as a separate glass button beside it (the iOS 26 tab-bar arrangement). The
+   glass lives on .visible-links, not on the full-width wrapper: the greedy-nav
+   script measures the wrapper to decide which tabs fit, so the wrapper has to
+   stay full width and stays invisible.
    ========================================================================== */
 
 /* Scroll-edge fade: content dissolves into the page before it reaches the
-   capsule instead of peeking through the gap above it. */
+   bar instead of peeking through the gap above it. */
 .masthead::before {
   content: "";
   position: absolute;
@@ -112,36 +122,19 @@ html {
 }
 
 .masthead__inner-wrap {
-  --lg-light: 0.4;
+  padding: 0.1rem 0;
+  overflow: visible;
   border: 0;
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.025) 55%, rgba(255, 255, 255, 0.05)),
-    var(--lg-tint-thin);
-  box-shadow:
-    0 1px 2px rgba(0, 0, 0, 0.32),
-    0 10px 28px rgba(0, 0, 0, 0.3),
-    0 28px 64px rgba(0, 0, 0, 0.22),
-    inset 0 1px 1px rgba(255, 255, 255, 0.2),
-    inset 0 -10px 18px -12px rgba(255, 255, 255, 0.16),
-    inset 0 10px 18px -14px rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(18px) saturate(190%) brightness(1.1);
-  -webkit-backdrop-filter: blur(18px) saturate(190%) brightness(1.1);
-  transition: background-color 0.35s ease, box-shadow 0.35s ease;
+  border-radius: 0;
+  background: none;
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
 }
 
-.masthead__inner-wrap::before {
-  inset: 0;
-  z-index: 0;
-  height: auto;
-  border-radius: inherit;
-  background: radial-gradient(260px circle at var(--lg-x) var(--lg-y), rgba(255, 255, 255, 0.16), rgba(150, 205, 255, 0.04) 40%, transparent 68%);
-  opacity: 0;
-  mix-blend-mode: screen;
-  transition: opacity 0.35s ease;
-}
-
+.masthead__inner-wrap::before,
 .masthead__inner-wrap::after {
-  @include glass-rim(linear-gradient(100deg, rgba(255, 255, 255, 0.52), rgba(255, 255, 255, 0.12) 22%, rgba(255, 255, 255, 0.05) 62%, rgba(255, 255, 255, 0.34)));
+  display: none;
 }
 
 .masthead__menu {
@@ -149,31 +142,94 @@ html {
   z-index: 1;
 }
 
-.masthead.is-scrolled .masthead__inner-wrap {
+/* One glass recipe for the bar and the button beside it. */
+@mixin nav-glass {
   background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.03) 55%, rgba(255, 255, 255, 0.055)),
-    rgba(13, 15, 22, 0.6);
+    linear-gradient(180deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.02) 55%, rgba(255, 255, 255, 0.045)),
+    var(--lg-tint-thin);
   box-shadow:
-    0 1px 2px rgba(0, 0, 0, 0.36),
-    0 12px 32px rgba(0, 0, 0, 0.38),
-    0 30px 70px rgba(0, 0, 0, 0.3),
-    inset 0 1px 1px rgba(255, 255, 255, 0.24),
-    inset 0 -10px 18px -12px rgba(255, 255, 255, 0.18),
-    inset 0 10px 18px -14px rgba(255, 255, 255, 0.12);
-}
-
-.masthead__inner-wrap.is-glass-active {
-  --lg-rim-glow: 0.85;
-}
-
-.masthead__inner-wrap.is-glass-active::before {
-  opacity: 1;
+    0 1px 2px rgba(0, 0, 0, 0.32),
+    0 8px 24px rgba(0, 0, 0, 0.3),
+    0 22px 52px rgba(0, 0, 0, 0.2),
+    inset 0 1px 1px rgba(255, 255, 255, 0.2),
+    inset 0 -8px 14px -10px rgba(255, 255, 255, 0.14);
+  backdrop-filter: blur(18px) saturate(190%) brightness(1.1);
+  -webkit-backdrop-filter: blur(18px) saturate(190%) brightness(1.1);
 }
 
 .greedy-nav {
+  /* Tab height, and the gap between a tab and the bar's edge. The bar is
+     therefore --nav-h + 2 * --nav-pad tall, and so is the menu button. */
+  --nav-h: 2.15rem;
+  --nav-pad: 4px;
+  min-height: calc(var(--nav-h) + var(--nav-pad) * 2);
+
   .visible-links {
+    @include nav-glass;
+    --lg-light: 0;
     position: relative;
     z-index: 1;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    width: max-content;
+    margin: 0 auto;
+    padding: var(--nav-pad);
+    border-radius: 999px;
+    transition: background-color 0.35s ease, box-shadow 0.35s ease;
+  }
+
+  /* With the menu button showing, the bar hugs the left so the two never
+     collide; the script always keeps at least 30px between them. */
+  button:not(.hidden) ~ .visible-links {
+    margin-left: 0;
+  }
+
+  /* Pointer light */
+  .visible-links::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    pointer-events: none;
+    border-radius: inherit;
+    background: radial-gradient(220px circle at var(--lg-x) var(--lg-y), rgba(255, 255, 255, 0.14), rgba(150, 205, 255, 0.035) 40%, transparent 68%);
+    opacity: var(--lg-light);
+    mix-blend-mode: screen;
+    transition: opacity 0.35s ease;
+  }
+
+  .visible-links::after {
+    @include glass-rim(linear-gradient(100deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.12) 24%, rgba(255, 255, 255, 0.05) 62%, rgba(255, 255, 255, 0.32)));
+  }
+
+  .visible-links.is-glass-active {
+    --lg-light: 1;
+    --lg-rim-glow: 0.8;
+  }
+
+  .visible-links li {
+    position: relative;
+    z-index: 1;
+    display: block;
+    font-weight: inherit;
+  }
+
+  .visible-links a {
+    display: block;
+    height: var(--nav-h);
+    margin: 0;
+    padding: 0 0.92rem;
+    color: rgba(245, 245, 247, 0.68);
+    font-size: 0.86rem;
+    font-weight: 500;
+    line-height: var(--nav-h);
+    letter-spacing: 0.005em;
+    border-radius: 999px;
+    transition: color 0.25s ease, background-color 0.25s ease;
   }
 
   a,
@@ -183,15 +239,12 @@ html {
     transform: none;
   }
 
-  .visible-links a {
-    transition: color 0.25s ease, background-color 0.25s ease;
-  }
-
   .visible-links a::before {
     display: none;
   }
 
   .visible-links a:hover {
+    color: #fff;
     background-color: rgba(255, 255, 255, 0.07);
   }
 
@@ -201,33 +254,28 @@ html {
     background-color: transparent;
   }
 
-  .hidden-links a.is-active {
-    color: #fff;
-    background: rgba(255, 255, 255, 0.1);
+  /* Menu button: a second piece of the same glass, the same height as the bar. */
+  button {
+    @include nav-glass;
+    width: calc(var(--nav-h) + var(--nav-pad) * 2);
+    height: calc(var(--nav-h) + var(--nav-pad) * 2);
+    min-width: 0;
+    min-height: 0;
+    border: 0;
+    border-radius: 50%;
+    transition: background-color 0.25s ease, transform 0.35s var(--lg-ease);
   }
 
-  /* Same height as the selection capsule so the bar reads as one row of
-     equal controls; ::after keeps the touch target at 44px. */
-  button {
-    width: 2.2rem;
-    height: 2.2rem;
-    min-width: 2.2rem;
-    min-height: 2.2rem;
-    border: 0;
-    background:
-      linear-gradient(180deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.05)),
-      rgba(20, 22, 30, 0.5);
-    box-shadow:
-      0 8px 24px rgba(0, 0, 0, 0.3),
-      inset 0 0 0 1px rgba(255, 255, 255, 0.12),
-      inset 0 1px 1px rgba(255, 255, 255, 0.3);
-    transition: background-color 0.25s ease, transform 0.35s var(--lg-ease);
+  button:hover,
+  button:focus-visible {
+    background-color: rgba(255, 255, 255, 0.08);
   }
 
   button:active {
     transform: translateY(-50%) scale(0.94);
   }
 
+  /* Keeps the touch target at 44px whatever the drawn size. */
   button::after {
     content: "";
     position: absolute;
@@ -261,15 +309,19 @@ html {
     width: 15px;
   }
 
+  /* Overflow menu. It is no longer nested inside another glass surface, so it
+     can blur the page itself and the tint can stay light. */
   .hidden-links {
+    min-width: 11rem;
+    margin-top: 0.6rem;
     border: 0;
     background:
-      linear-gradient(160deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.03)),
-      rgba(18, 19, 27, 0.9);
+      linear-gradient(160deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.025)),
+      rgba(18, 19, 27, 0.66);
     box-shadow:
       0 24px 60px rgba(0, 0, 0, 0.5),
       inset 0 0 0 1px rgba(255, 255, 255, 0.12),
-      inset 0 1px 1px rgba(255, 255, 255, 0.22);
+      inset 0 1px 1px rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(40px) saturate(180%);
     -webkit-backdrop-filter: blur(40px) saturate(180%);
   }
@@ -277,35 +329,259 @@ html {
   .hidden-links li {
     border-bottom: 0;
   }
+
+  .hidden-links a {
+    padding: 0.55rem 0.9rem;
+    color: rgba(245, 245, 247, 0.8);
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  .hidden-links a.is-active {
+    color: #fff;
+    background: rgba(255, 255, 255, 0.1);
+  }
 }
 
-/* The selection lozenge that glides between nav items (added by liquid-glass.js). */
-.nav-glass-pill {
+.masthead.is-scrolled .greedy-nav .visible-links,
+.masthead.is-scrolled .greedy-nav button {
+  background-color: rgba(13, 15, 22, 0.6);
+}
+
+/* The selection lozenge that glides between tabs. liquid-glass.js adds it as
+   the list's first item so it paints above the bar's glass and below the tab
+   labels; it fills the tab exactly, so it sits --nav-pad inside the bar on
+   every side and its ends stay concentric with the bar's. */
+.greedy-nav .visible-links .nav-glass-pill {
   position: absolute;
-  top: 50%;
+  top: 0;
   left: 0;
   z-index: 0;
   width: 0;
-  height: 2.2rem;
-  margin-top: -1.1rem;
+  height: var(--nav-h);
   pointer-events: none;
   border-radius: 999px;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.24), rgba(255, 255, 255, 0.1));
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0.09));
   box-shadow:
-    0 4px 14px rgba(0, 0, 0, 0.22),
-    inset 0 0 0 1px rgba(255, 255, 255, 0.1),
-    inset 0 1px 1px rgba(255, 255, 255, 0.36),
-    inset 0 -1px 1px rgba(255, 255, 255, 0.06);
+    0 2px 10px rgba(0, 0, 0, 0.2),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.09),
+    inset 0 1px 1px rgba(255, 255, 255, 0.34);
   opacity: 0;
-  transition: transform 0.55s var(--lg-ease), width 0.55s var(--lg-ease), opacity 0.3s ease;
+  transition: transform 0.55s var(--lg-ease), width 0.55s var(--lg-ease), height 0.55s var(--lg-ease), opacity 0.3s ease;
 }
 
-.nav-glass-pill.is-visible {
+.greedy-nav .visible-links .nav-glass-pill.is-visible {
   opacity: 1;
 }
 
-.nav-glass-pill.is-instant {
+.greedy-nav .visible-links .nav-glass-pill.is-instant {
   transition: none;
+}
+
+@media (max-width: 767px) {
+  .greedy-nav {
+    --nav-h: 2.1rem;
+  }
+
+  .greedy-nav .visible-links a {
+    padding: 0 0.78rem;
+  }
+}
+
+/* Wide screens: the navigation becomes a hairline gold rail against the right
+   edge of the window, level with the profile card and exactly as tall
+   (liquid-glass.js copies the card's height onto the list). Each section is a
+   black bead on the rail; the bead for the section being read turns gold.
+   Labels are plain text to the left of the rail, folded away until the pointer
+   comes near: liquid-glass.js sets --near (0 to 1) on each link from the
+   pointer's distance, which drives the label's opacity and slide and the
+   bead's size. :hover and :focus-visible give the same result without the
+   script and for keyboard use.
+   Below $large the profile stacks above the content, there is no room at the
+   side, and the horizontal bar above is used instead. */
+@include breakpoint($large) {
+  :root {
+    --masthead-offset: 1.75rem;
+  }
+
+  .masthead {
+    position: fixed;
+    top: 1.5rem;
+    right: 0.55rem;
+    left: auto;
+    width: 7.75rem;
+    padding: 0;
+  }
+
+  .masthead::before {
+    display: none;
+  }
+
+  .masthead__inner-wrap {
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .greedy-nav {
+    --bead: 7px;
+    --rail-w: 1.5rem;
+    /* Full column width, not the rail's: the greedy-nav script subtracts the
+       menu button and a 30px gap from this when it decides what fits, and
+       recurses without end if the result is narrower than the list. */
+    width: 100%;
+    min-height: 0;
+  }
+
+  /* Every section fits on the rail, so the overflow menu is not needed. */
+  .greedy-nav button,
+  .greedy-nav .hidden-links,
+  .greedy-nav .visible-links .nav-glass-pill {
+    display: none;
+  }
+
+  /* The list is only a positioning frame here: no glass. The refraction script
+     sets backdrop-filter inline for the horizontal bar, hence !important. */
+  .greedy-nav .visible-links,
+  .greedy-nav button:not(.hidden) ~ .visible-links {
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 0;
+    width: var(--rail-w);
+    height: 30rem;
+    margin: 0 0 0 auto;
+    padding: 0.35rem 0;
+    border-radius: 0;
+    background: none;
+    box-shadow: none;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+
+  /* The rail itself: one pixel of gold, fading out at both ends. */
+  .greedy-nav .visible-links::before {
+    top: 0;
+    right: auto;
+    bottom: 0;
+    left: 50%;
+    width: 1px;
+    margin-left: -0.5px;
+    border-radius: 0;
+    background: linear-gradient(180deg, rgba(217, 192, 138, 0), rgba(217, 192, 138, 0.78) 9%, rgba(217, 192, 138, 0.78) 91%, rgba(217, 192, 138, 0));
+    opacity: 1;
+    mix-blend-mode: normal;
+  }
+
+  .greedy-nav .visible-links::after {
+    display: none;
+  }
+
+  .greedy-nav .visible-links a,
+  .greedy-nav .visible-links a:hover,
+  .greedy-nav .visible-links a.is-active {
+    position: relative;
+    width: 7.75rem;
+    height: 2rem;
+    padding: 0;
+    overflow: visible;
+    border-radius: 0;
+    background: none;
+  }
+
+  /* Bead */
+  .greedy-nav .visible-links a::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: calc(var(--rail-w) / 2);
+    width: var(--bead);
+    height: var(--bead);
+    margin: calc(var(--bead) / -2) calc(var(--bead) / -2) 0 0;
+    border-radius: 50%;
+    background: #060608;
+    box-shadow: 0 0 0 1px rgba(217, 192, 138, 0.85);
+    transform: scale(calc(1 + var(--near, 0) * 0.6));
+    transition: transform 0.25s var(--lg-ease), background-color 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .greedy-nav .visible-links a.is-active::after {
+    background: var(--lg-gold);
+    box-shadow: 0 0 0 1px var(--lg-gold), 0 0 12px rgba(217, 192, 138, 0.55);
+  }
+
+  /* Label: plain text to the left of its bead. No chip, no backdrop: the rail
+     is the only thing drawn. */
+  .greedy-nav .nav-label {
+    position: absolute;
+    top: 50%;
+    right: calc(var(--rail-w) + 0.15rem);
+    color: #ececf1;
+    font-size: 0.82rem;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+    pointer-events: none;
+    opacity: var(--near, 0);
+    transform: translate(calc((1 - var(--near, 0)) * 0.5rem), -50%);
+    transition: opacity 0.25s ease, transform 0.35s var(--lg-ease), color 0.2s ease;
+  }
+
+  .greedy-nav a.is-active .nav-label {
+    color: var(--lg-gold);
+  }
+
+  .greedy-nav .visible-links a:hover .nav-label,
+  .greedy-nav .visible-links a:focus-visible .nav-label {
+    opacity: 1;
+    transform: translate(0, -50%);
+  }
+
+  .greedy-nav .visible-links li.is-near .nav-label {
+    pointer-events: auto;
+  }
+
+  /* Visual centre: the text column is centred on the window, not on what is
+     left over beside the profile card. The right inset mirrors the left one
+     (sidebar span 16.95% + gutter 1.69% + the page column's 1.69% prefix, all
+     relative to #main), so the card and the rail flank the text evenly and
+     the rail's labels unfold into that mirrored space, never over the text. */
+  .page {
+    padding-right: 20.33%;
+  }
+
+  .page .page__inner-wrap {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  /* Profile card and content start on the same line. The .sticky helper from
+     the theme parks the sidebar 90px down to clear the old top bar. */
+  .sidebar.sticky,
+  .sidebar .profile_box {
+    top: 1.5rem;
+  }
+
+  #main {
+    margin-top: 1.5rem;
+  }
+
+  .page .page__inner-wrap {
+    padding-top: 0;
+  }
+
+  .page__content > h1:first-of-type {
+    margin-top: 0.35rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .greedy-nav .nav-label,
+  .greedy-nav .visible-links a::after {
+    transition: none;
+  }
 }
 
 /* The theme pads the #about-me anchor with an invisible 10em block (pulled back
@@ -571,10 +847,61 @@ summary:focus-visible {
 }
 
 /* News and Projects are scrolling windows, so the lists can grow without
-   pushing everything below them down. The bottom edge fades to hint at more;
-   the padding lets the last entry scroll clear of that fade. */
+   pushing everything below them down. Each sits in an .entry-window frame
+   that behaves like a publication row: invisible at rest, a faint glass fill
+   and a specular rim (with the pointer-following glow) on hover. The frame is
+   a wrapper because the list itself scrolls and is masked, so a rim drawn on
+   the list would scroll away and fade with it. */
+.entry-window {
+  position: relative;
+  margin: 0 -1.1rem;
+  padding: 0.95rem 1.1rem;
+  border-radius: var(--lg-r-row);
+  corner-shape: squircle;
+  transition: background-color 0.35s ease;
+}
+
+.entry-window::after {
+  @include glass-rim(linear-gradient(150deg, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0.05) 30%, rgba(255, 255, 255, 0.03) 66%, rgba(255, 255, 255, 0.12)));
+  corner-shape: squircle;
+  opacity: 0;
+  transition: opacity 0.35s ease, --lg-rim-glow 0.35s ease;
+}
+
+.entry-window > ul {
+  position: relative;
+  z-index: 1;
+  margin-top: 0;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .entry-window:hover {
+    background-color: rgba(255, 255, 255, 0.028);
+  }
+
+  .entry-window:hover::after {
+    opacity: 1;
+  }
+
+  .entry-window.is-glass-active {
+    --lg-rim-glow: 0.55;
+  }
+}
+
+@media (max-width: 767px) {
+  .entry-window {
+    margin: 0 -0.5rem;
+    padding: 0.7rem 0.5rem;
+  }
+}
+
+/* The bottom edge fades to hint at more; the padding lets the last entry
+   scroll clear of that fade. (The bare `h1 + ul` form covers a list that has
+   not been wrapped in an .entry-window.) */
 #news + ul,
-#projects + ul {
+#projects + ul,
+#news + .entry-window > ul,
+#projects + .entry-window > ul {
   margin-bottom: 0;
   padding-right: 0.75rem;
   padding-bottom: 1.1em;
@@ -586,24 +913,28 @@ summary:focus-visible {
 }
 
 /* News: four rows. */
-#news + ul {
+#news + ul,
+#news + .entry-window > ul {
   --news-row: calc(1.68em + 0.42em);
   max-height: calc(var(--news-row) * 4 + 0.6em);
 }
 
 /* Projects: two entries. Entries vary in height, so liquid-glass.js measures
    the first two and sets the exact max-height; this is the no-JS fallback. */
-#projects + ul {
+#projects + ul,
+#projects + .entry-window > ul {
   max-height: 17rem;
 }
 
-#projects + ul > li {
+#projects + ul > li,
+#projects + .entry-window > ul > li {
   margin-bottom: 0.9em;
 }
 
 @media (max-width: 767px) {
   /* Entries wrap to two or three lines on a phone; keep about four visible. */
-  #news + ul {
+  #news + ul,
+  #news + .entry-window > ul {
     max-height: calc(var(--news-row) * 8 + 0.6em);
   }
 }
@@ -950,8 +1281,10 @@ details[open] > summary::before {
 }
 
 @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
-  .masthead__inner-wrap,
-  .masthead.is-scrolled .masthead__inner-wrap,
+  .greedy-nav .visible-links,
+  .greedy-nav button,
+  .masthead.is-scrolled .greedy-nav .visible-links,
+  .masthead.is-scrolled .greedy-nav button,
   .sidebar .profile_box,
   .greedy-nav .hidden-links {
     background: var(--lg-surface-strong);
@@ -964,8 +1297,10 @@ details[open] > summary::before {
     --lg-hairline: rgba(255, 255, 255, 0.3);
   }
 
-  .masthead__inner-wrap,
-  .masthead.is-scrolled .masthead__inner-wrap,
+  .greedy-nav .visible-links,
+  .greedy-nav button,
+  .masthead.is-scrolled .greedy-nav .visible-links,
+  .masthead.is-scrolled .greedy-nav button,
   .sidebar .profile_box {
     background: rgba(10, 11, 15, 0.94);
     box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.34);
@@ -978,8 +1313,10 @@ details[open] > summary::before {
 }
 
 @media (prefers-reduced-transparency: reduce) {
-  .masthead__inner-wrap,
-  .masthead.is-scrolled .masthead__inner-wrap,
+  .greedy-nav .visible-links,
+  .greedy-nav button,
+  .masthead.is-scrolled .greedy-nav .visible-links,
+  .masthead.is-scrolled .greedy-nav button,
   .sidebar .profile_box {
     background: #17181e;
     backdrop-filter: none;
@@ -987,7 +1324,7 @@ details[open] > summary::before {
   }
 
   body::before,
-  .masthead__inner-wrap::before,
+  .greedy-nav .visible-links::before,
   .sidebar .profile_box::before {
     display: none;
   }
@@ -998,16 +1335,17 @@ details[open] > summary::before {
 }
 
 @media (forced-colors: active) {
-  .masthead__inner-wrap::before,
+  .greedy-nav .visible-links::before,
   .sidebar .profile_box::before,
-  .masthead__inner-wrap::after,
+  .greedy-nav .visible-links::after,
   .sidebar .profile_box::after,
   .paper-box::after,
   .nav-glass-pill {
     display: none;
   }
 
-  .masthead__inner-wrap,
+  .greedy-nav .visible-links,
+  .greedy-nav button,
   .sidebar .profile_box {
     border: 1px solid CanvasText;
   }
@@ -1105,11 +1443,6 @@ details[open] > summary::before {
 }
 
 @media (max-width: 767px) {
-  /* The bar stays a capsule on a phone, as iOS tab bars and toolbars do. */
-  .masthead__inner-wrap {
-    border-radius: 999px;
-  }
-
   .paper-box {
     --lg-inset: 0.5rem;
   }
@@ -1117,4 +1450,18 @@ details[open] > summary::before {
 
 .paper-box-text a img {
   border-radius: 5px;
+}
+
+/* Rail mode, last word: the list is only a frame for the gold line, so nothing
+   may paint behind it. The horizontal bar's scrolled tint and the solid
+   fallbacks above (no backdrop-filter, more contrast, reduced transparency,
+   forced colours) all target this same element with higher specificity, which
+   showed up as a dark box behind the rail once the page was scrolled. */
+@include breakpoint($large) {
+  .greedy-nav .visible-links,
+  .masthead.is-scrolled .greedy-nav .visible-links {
+    border: 0 !important;
+    background: none !important;
+    box-shadow: none !important;
+  }
 }
