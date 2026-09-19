@@ -206,11 +206,13 @@ html {
     background: rgba(255, 255, 255, 0.1);
   }
 
+  /* Same height as the selection capsule so the bar reads as one row of
+     equal controls; ::after keeps the touch target at 44px. */
   button {
-    width: 44px;
-    height: 44px;
-    min-width: 44px;
-    min-height: 44px;
+    width: 2.2rem;
+    height: 2.2rem;
+    min-width: 2.2rem;
+    min-height: 2.2rem;
     border: 0;
     background:
       linear-gradient(180deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.05)),
@@ -224,6 +226,39 @@ html {
 
   button:active {
     transform: translateY(-50%) scale(0.94);
+  }
+
+  button::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 44px;
+    height: 44px;
+    transform: translate(-50%, -50%);
+  }
+
+  .navicon,
+  .navicon::before,
+  .navicon::after {
+    width: 15px;
+    height: 1.5px;
+    border-radius: 999px;
+  }
+
+  .navicon::before {
+    top: -5px;
+  }
+
+  .navicon::after {
+    bottom: -5px;
+  }
+
+  .close .navicon::before,
+  .close .navicon::after {
+    top: 0;
+    bottom: auto;
+    width: 15px;
   }
 
   .hidden-links {
@@ -271,6 +306,24 @@ html {
 
 .nav-glass-pill.is-instant {
   transition: none;
+}
+
+/* The theme pads the #about-me anchor with an invisible 10em block (pulled back
+   up by a -10em margin) so the heading cleared its old fixed header. On a phone
+   that block, and the paragraph stretched around it, lie over the bottom of the
+   profile card and swallow taps there. scroll-margin-top already handles the
+   offset, so the spacer is simply removed; the two values cancelled out, so
+   nothing moves. */
+.page__content #about-me {
+  margin-top: 0;
+}
+
+.page__content #about-me::before {
+  display: none;
+}
+
+.page__content .anchor {
+  pointer-events: none;
 }
 
 /*
@@ -381,6 +434,28 @@ html {
 
 .author__urls_sm i {
   color: inherit !important;
+}
+
+/* Visitor map: pinned open beside the desktop profile (liquid-glass.js adds
+   .is-pinned there); on narrower screens it folds into a "Visitors" disclosure
+   so a full-width map does not take over the profile card. */
+.profile_box__visitor-map {
+  margin: 0.9rem 0 0;
+  padding: 0;
+}
+
+.profile_box__visitor-map > a {
+  max-width: 22rem;
+  margin: 0.65rem auto 0;
+}
+
+.profile_box__visitor-map.is-pinned > summary {
+  display: none;
+}
+
+.profile_box__visitor-map.is-pinned > a {
+  max-width: none;
+  margin: 0;
 }
 
 .profile_box__visitor-map img {
