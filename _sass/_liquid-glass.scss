@@ -388,15 +388,17 @@ html {
   }
 }
 
-/* Wide screens: the navigation becomes a hairline gold rail against the right
-   edge of the window, level with the profile card and exactly as tall
-   (liquid-glass.js copies the card's height onto the list). Each section is a
-   black bead on the rail; the bead for the section being read turns gold.
-   Labels are plain text to the left of the rail, folded away until the pointer
+/* Wide screens: the navigation becomes a right-hand column that mirrors the
+   profile card on the left: same top, same height (liquid-glass.js copies the
+   card's height onto the list), same width, and the same gap to the text. What
+   is drawn in it is only a hairline gold rail at the column's inner edge, with
+   a black bead per section (gold for the one being read). The section names
+   are plain text to the right of the rail and stay hidden until the pointer
    comes near: liquid-glass.js sets --near (0 to 1) on each link from the
-   pointer's distance, which drives the label's opacity and slide and the
-   bead's size. :hover and :focus-visible give the same result without the
-   script and for keyboard use.
+   pointer's distance, which drives the name's opacity and slide and also
+   grows the bead. :hover
+   and :focus-visible give the same result without the script and for keyboard
+   use.
    Below $large the profile stacks above the content, there is no room at the
    side, and the horizontal bar above is used instead. */
 @include breakpoint($large) {
@@ -407,9 +409,13 @@ html {
   .masthead {
     position: fixed;
     top: 1.5rem;
-    right: 0.55rem;
+    /* The mirror image of the sidebar: flush with the layout's right edge
+       (#main is centred, at most 1440px wide here, with 1rem of padding) and
+       15% of its inner width, the same as the sidebar. Percentages, not vw, so
+       a classic scrollbar does not skew it. */
+    right: #{"calc(max(0px, (100% - 1440px) / 2) + 1rem)"};
     left: auto;
-    width: 7.75rem;
+    width: #{"calc((min(100%, 1440px) - 2rem) * 0.15)"};
     padding: 0;
   }
 
@@ -446,12 +452,14 @@ html {
   .greedy-nav .visible-links,
   .greedy-nav button:not(.hidden) ~ .visible-links {
     flex-direction: column;
-    align-items: flex-end;
+    align-items: flex-start;
     justify-content: space-between;
     gap: 0;
     width: var(--rail-w);
     height: 30rem;
-    margin: 0 0 0 auto;
+    /* Pull the rail's centre line onto the column's edge, so the gap between
+       text and rail equals the gap between profile card and text. */
+    margin: 0 0 0 calc(var(--rail-w) / -2);
     padding: 0.35rem 0;
     border-radius: 0;
     background: none;
@@ -474,15 +482,54 @@ html {
     mix-blend-mode: normal;
   }
 
+  /* Searchlight: a soft pool of light that rides the rail at the pointer's
+     height (--rail-y, set by liquid-glass.js while the pointer is beside the
+     rail). The pseudo-element spans the rail exactly and the pool is a
+     background image positioned inside it, so the light can never spill past
+     the rail's ends; the mask fades it out over the same stretch where the
+     line itself fades. It reuses the pseudo-element that draws the glass rim
+     on the horizontal bar, so that rim's padding is cleared first. */
   .greedy-nav .visible-links::after {
-    display: none;
+    top: 0;
+    right: auto;
+    bottom: 0;
+    left: 50%;
+    z-index: 0;
+    width: 11px;
+    height: auto;
+    margin-left: -5.5px;
+    padding: 0;
+    border-radius: 0;
+    background: radial-gradient(closest-side, rgba(255, 228, 165, 0.6), rgba(217, 192, 138, 0.2) 50%, rgba(217, 192, 138, 0)) no-repeat;
+    background-position: 0 calc(var(--rail-y, 0px) - 85px);
+    background-size: 11px 170px;
+    -webkit-mask: linear-gradient(180deg, transparent, #000 9%, #000 91%, transparent);
+    -webkit-mask-composite: source-over;
+    mask: linear-gradient(180deg, transparent, #000 9%, #000 91%, transparent);
+    mask-composite: add;
+    opacity: 0;
+    transform: none;
+    transition: opacity 0.35s ease;
+  }
+
+  .greedy-nav .visible-links.is-tracking::after {
+    opacity: 1;
+  }
+
+  /* While the searchlight is tracking, values change every frame: a long
+     transition would make the names lag and then lurch, so they only get a
+     few milliseconds of smoothing. The slow fade is kept for letting go. */
+  .greedy-nav .visible-links.is-tracking .nav-label,
+  .greedy-nav .visible-links.is-tracking a::after {
+    transition-duration: 0.09s;
+    transition-timing-function: linear;
   }
 
   .greedy-nav .visible-links a,
   .greedy-nav .visible-links a:hover,
   .greedy-nav .visible-links a.is-active {
     position: relative;
-    width: 7.75rem;
+    width: 9.5rem;
     height: 2rem;
     padding: 0;
     overflow: visible;
@@ -495,10 +542,10 @@ html {
     content: "";
     position: absolute;
     top: 50%;
-    right: calc(var(--rail-w) / 2);
+    left: calc(var(--rail-w) / 2);
     width: var(--bead);
     height: var(--bead);
-    margin: calc(var(--bead) / -2) calc(var(--bead) / -2) 0 0;
+    margin: calc(var(--bead) / -2) 0 0 calc(var(--bead) / -2);
     border-radius: 50%;
     background: #060608;
     box-shadow: 0 0 0 1px rgba(217, 192, 138, 0.85);
@@ -511,12 +558,12 @@ html {
     box-shadow: 0 0 0 1px var(--lg-gold), 0 0 12px rgba(217, 192, 138, 0.55);
   }
 
-  /* Label: plain text to the left of its bead. No chip, no backdrop: the rail
+  /* Label: plain text to the right of its bead. No chip, no backdrop: the rail
      is the only thing drawn. */
   .greedy-nav .nav-label {
     position: absolute;
     top: 50%;
-    right: calc(var(--rail-w) + 0.15rem);
+    left: calc(var(--rail-w) + 0.2rem);
     color: #ececf1;
     font-size: 0.82rem;
     font-weight: 500;
@@ -525,12 +572,16 @@ html {
     white-space: nowrap;
     pointer-events: none;
     opacity: var(--near, 0);
-    transform: translate(calc((1 - var(--near, 0)) * 0.5rem), -50%);
+    transform: translate(calc((1 - var(--near, 0)) * -0.5rem), -50%);
     transition: opacity 0.25s ease, transform 0.35s var(--lg-ease), color 0.2s ease;
   }
 
   .greedy-nav a.is-active .nav-label {
     color: var(--lg-gold);
+  }
+
+  .greedy-nav .visible-links li.is-near .nav-label {
+    pointer-events: auto;
   }
 
   .greedy-nav .visible-links a:hover .nav-label,
@@ -539,17 +590,47 @@ html {
     transform: translate(0, -50%);
   }
 
-  .greedy-nav .visible-links li.is-near .nav-label {
-    pointer-events: auto;
+  /* A wider layout on big windows (the theme stops at 1280px), so the text
+     column can reach its full 58rem measure with both side columns in place. */
+  #main {
+    max-width: 1440px;
   }
 
   /* Visual centre: the text column is centred on the window, not on what is
-     left over beside the profile card. The right inset mirrors the left one
-     (sidebar span 16.95% + gutter 1.69% + the page column's 1.69% prefix, all
-     relative to #main), so the card and the rail flank the text evenly and
-     the rail's labels unfold into that mirrored space, never over the text. */
+     left over beside the profile card. The side columns are 15% of #main each
+     (the grid's 16.95% sidebar span, trimmed to give the text more room) and
+     the gap to the text is 2.1% on both sides, so both insets are 17.1% and
+     the text gets the remaining 65.8%. The page column is widened to start one
+     gap after the sidebar; its right inset is padding, and the rail column
+     (15% wide, flush right) therefore begins exactly one gap after the text. */
+  .sidebar {
+    width: 15%;
+  }
+
   .page {
-    padding-right: 20.33%;
+    width: 82.9%;
+    padding-right: 17.1%;
+    padding-left: 0;
+  }
+
+  /* The narrower card: keep the name on one line. */
+  .sidebar .author__name {
+    font-size: 1.16rem;
+  }
+
+  /* The theme caps the portrait at 175px and leaves it at the left, so on a
+     wide window (where the card is wider than that) it sat off-centre. Let it
+     span the card instead: equal margins on both sides at every width, and it
+     stays in line with the left-aligned name below it. */
+  .sidebar .author__avatar {
+    width: 100%;
+  }
+
+  .sidebar .author__avatar img {
+    display: block;
+    width: 100%;
+    max-width: none;
+    margin: 0 auto;
   }
 
   .page .page__inner-wrap {
@@ -609,7 +690,7 @@ html {
    ========================================================================== */
 
 .page .page__inner-wrap {
-  max-width: 58rem;
+  max-width: 62rem;
   padding: 0.4rem 0 3rem;
   overflow: visible;
   border: 0;

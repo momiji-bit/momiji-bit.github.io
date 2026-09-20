@@ -464,8 +464,7 @@
   function initRailProximity() {
     var list = document.querySelector("#site-nav .visible-links");
     var rail = window.matchMedia && window.matchMedia("(min-width: 925px)");
-    var reach = 78;
-    var zone = 130;
+    var zone = 240;
     var frame = null;
     var x = 0;
     var y = 0;
@@ -513,6 +512,8 @@
       }
 
       engaged = false;
+      list.classList.remove("is-tracking");
+      list.style.removeProperty("--rail-y");
       Array.prototype.forEach.call(links(), function (link) {
         link.style.removeProperty("--near");
         if (link.parentElement) {
@@ -530,7 +531,7 @@
       }
 
       var bounds = list.getBoundingClientRect();
-      var beside = x >= bounds.left - zone && y >= bounds.top - 36 && y <= bounds.bottom + 36;
+      var beside = x >= bounds.left - 48 && x <= bounds.left + zone && y >= bounds.top - 36 && y <= bounds.bottom + 36;
 
       if (!beside) {
         release();
@@ -539,21 +540,28 @@
 
       engaged = true;
 
-      /* Beads spread out with the card's height, so the falloff follows their
-         spacing: the neighbours of the nearest bead always lift part-way. */
-      var all = links();
-      var spacing = all.length > 1 ? all[1].getBoundingClientRect().top - all[0].getBoundingClientRect().top : reach;
-      var falloff = Math.max(reach, spacing * 1.7);
+      /* Searchlight: every name's strength is a smooth function of its bead's
+         distance from the pointer, so the light glides along the rail instead
+         of stepping from bead to bead. The beam is sized by the bead spacing:
+         a bead under the pointer is at full strength, its neighbours sit
+         around 0.45, and two beads away it has faded to nothing. */
+      var all = Array.prototype.slice.call(links());
+      var spacing = all.length > 1 ?
+        all[1].getBoundingClientRect().top - all[0].getBoundingClientRect().top : 80;
+      var beam = Math.max(spacing * 1.9, 60);
 
-      Array.prototype.forEach.call(all, function (link) {
+      list.classList.add("is-tracking");
+      list.style.setProperty("--rail-y", (y - bounds.top).toFixed(1) + "px");
+
+      all.forEach(function (link) {
         var box = link.getBoundingClientRect();
         var distance = Math.abs(y - (box.top + box.height / 2));
-        var near = Math.max(0, 1 - distance / falloff);
+        var near = Math.max(0, 1 - distance / beam);
 
         near = near * near * (3 - 2 * near);
-        link.style.setProperty("--near", Math.max(near, 0.2).toFixed(3));
+        link.style.setProperty("--near", near.toFixed(3));
         if (link.parentElement) {
-          link.parentElement.classList.toggle("is-near", near > 0.5);
+          link.parentElement.classList.toggle("is-near", near > 0.6);
         }
       });
     }
