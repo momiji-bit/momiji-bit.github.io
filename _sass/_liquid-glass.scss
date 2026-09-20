@@ -558,6 +558,20 @@ html {
     box-shadow: 0 0 0 1px var(--lg-gold), 0 0 12px rgba(217, 192, 138, 0.55);
   }
 
+  /* No box on the rail, ever: a chosen section is shown by its bead filling
+     in. Keyboard focus gets the same filled bead plus a wider halo, and its
+     name unfolds (see :focus-visible below), so focus is still visible. */
+  .greedy-nav .visible-links a,
+  .greedy-nav .visible-links a:focus,
+  .greedy-nav .visible-links a:focus-visible {
+    outline: 0;
+  }
+
+  .greedy-nav .visible-links a:focus-visible::after {
+    background: var(--lg-gold);
+    box-shadow: 0 0 0 1px var(--lg-gold), 0 0 0 4px rgba(217, 192, 138, 0.28);
+  }
+
   /* Label: plain text to the right of its bead. No chip, no backdrop: the rail
      is the only thing drawn. */
   .greedy-nav .nav-label {
@@ -825,6 +839,15 @@ html {
 .profile_box__visitor-map a:hover img {
   opacity: 0.95;
   filter: none;
+}
+
+/* The theme rings every focused link in orange (`a:focus`), which also fires
+   on a mouse click and leaves a box around whatever was just clicked. Keep a
+   focus indicator for the keyboard only. */
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible),
+summary:focus:not(:focus-visible) {
+  outline: 0;
 }
 
 a:focus-visible,

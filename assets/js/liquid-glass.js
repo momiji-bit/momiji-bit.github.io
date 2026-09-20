@@ -124,6 +124,7 @@
       }
     }
     var sections = [];
+    var chosen = null;
     var activeLink = null;
     var spyFrame = null;
     var placed = false;
@@ -194,7 +195,13 @@
       var current = sections[0];
       var atBottom = window.innerHeight + window.pageYOffset >= document.documentElement.scrollHeight - 4;
 
-      if (atBottom) {
+      if (chosen) {
+        /* A section picked from the navigation stays marked until the reader
+           scrolls for themselves. Short sections near the end of the page can
+           never reach the top of the window, so position alone would leave the
+           mark on a neighbour. */
+        current = chosen;
+      } else if (atBottom) {
         current = sections[sections.length - 1];
       } else {
         sections.forEach(function (section) {
@@ -223,6 +230,32 @@
         spyFrame = window.requestAnimationFrame(syncActiveSection);
       }
     }
+
+    /* On the document, in the capture phase: site-navigation.js handles these
+       clicks on the nav itself and stops them from propagating any further. */
+    document.addEventListener("click", function (event) {
+      var element = event.target;
+
+      while (element && element.tagName !== "A") {
+        element = element.parentElement;
+      }
+
+      sections.forEach(function (section) {
+        if (section.link === element) {
+          chosen = section;
+          requestSync();
+        }
+      });
+    }, true);
+
+    ["wheel", "touchmove", "keydown"].forEach(function (type) {
+      window.addEventListener(type, function () {
+        if (chosen) {
+          chosen = null;
+          requestSync();
+        }
+      }, { passive: true });
+    });
 
     window.addEventListener("scroll", requestSync, { passive: true });
     window.addEventListener("resize", function () {
