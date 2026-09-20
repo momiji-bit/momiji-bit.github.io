@@ -297,6 +297,7 @@ Ziwen Chen, Zhendong Wang, Chongjing Wang, Yurui Dong, Luozhijie Jin, **Jihao Gu
 - IEEE Transactions on Multimedia (**TMM**)
 - IEEE Transactions on Industrial Informatics (**TII**)
 - ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**)
+- Pattern Recognition (**PR**)
 - Engineering Applications of Artificial Intelligence (**EAAI**) ×4
 - Intelligent Data Analysis (**IDA**) ×2
 
