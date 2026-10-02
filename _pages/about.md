@@ -158,7 +158,7 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRML 2025</div><img src='images/VQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -169,7 +169,7 @@ Kun Li, **Jihao Gu**, Fei Wang, Zhiliang Wu, Hehe Fan, Dan Guo
 **Jihao Gu**
 
 </div>
-</div>
+</div> -->
 
 
 ## Preprint Papers
