@@ -22,9 +22,9 @@ redirect_from:
 
 # Bio
 
-Hi, I'm Geo, a first-year PhD student in Computer Science at University College London (UCL), supervised by Prof. [He Wang](https://profiles.ucl.ac.uk/93306-he-wang), and co-supervised by Prof. [Gabriel Brostow](https://profiles.ucl.ac.uk/6427-gabriel-brostow). I received an MSc in Computer Graphics, Vision and Imaging with Distinction from UCL, where I was a member of the [Computational Light Laboratory](https://complightlab.com/), led by Dr. [Kaan Akşit](https://www.kaanaksit.com/), Associate Professor.
+Hello, I'm Geo, a first-year PhD student in Computer Science at University College London (UCL), supervised by Prof [He Wang](https://profiles.ucl.ac.uk/93306-he-wang) and co-supervised by Prof [Gabriel Brostow](https://profiles.ucl.ac.uk/6427-gabriel-brostow). Before that, I completed an MSc in Computer Graphics, Vision and Imaging at UCL, graduating with Distinction, where I was a member of the [Computational Light Laboratory](https://complightlab.com/), led by Dr [Kaan Akşit](https://www.kaanaksit.com/), Associate Professor.
 
-My research interests include **memory mechanisms**, **sequence modelling**, **representation learning**, and **multimodal intelligence**.
+My research interests lie in **memory mechanisms**, **sequence modelling**, **representation learning** and **multimodal intelligence**.
 
 # News
 
