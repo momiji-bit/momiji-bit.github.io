@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jihao Gu (谷纪豪)"
   avatar           : "images/profile.png"
-  bio              : "Computer Vision"
+  bio              : "Vision & Learning"
   location         : "London, UK"
   employer         :
   company          : "GeoAtom"
