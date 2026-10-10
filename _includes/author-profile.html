@@ -118,6 +118,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+      {% if author.company_url %}
+        <li><a href="{{ author.company_url }}">{% if author.company_logo %}<img src="{{ author.company_logo }}" class="author__company-logo" alt="{{ author.company | default: "Company" }}">{% else %}<i class="fas fa-fw fa-building" aria-hidden="true"></i> {{ author.company | default: "Company" }}{% endif %}</a></li>
+      {% endif %}
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -212,6 +215,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.company_url %}
+        <a href="{{ author.company_url }}" title="{{ author.company | default: "Company" }}">{% if author.company_mark %}<img src="{{ author.company_mark }}" class="author__company-mark" alt="{{ author.company | default: "Company" }}">{% else %}<i class="fas fa-fw fa-building" aria-hidden="true"></i>{% endif %}</a>
       {% endif %}
     </div>
   </div>

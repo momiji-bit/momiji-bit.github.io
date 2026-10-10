@@ -807,6 +807,27 @@ html {
   color: inherit !important;
 }
 
+/* Company logo: its mark fills the icon column (fa-fw is 1.25em wide) and the
+   wordmark, drawn into the file, then lands where the other labels start. */
+.sidebar .author__company-logo {
+  width: auto;
+  height: 1.25em;
+  vertical-align: -0.22em;
+  opacity: 0.86;
+  transition: opacity 0.2s ease;
+}
+
+.author__urls a:hover .author__company-logo {
+  opacity: 1;
+}
+
+.sidebar .author__company-mark {
+  width: 1em;
+  height: 1em;
+  margin: 0 0.125em;
+  vertical-align: -0.125em;
+}
+
 /* Visitor map: pinned open beside the desktop profile (liquid-glass.js adds
    .is-pinned there); on narrower screens it folds into a "Visitors" disclosure
    so a full-width map does not take over the profile card. */

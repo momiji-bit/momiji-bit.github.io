@@ -26,6 +26,10 @@ author:
   bio              : "Computer Vision"
   location         : "London, UK"
   employer         :
+  company          : "GeoAtom"
+  company_url      : "https://geoatom.github.io/"
+  company_logo     : "images/geoatom-logo-light.svg"   # mark + wordmark, desktop sidebar
+  company_mark     : "images/geoatom-mark-light.svg"   # mark only, mobile icon row
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fSWwq3AAAAAJ"
   email            : "jihao.gu.23@ucl.ac.uk"
