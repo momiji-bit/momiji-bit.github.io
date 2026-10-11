@@ -828,6 +828,20 @@ html {
   vertical-align: -0.125em;
 }
 
+/* Icons the bundled Font Awesome 5.5 has no glyph for (X) are drawn inline and
+   sized to sit in the same fa-fw column, in the same ink, as the font icons. */
+.author__icon-svg {
+  display: inline-block;
+  width: 1.25em;
+  height: 0.9em;
+  vertical-align: -0.08em;
+  fill: currentColor;
+}
+
+.author__urls .author__icon-svg {
+  opacity: 0.62;
+}
+
 /* Visitor map: pinned open beside the desktop profile (liquid-glass.js adds
    .is-pinned there); on narrower screens it folds into a "Visitors" disclosure
    so a full-width map does not take over the profile card. */
